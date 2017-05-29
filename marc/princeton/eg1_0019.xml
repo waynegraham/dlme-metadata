@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<marc:record xmlns:marc="http://www.loc.gov/MARC21/slim"><marc:leader>     nkm  22     uu 4500</marc:leader><marc:controlfield tag="001">http://diglib.princeton.edu/mdata/pudl0100/posters/eg1_0019.mods</marc:controlfield><marc:controlfield tag="008">|           |||||||||||||||||ara||</marc:controlfield><marc:datafield tag="040" ind1=" " ind2=" "><marc:subfield code="a">NjP</marc:subfield></marc:datafield>
+   <marc:datafield tag="245" ind1="1" ind2="0"><marc:subfield code="a">ابو كرتونة</marc:subfield></marc:datafield>
+   <marc:datafield tag="720" ind1=" " ind2=" "><marc:subfield code="a">محمود عبد العزيز</marc:subfield></marc:datafield>
+   <marc:datafield tag="720" ind1=" " ind2=" "><marc:subfield code="a">سماح النور</marc:subfield></marc:datafield>
+   <marc:datafield tag="720" ind1=" " ind2=" "><marc:subfield code="a">محمد حسيب</marc:subfield></marc:datafield>
+
+   <marc:datafield tag="655" ind1=" " ind2="7"><marc:subfield code="a">Posters</marc:subfield><marc:subfield code="2">aat</marc:subfield></marc:datafield>
+   <marc:datafield tag="046" ind1=" " ind2=" "><marc:subfield code="k">1990</marc:subfield></marc:datafield><marc:datafield tag="260" ind1=" " ind2=" "><marc:subfield code="a">Egypt</marc:subfield><marc:subfield code="g">1990</marc:subfield></marc:datafield>
+
+
+      <marc:datafield tag="300" ind1=" " ind2=" "><marc:subfield code="a">1 piece.</marc:subfield></marc:datafield>
+
+   <marc:datafield tag="773" ind1="0" ind2=" "><marc:subfield code="t">Middle Eastern Film Posters Digitization Initiative</marc:subfield></marc:datafield>
+
+   <marc:datafield tag="852" ind1=" " ind2=" "><marc:subfield code="a">Princeton University Library. Firestone Library.</marc:subfield></marc:datafield><marc:datafield tag="852" ind1=" " ind2=" "><marc:subfield code="a">NjP</marc:subfield></marc:datafield>
+   <marc:datafield tag="540" ind1=" " ind2=" "><marc:subfield code="a">Use and reproduction</marc:subfield></marc:datafield>
+   <marc:datafield tag="506" ind1=" " ind2=" "><marc:subfield code="a">Restrictions on access</marc:subfield></marc:datafield>
+
+</marc:record>
