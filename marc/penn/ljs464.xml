@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<marc:record xmlns:marc="http://www.loc.gov/MARC21/slim">
+    <marc:datafield tag="245" ind1="1" ind2="0"><marc:subfield code="a">Description of University of Pennsylvania LJS 464: Taḥṣīl al-mūna fī sharḥ Talkhīṣ Ibn al-Bannāʼ</marc:subfield></marc:datafield>
+    
+      
+        
+          Algebra--Early works to 1800
+          Mathematics, Arab--Early works to 1800
+        
+        
+          Codices
+          Commentaries
+          Tables (documents)
+          Manuscripts, Arabic--15th century
+          Manuscripts, Medieval
+          Manuscripts, Renaissance
+        
+      
+    
+  </marc:record>

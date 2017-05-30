@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<marc:record xmlns:marc="http://www.loc.gov/MARC21/slim">
+    <marc:datafield tag="245" ind1="1" ind2="0"><marc:subfield code="a">Description of University of Pennsylvania LJS 399: Inbāṭ al-miyāh al-khafīyah</marc:subfield></marc:datafield>
+    
+      
+        
+          Groundwater--Early works to 1800
+          Hydraulic structures--Early works to 1800
+        
+        
+          Codices
+          Treatises
+          Diagrams
+          Manuscripts, Digital
+          Manuscripts, Arabic--17th century
+        
+      
+    
+  </marc:record>

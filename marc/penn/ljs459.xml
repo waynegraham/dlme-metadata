@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<marc:record xmlns:marc="http://www.loc.gov/MARC21/slim">
+    <marc:datafield tag="245" ind1="1" ind2="0"><marc:subfield code="a">Description of University of Pennsylvania LJS 459: Sirr al-asrār</marc:subfield></marc:datafield>
+    
+      
+        
+          Education of princes--Early works to 1800
+          Kings and rulers--Duties--Early works to 1800
+          Political ethics--Early works to 1800
+          Astronomy--Early works to 1800
+          Islamic magic--Early works to 1800
+        
+        
+          Codices
+          Illuminations
+          Tables (documents)
+          Treatises
+          Manuscripts, Arabic--12th century
+          Manuscripts, Arabic--13th century
+          Manuscripts, Medieval
+        
+      
+    
+  </marc:record>

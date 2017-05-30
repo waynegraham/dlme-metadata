@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<marc:record xmlns:marc="http://www.loc.gov/MARC21/slim">
+    <marc:datafield tag="245" ind1="1" ind2="0"><marc:subfield code="a">Description of University of Pennsylvania LJS 426: al-Kullīyāt</marc:subfield></marc:datafield>
+    
+      
+        
+          Medicine--Early works to 1800
+          Medicine, Arab
+          Medicine, Medieval
+        
+        
+          Codices
+          Annotations
+          Treatises
+          Manuscripts, Arabic--14th century
+          Manuscripts, Medieval
+          Manuscripts, Renaissance
+        
+      
+    
+  </marc:record>

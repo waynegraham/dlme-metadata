@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<marc:record xmlns:marc="http://www.loc.gov/MARC21/slim">
+    <marc:datafield tag="245" ind1="1" ind2="0"><marc:subfield code="a">Description of University of Pennsylvania LJS 436: Ḍawʼ al-sirāj</marc:subfield></marc:datafield>
+    
+      
+        
+          Mathematics, Arab--Early works to 1800
+          Inheritance and succession (Islamic law)--Early works to 1800
+        
+        
+          Codices
+          Commentaries
+          Diagrams
+          Manuals (instructional materials)
+          Tables (documents)
+          Manuscripts, Arabic--14th century
+          Manuscripts, Medieval
+        
+      
+    
+  </marc:record>

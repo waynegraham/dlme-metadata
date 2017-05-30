@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<marc:record xmlns:marc="http://www.loc.gov/MARC21/slim">
+    <marc:datafield tag="245" ind1="1" ind2="0"><marc:subfield code="a">Description of University of Pennsylvania LJS 441: Kitāb al-Miṣbāḥ wa-nuzʹhat al-arwāḥ fī ʻilm al-miftāḥ fī al-ḥikmah al-Ilāhīyah wa-al-ṣināʻah al-falsafīyah wa al-nātijah al-ʻalīyah ... etc.</marc:subfield></marc:datafield>
+    
+      
+        
+          Alchemy--Early works to 1800
+        
+        
+          Codices
+          Diagrams
+          Drawings
+          Treatises
+          Manuscripts, Arabic--16th century
+          Manuscripts, Renaissance
+        
+      
+    
+  </marc:record>

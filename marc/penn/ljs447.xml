@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<marc:record xmlns:marc="http://www.loc.gov/MARC21/slim">
+    <marc:datafield tag="245" ind1="1" ind2="0"><marc:subfield code="a">Description of University of Pennsylvania LJS 447: Volumes 20-22 of Masālik al-abṣār fī mamālik al-amṣār</marc:subfield></marc:datafield>
+    
+      
+        
+          Botany--Pictorial works--Early works to 1800
+          Zoology--Pictorial works--Early works to 1800
+          Botany--Pre-Linnean works
+          Zoology--Pre-Linnean works
+        
+        
+          Codices
+          Herbals
+          Watercolors
+          Manuscripts, Arabic--18th century
+          Manuscripts, Renaissance
+        
+      
+    
+  </marc:record>

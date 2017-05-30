@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<marc:record xmlns:marc="http://www.loc.gov/MARC21/slim">
+    <marc:datafield tag="245" ind1="1" ind2="0"><marc:subfield code="a">Description of University of Pennsylvania LJS 196: Leaves from illuminated Persian manuscripts</marc:subfield></marc:datafield>
+    
+      
+        
+          Illumination of books and manuscripts, Iranian
+          Musicians in art
+        
+        
+          Fragments
+          Illuminations
+          Manuscripts, Persian--17th century
+          Manuscripts, Persian--18th century
+          Manuscripts, Digital
+        
+      
+    
+  </marc:record>

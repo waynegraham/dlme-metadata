@@ -6,8 +6,54 @@ require 'colorize'
 require 'nokogiri'
 
 task default: %w[all]
-
 task :all => %W[import:penn:all import:princeton:mods]
+
+def setup
+  folders = %W(penn princeton johns_hopkins stanford)
+  folders.each do |folder|
+    FileUtils.mkdir_p "marc/#{folder}"
+  end
+end
+
+def clean
+  FileUtils.rm_rf('marc')
+  FileUtils.rm_rf('penn/schoenberg')
+end
+
+namespace :cache do
+  task :all => %W[penn:schoenberg]
+
+  namespace :penn do
+
+    desc "Create a cache of Schoenburg papers"
+    task :schoenberg do
+      output_path = 'penn/schoenberg'
+      FileUtils.mkdir_p output_path
+
+      # http://openn.library.upenn.edu/Data/0001/html/ljs189.html
+      # http://openn.library.upenn.edu/Data/0001/ljs189/data/ljs189_TEI.xml # metadata
+      # http://openn.library.upenn.edu/Data/0001/ljs189/ # data
+
+      ids = %W(189 196 235 286 293 294 295 296 299 311 312 322 37 38 387 388 398 399 40 400 403 404 405 407 408 409 410 412 414 417 425 426 427 434 435 436 441 444 447 45 455 456 459 460 464 467 469 486 489 49 495)
+      # Jewish wars? 36
+      # Yesod ʻolam (Spain or Italy, ca. 1460) 476
+      # Perush sefer ha-yesodot shel Uklids (Italy?, between 1650 and 1750?) 491
+      # Marʼeh ha-ofanim ... etc. (Italy, between 1425 and 1450) 494
+      # Tsurat ha-arets 498
+
+      ids.each do |id|
+        url = "http://openn.library.upenn.edu/Data/0001/ljs#{id}/data/ljs#{id}_TEI.xml"
+        puts "Fetching #{url}"
+        document = Nokogiri::XML(open(url))
+
+        puts "Writing #{output_path}/ljs#{id}.xml file"
+        File.open("#{output_path}/ljs#{id}.xml", 'w') { |file| file.write(document) }
+      end
+
+    end
+  end
+
+end
 
 namespace :import do
 
@@ -20,28 +66,23 @@ namespace :import do
     end
 
     task :schoenberg do
+      setup
 
       puts "Schoenberg papers will need massaging to work to get into a format that can be used by DLME"
-      template = Nokogiri::XSLT(File.read('xslt/MODS3-4_MARC21slim_XSLT1-0.xsl'))
       # See http://www.tei-c.org/SIG/Libraries/teiinlibraries/main-driver.html#index.xml-body.1_div.4_div.1_div.6
+      template = Nokogiri::XSLT(File.read('xslt/penn_tei_2_marcxml.xsl'))
+      output_path = 'marc/penn' # TODO clean up so not every task gets this set
 
-      # http://openn.library.upenn.edu/Data/0001/html/ljs189.html
-      # http://openn.library.upenn.edu/Data/0001/ljs189/data/ljs189_TEI.xml # metadata
-      # http://openn.library.upenn.edu/Data/0001/ljs189/ # data
+      Dir.glob("penn/schoenberg/*.xml").each do |file|
+        filename = File.basename(file, '.xml')
+        puts "Transforming #{file} from TEI to XML"
 
-      ids = %W(189 196 235 286 293 294 295 296 299 311 312 322 37 38 387 388 398 399 40 400 403 404 405 407 408 409 410 412 414 417 425 426 427 434 435 436 441 444 447 45 455 456 459 460 464 467 469 486 489 49 495)
+        document = Nokogiri::XML(File.read(file))
+        transformed = template.transform(document)
 
-      ids.each do |id|
-        url = "http://openn.library.upenn.edu/Data/0001/ljs#{id}/data/ljs#{id}_TEI.xml"
-        puts "Fetching #{url}"
-        document = Nokogiri::HTML(open("http://en.wikipedia.org/"))
+        puts "Writing #{output_path}/#{filename}.xml file"
+        File.open("#{output_path}/#{filename}.xml", 'w') { |file| file.write(transformed) }
       end
-      # Jewish wars? 36
-      # Yesod ʻolam (Spain or Italy, ca. 1460) 476
-      # Perush sefer ha-yesodot shel Uklids (Italy?, between 1650 and 1750?) 491
-      # Marʼeh ha-ofanim ... etc. (Italy, between 1425 and 1450) 494
-      # Tsurat ha-arets 498
-
     end
 
     desc "Convert Galen Syriac Palimpsest"

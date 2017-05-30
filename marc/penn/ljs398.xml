@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<marc:record xmlns:marc="http://www.loc.gov/MARC21/slim">
+    <marc:datafield tag="245" ind1="1" ind2="0"><marc:subfield code="a">Description of University of Pennsylvania LJS 398: Khalq al-insān</marc:subfield></marc:datafield>
+    
+      
+        
+          Medicine--Early works to 1800
+          Medicine, Arab
+          Reproduction--Early works to 1800
+          Soul--Early works to 1800
+        
+        
+          Codices
+          Treatises
+          Manuscripts, Arabic--13th century
+          Manuscripts, Medieval
+        
+      
+    
+  </marc:record>

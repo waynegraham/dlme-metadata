@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<marc:record xmlns:marc="http://www.loc.gov/MARC21/slim">
+    <marc:datafield tag="245" ind1="1" ind2="0"><marc:subfield code="a">Description of University of Pennsylvania LJS 295: Risālah al-sharafīyah fī al-nisab al-taʼlīfīyah</marc:subfield></marc:datafield>
+    
+      
+        
+          Music--Early works to 1800
+          Music theory--Arab countries--Early works to 1800
+        
+        
+          Codices
+          Commentaries
+          Diagrams
+          Treatises
+          Manuscripts, Persian--15th century
+          Manuscripts, Renaissance
+        
+      
+    
+  </marc:record>
