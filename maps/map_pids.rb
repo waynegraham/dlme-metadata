@@ -69,8 +69,8 @@ CSV.foreach('../maps/map-layer-ids.csv') do |row|
     suffix.upcase!
     suffix.prepend('HARVARD.SDE2.')
 
-    path = "edu.harvard/#{harvard_layers[suffix]}/fgdc.xml" if harvard_layers[suffix]
-    puts path
+    path = "#{FileUtils.pwd}/edu.harvard/#{harvard_layers[suffix]}/fgdc.xml" if harvard_layers[suffix]
+    FileUtils.cp(path, "../maps/records/#{suffix}.fgdc.xml") if harvard_layers[suffix]
   end
 
   if(prefix == 'stanford')
