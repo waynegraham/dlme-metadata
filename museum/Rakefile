@@ -1,0 +1,43 @@
+require 'csv'
+require 'fileutils'
+require 'open-uri'
+
+require 'colorize'
+require 'mechanize'
+
+task default: %w[all]
+
+task :all => %w[import:met]
+
+def setup
+  @agent = Mechanize.new
+  FileUtils.mkdir_p 'records'
+end
+
+def cleanup
+  FileUtils.rm_rf 'records'
+end
+
+def cache_remote(link)
+  f = File.basename(URI.parse(link).path)
+  unless File.file? f
+    puts "Downloading file".yellow
+    @agent.get(link).save
+  else
+    puts "File exits".blue
+  end
+end
+
+namespace :import do
+
+  task :met do
+    # setup
+    # cache_remote('https://github.com/metmuseum/openaccess/blob/master/MetObjects.csv?raw=true')
+    #
+    # # crawl the search results
+    # url = 'http://www.metmuseum.org/art/collection#!?department=3&showOnly=openaccess&perPage=100&sortBy=Relevance&sortOrder=asc&offset=0&pageSize=0'
+    puts "Read the README.md file. Met Museum objects filtered out in SQL.".yellow
+
+
+  end
+end
