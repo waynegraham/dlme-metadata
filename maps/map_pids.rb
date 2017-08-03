@@ -64,8 +64,10 @@ stanford_layers  = JSON.parse(File.read('edu.stanford.purl/layers.json'))
 
 def cache_remote(link)
   f = File.basename(URI.parse(link).path)
+  FileUtils.cd('/Users/waynegraham/projects/dlme-metadata/maps/records/stanford', :verbose => true)
+
   unless File.file? f
-    puts "Downloading file #{link}".yellow
+    puts "Downloading file #{link} to ".yellow
     @a.get(link).save
   else
     puts "File exits (#{link})".green
@@ -88,8 +90,7 @@ CSV.foreach('../maps/map-layer-ids.csv') do |row|
   if(prefix == 'stanford')
     suffix.prepend('https://purl.stanford.edu/')
     suffix += '.mods'
-    FileUtils.mkdir_p('records/stanford')
-    FileUtils.cd('records/stanford')
+
     cache_remote(suffix)
   end
 
