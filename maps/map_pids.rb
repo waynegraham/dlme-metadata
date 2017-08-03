@@ -1,7 +1,9 @@
 require 'csv'
 require 'fileutils'
 require 'json'
+require 'open-uri'
 
+require 'colorize'
 require 'mechanize'
 
 urls = %w(
@@ -60,6 +62,16 @@ harvard_layers   = JSON.parse(File.read('edu.harvard/layers.json'))
 princeton_layers = JSON.parse(File.read('edu.princeton.arks/layers.json'))
 stanford_layers  = JSON.parse(File.read('edu.stanford.purl/layers.json'))
 
+def cache_remote(link)
+  f = File.basename(URI.parse(link).path)
+  unless File.file? f
+    puts "Downloading file #{link}".yellow
+    @a.get(link).save
+  else
+    puts "File exits (#{link})".green
+  end
+end
+
 CSV.foreach('../maps/map-layer-ids.csv') do |row|
   prefix = row.first.split('-')[0]
   suffix = row.first.sub("#{prefix}-",'')
@@ -69,14 +81,16 @@ CSV.foreach('../maps/map-layer-ids.csv') do |row|
     suffix.upcase!
     suffix.prepend('HARVARD.SDE2.')
 
-    path = "#{FileUtils.pwd}/edu.harvard/#{harvard_layers[suffix]}/fgdc.xml" if harvard_layers[suffix]
-    FileUtils.cp(path, "../maps/records/#{suffix}.fgdc.xml") if harvard_layers[suffix]
+    # path = "#{FileUtils.pwd}/edu.harvard/#{harvard_layers[suffix]}/fgdc.xml" if harvard_layers[suffix]
+    # FileUtils.cp(path, "../maps/records/harvard/#{suffix}.fgdc.xml") if harvard_layers[suffix]
   end
 
   if(prefix == 'stanford')
-    # these records aren't in the repo
-    suffix.prepend('druid:')
-    puts suffix
+    suffix.prepend('https://purl.stanford.edu/')
+    suffix += '.mods'
+    FileUtils.mkdir_p('records/stanford')
+    FileUtils.cd('records/stanford')
+    cache_remote(suffix)
   end
 
 end
