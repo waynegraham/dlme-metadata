@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen SCHSchema="http://library.princeton.edu/departments/tsd/metadoc/main/mods.sch"?>
+<mods:mods xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-4.xsd" version="3.4">
+   <mods:titleInfo script="Arab" lang="ara">
+      <mods:title>لعبة الشيطان</mods:title>
+   </mods:titleInfo>
+   <mods:name authority="local" type="personal" script="Arab" lang="ara">
+      <mods:namePart type="family">زهير الشوا</mods:namePart>
+      <mods:role>
+         <mods:roleTerm type="code" authority="marcrelator">act</mods:roleTerm>
+      </mods:role>
+   </mods:name>
+   <mods:name authority="local" type="personal" script="Arab" lang="ara">
+      <mods:namePart type="family">اميرة ابراهيم</mods:namePart>
+      <mods:role>
+         <mods:roleTerm type="code" authority="marcrelator">act</mods:roleTerm>
+      </mods:role>
+   </mods:name>
+   <mods:name authority="local" type="personal" script="Arab" lang="ara">
+      <mods:namePart type="family">نجوى صدقي</mods:namePart>
+      <mods:role>
+         <mods:roleTerm type="code" authority="marcrelator">act</mods:roleTerm>
+      </mods:role>
+   </mods:name>
+   <mods:name authority="local" type="personal" script="Arab" lang="ara">
+      <mods:namePart type="family">زهير الشوا</mods:namePart>
+      <mods:role>
+         <mods:roleTerm type="code" authority="marcrelator">drt</mods:roleTerm>
+      </mods:role>
+   </mods:name>
+   <mods:typeOfResource>still image</mods:typeOfResource>
+   <mods:genre authority="aat">Lobby Cards</mods:genre>
+   <mods:originInfo>
+      <mods:place>
+         <mods:placeTerm type="text">Syria</mods:placeTerm>
+      </mods:place>
+   </mods:originInfo>
+   <mods:language>
+      <mods:languageTerm type="code" authority="iso639-2b">ara</mods:languageTerm>
+   </mods:language>
+   <mods:physicalDescription>
+      <mods:extent>4 pieces ; approximately 50 x 37 cm.</mods:extent>
+   </mods:physicalDescription>
+   <mods:relatedItem type="host">
+      <mods:typeOfResource>still image</mods:typeOfResource>
+      <mods:titleInfo>
+         <mods:title>Middle Eastern Film Posters Digitization Initiative</mods:title>
+      </mods:titleInfo>
+      <mods:location>
+         <mods:url>http://pudl.princeton.edu/collections/pudl0100</mods:url>
+      </mods:location>
+   </mods:relatedItem>
+   <mods:relatedItem type="host">
+      <mods:typeOfResource manuscript="yes" collection="yes">still image</mods:typeOfResource>
+      <mods:location>
+         <mods:url>http://arks.princeton.edu/ark:/</mods:url>
+      </mods:location>
+   </mods:relatedItem>
+   <mods:identifier type="local">sy1-0098</mods:identifier>
+   <mods:accessCondition type="useAndReproduction" xlink:href="http://www.princeton.edu/~rbsc/research/rights.html">Use and reproduction</mods:accessCondition>
+   <mods:accessCondition type="restrictionOnAccess" xlink:href="http://www.princeton.edu/~rbsc/research/rules.html">Restrictions on access</mods:accessCondition>  
+   <mods:recordInfo>
+      <mods:recordContentSource authority="marcorg">NjP</mods:recordContentSource>
+      <mods:recordIdentifier>http://diglib.princeton.edu/mdata/pudl0100/lc/sy1_0098.mods</mods:recordIdentifier>
+      <mods:languageOfCataloging>
+         <mods:languageTerm authority="iso639-2b" type="code">ara</mods:languageTerm>
+      </mods:languageOfCataloging>
+   </mods:recordInfo>
+</mods:mods>
