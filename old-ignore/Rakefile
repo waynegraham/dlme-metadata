@@ -55,6 +55,14 @@ namespace :cache do
 
 end
 
+
+Liked
+Learned
+Lacked
+Longed for
+
+
+
 namespace :import do
 
   namespace :penn do
