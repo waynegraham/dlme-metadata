@@ -19,6 +19,7 @@ GEM
       mime-types-data (~> 3.2015)
     mime-types-data (3.2016.0521)
     mini_portile2 (2.1.0)
+    mysql2 (0.4.5)
     net-http-digest_auth (1.4.1)
     net-http-persistent (2.9.4)
     nokogiri (1.7.2)
@@ -35,6 +36,7 @@ PLATFORMS
 DEPENDENCIES
   colorize
   mechanize
+  mysql2
   nokogiri
 
 BUNDLED WITH
