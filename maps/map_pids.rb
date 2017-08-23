@@ -6,13 +6,14 @@ require 'open-uri'
 require 'colorize'
 require 'mechanize'
 
-urls = %w(
-https://earthworks.stanford.edu/?bbox=28.959961+20.715015+47.592773+38.891033&per_page=100
-https://earthworks.stanford.edu/?bbox=28.959961+20.715015+47.592773+38.891033&page=2&per_page=100
-https://earthworks.stanford.edu/?bbox=28.959961+20.715015+47.592773+38.891033&page=3&per_page=100
-https://earthworks.stanford.edu/?bbox=28.959961+20.715015+47.592773+38.891033&page=4&per_page=100
-https://earthworks.stanford.edu/?bbox=28.959961+20.715015+47.592773+38.891033&page=5&per_page=100
+harvard = %w(
+  https://earthworks.stanford.edu/catalog?f%5Bdct_provenance_s%5D%5B%5D=Harvard&f%5Blayer_geom_type_s%5D%5B%5D=Raster&per_page=100&bbox=46.400757%2042.269179%2048.729858%2044.190082
 )
+
+stanford = %w(
+  https://earthworks.stanford.edu/?bbox=46.400757+42.269179+48.729858+44.190082&f%5Bdct_provenance_s%5D%5B%5D=Stanford&f%5Blayer_geom_type_s%5D%5B%5D=Raster&per_page=100
+)
+
 
 @include_prefix = %w(
   harvard
