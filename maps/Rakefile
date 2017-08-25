@@ -83,6 +83,7 @@ namespace :import do
         https://earthworks.stanford.edu/catalog?f%5Bdct_provenance_s%5D%5B%5D=Stanford&f%5Blayer_geom_type_s%5D%5B%5D=Raster&per_page=100&bbox=17.314453%2021.125498%2054.580078%2053.644638
       )
 
+      ignore_pids = CSV.read('stanford_ignore.csv')
       search_urls.each do |url|
         puts "Crawling Stanford URLs #{url}".green
         crawl_url url
@@ -96,6 +97,16 @@ namespace :import do
           cache_remote suffix
         end
 
+      end
+    end
+
+    task :cleanup_stanford do
+      ignore_pids = CSV.read('./stanford_ignore.csv')
+
+      ignore_pids.each do |pid|
+        filepath = "records/stanford/#{pid.first}.mods"
+        command = "git rm #{filepath}"
+        puts `#{command}`
       end
     end
   end
