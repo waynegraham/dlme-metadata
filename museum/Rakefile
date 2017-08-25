@@ -24,7 +24,7 @@ def cache_remote(link)
     puts "Downloading file".yellow
     @agent.get(link).save
   else
-    puts "File exits".blue
+    puts "File exits. Skipping".blue
   end
 end
 
@@ -37,7 +37,25 @@ namespace :import do
     # # crawl the search results
     # url = 'http://www.metmuseum.org/art/collection#!?department=3&showOnly=openaccess&perPage=100&sortBy=Relevance&sortOrder=asc&offset=0&pageSize=0'
     puts "Read the README.md file. Met Museum objects filtered out in SQL.".yellow
+  end
 
+  task :download_penn do
+    datasets = %w(egyptian-csv-latest near-eastern-csv-latest)
+    setup
 
+    datasets.each do |data|
+        puts "Downloading #{data} Dataset".green
+        cache_remote("http://www.penn.museum/collections/assets/data/#{data}.zip")
+        `unzip #{data}.zip`
+    end
+
+  end
+
+  task :test_csv do
+    # egyptian = CSV.read('./records/egyptian-20170820.csv')
+
+    Dir.glob('./egyptian-20170820.csv').each do |file|
+      file = CSV.read(file)
+    end
   end
 end
