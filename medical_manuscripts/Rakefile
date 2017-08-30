@@ -1,0 +1,76 @@
+require 'csv'
+
+namespace :import do
+
+  namespace :yale do
+
+    data_sets = [
+      './Arabic_and_Persian_Medical_Books_and_Manuscripts_P32_Yale_17_8_20.csv'
+    ]
+
+    def setup(path)
+      @data ||= CSV.read(path, headers: true)
+    end
+
+    setup(data_sets[0])
+
+    task :headers do
+      setup(data_sets[0])
+      puts @data.headers
+    end
+
+    def count_field(field)
+      # puts field
+      @headers[field] += 1 unless @headers[field].nil?
+    end
+
+    def calculate_percentage(value)
+      '%4s' % (value / @total_records * 100).to_i
+    end
+
+    def longest_hash_key(hash)
+      key = hash.max_by{ |k, v| k.length }
+      key[0].length
+    end
+
+    def bar(value)
+      count = value.to_i / 4
+      output = ''
+      (1..count).each do
+        output += '='
+      end
+      '%-25s' % output
+    end
+
+    def pad_key(key, width)
+      "%#{width}s" % key
+    end
+
+    task :header_stats do
+      @headers = Hash[@data.headers.map {|key, value| [key, 0]}]
+      @total_records = @data.length.to_f
+      key_width = longest_hash_key(@headers)
+
+
+      @data.each do |row|
+        row.each do |cell|
+          count_field(cell[0]) unless cell[1].nil?
+        end
+      end
+
+      @headers.each do |key,value|
+        puts "#{pad_key(key, key_width)}|#{bar(value)}| #{'%3s' % value}/#{@total_records.to_i} | #{calculate_percentage(value)}%"
+      end
+
+    end
+
+  end
+
+  task :test do
+    Dir.glob('./*.csv').each do |file|
+      CSV.foreach(file) do |row|
+        puts row
+      end
+    end
+  end
+end
