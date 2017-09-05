@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mets:mets xsi:schemaLocation="http://www.loc.gov/METS/ http://www.loc.gov/standards/mets/mets.xsd info:lc/xmlns/premis-v2
+http://www.loc.gov/standards/premis/premis.xsd" OBJID="r207tq69m" TYPE="DigitalObject" xmlns:mets="http://www.loc.gov/METS/"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+xmlns:premis="info:lc/xmlns/premis-v2" xmlns:dcterms="http://purl.org/dc/terms/">
+   <mets:metsHdr ADMID="this.mets.amd">
+      <mets:agent ROLE="CREATOR" TYPE="ORGANIZATION">
+         <mets:name>Princeton University Library, Digital Initiatives</mets:name>
+      </mets:agent>
+      <mets:altRecordID TYPE="pudl.record.uri">http://diglib.princeton.edu/mdata/pudl0100/posters/eg1_0045.mets</mets:altRecordID>
+   </mets:metsHdr>
+   <mets:dmdSec ID="object.labels">
+      <mets:mdWrap MDTYPE="DC">
+         <mets:xmlData>
+            <rdf:RDF>
+               <rdf:Description>
+                  <dcterms:title rdf:parseType="Resource">
+                     <rdf:value>اذكريني ---</rdf:value>
+                     <dcterms:type>title proper</dcterms:type>
+                  </dcterms:title>
+               </rdf:Description>
+            </rdf:RDF>
+         </mets:xmlData>
+      </mets:mdWrap>
+   </mets:dmdSec>
+   <mets:dmdSec ID="object.dmd">
+      <mets:mdRef LOCTYPE="URL" MDTYPE="MODS" xlink:href="http://diglib.princeton.edu/mdata/pudl0100/posters/eg1_0045.mods"/>
+   </mets:dmdSec>
+   <mets:amdSec ID="this.mets.amd">
+      <mets:digiprovMD ID="this.mets.events">
+         <mets:mdWrap MDTYPE="PREMIS:EVENT">
+            <mets:xmlData>
+               <premis:event xmlID="tme-1">
+                  <premis:eventIdentifier>
+                     <premis:eventIdentifierType>URN</premis:eventIdentifierType>
+                     <premis:eventIdentifierValue>urn:uuid:f36a3512-cb53-4e88-92c3-9a2bd55a1816</premis:eventIdentifierValue>
+                  </premis:eventIdentifier>
+                  <premis:eventType>INITIAL_METS_CREATION</premis:eventType>
+                  <premis:eventDateTime>2013-11-08T10:36:24</premis:eventDateTime>
+                  <premis:eventDetail>Creation of this METS/PREMIS record</premis:eventDetail>
+               </premis:event>
+            </mets:xmlData>
+         </mets:mdWrap>
+      </mets:digiprovMD>
+   </mets:amdSec>
+   <mets:fileSec>
+      <mets:fileGrp ID="icon">
+         <mets:file ID="im1" USE="master" MIMETYPE="image/tiff">
+            <mets:FLocat LOCTYPE="URL" xlink:href="http://diglib.princeton.edu/images/master/pudl0100/posters/eg1_0045/00000001.tif"/>
+         </mets:file>
+         <mets:file ID="id1" USE="deliverable" MIMETYPE="image/jpx">
+            <mets:FLocat LOCTYPE="URL" xlink:href="http://diglib.princeton.edu/images/deliverable/pudl0100/posters/eg1_0045/00000001.jp2"/>
+         </mets:file>
+      </mets:fileGrp>
+   </mets:fileSec>
+   <mets:structMap ID="default" TYPE="RelatedObjects">
+      <mets:div LABEL="Default" DMDID="object.dmd">
+         <mets:div ID="isAggregatedBy" TYPE="UnorderedList">
+            <mets:div>
+               <mets:mptr LOCTYPE="URL" xlink:href="http://diglib.princeton.edu/mdata/pudl0100.ead"/>
+            </mets:div>
+         </mets:div>
+         <mets:div ID="aggregates" TYPE="OrderedList">
+            <mets:div LABEL="image 1" TYPE="Static" ORDER="1">
+               <mets:mptr LOCTYPE="URL" xlink:href="http://diglib.princeton.edu/images/pudl0100/posters/eg1_0045/00000001.mets"/>
+            </mets:div>
+         </mets:div>
+      </mets:div>
+   </mets:structMap>
+</mets:mets>
