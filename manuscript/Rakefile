@@ -1,5 +1,7 @@
 require 'csv'
+require 'digest'
 require 'fileutils'
+require 'json'
 require 'open-uri'
 
 require 'colorize'
@@ -10,6 +12,81 @@ task default: %w[all]
 task :all => %w[import:openn]
 
 namespace :import do
+
+  namespace :princeton do
+    task all: %w[import:princeton:islamicmss import:princeton:ymdi]
+
+    desc 'Parse the JSON files to ensure they are valid'
+    task :parse_json do
+      files = Dir.glob('princeton_*.txt')
+
+      errors = []
+
+      files.each do |file|
+        cache_path = "records/princeton/#{File.basename(file, '.txt')}"
+
+        Dir.glob("#{cache_path}/*.json").each do |json|
+          puts "Reading #{json}".green
+
+          begin
+            json_file = JSON.parse(File.read(json))
+          rescue
+            puts "\tError parsing #{json}".red
+            errors << json
+          end
+
+        end
+      end
+
+      puts "\nFiles with errors:\n"
+      puts errors
+      puts "\nRemoving files:\n"
+
+      errors.each do |file|
+        FileUtils.rm(file)
+      end
+
+      puts "Make sure you run the import scripts again to redownload missing files".colorize(color: :white, background: :red).underline
+    end
+
+    def process_ark_file(file)
+      prefix = 'https://plum.princeton.edu/iiif/lookup/'
+      path =  "records/princeton/#{File.basename(file, '.txt')}"
+      FileUtils.mkdir_p(path)
+
+      file = CSV.read(file)
+      total = file.length
+      counter = 0
+
+      file.each do |row|
+        ark = row.first
+        resource = "#{prefix}#{ark}"
+        file = /[^\/]+$/.match(ark).to_s
+
+        counter += 1
+        percentage = (counter / total.to_f) * 100
+
+        unless File.exist?("#{path}/#{file}.json")
+          puts "Fetching #{file} (#{sprintf('%.02f', percentage)}%)".green
+          open("#{path}/#{file}.json", 'w') do |file|
+            file << open(resource).read
+          end
+        else
+          puts "Skipping #{file} (#{sprintf('%.02f', percentage)}%)".yellow
+        end
+      end
+    end
+
+    desc 'Cache missing manifests from the Princeton Islamic Manuscripts Collection'
+    task :islamicmss do
+      process_ark_file('./princeton_islamicmss.txt')
+    end
+
+    desc 'Cache missing manifests from the Princeton Yemeni Manuscripts Collection'
+    task :ymdi do
+      process_ark_file('./princeton_ymdi.txt')
+    end
+  end
 
   task openn: %w[schoenberg galen]
 
