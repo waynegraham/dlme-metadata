@@ -39,6 +39,48 @@ namespace :import do
     puts "Read the README.md file. Met Museum objects filtered out in SQL.".yellow
   end
 
+  namespace :penn do
+    desc 'Download the latest dataset from Penn Museum'
+    task :download do
+
+    end
+
+    def fetch_images(url, irn)
+      puts "Fetching image asset from #{url}"
+      page = @agent.get url
+      {
+        thumb: page.search('#main-content img.img-responsive')[0]['src'],
+        fullsize: ''
+      }
+    end
+
+    desc 'Enhance the latest cached dataset from Penn Musuem (e.g. add image links)'
+    task :enhance do
+      setup
+      prefixes = %w(egyptian near_eastern)
+
+      Dir.glob(['records/egyptian*.csv', 'records/near_eastern*.csv']).each do |dataset|
+        puts "Reading from #{dataset}".green
+        new_file = File.basename(dataset, '.csv')
+        new_file += "-enhanced.csv"
+        csv = CSV.open("records/#{new_file}", 'wb')
+        data = CSV.read(dataset, { headers: true })
+        data.headers << 'image'
+        csv << data.headers
+
+        data.each do |row|
+          images = fetch_images(row["url"], row["emuIRN"])
+          row["image"] = images[:thumb]
+          csv << row
+        end
+
+        # FileUtils.rm("records/#{new_file}")
+
+        csv.close
+      end
+    end
+  end
+
   task :download_penn do
     datasets = %w(egyptian-csv-latest near-eastern-csv-latest)
     setup
