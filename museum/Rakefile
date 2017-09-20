@@ -55,6 +55,31 @@ namespace :import do
     end
 
     desc 'Enhance the latest cached dataset from Penn Musuem (e.g. add image links)'
+    task :enhance_neareast do
+      setup
+      puts "Reading Near East dataset"
+      Dir.glob(['records/near_eastern-20170820.csv']).each do |dataset|
+        puts "Reading from #{dataset}".green
+        new_file = File.basename(dataset, '.csv')
+        new_file += "-enhanced.csv"
+        csv = CSV.open("records/#{new_file}", 'a+')
+        data = CSV.read(dataset, { headers: true })
+        data.headers << 'image'
+        csv << data.headers
+
+        data.each do |row|
+          images = fetch_images(row["url"], row["emuIRN"])
+          row["image"] = images[:thumb]
+          csv << row
+        end
+
+        # FileUtils.rm("records/#{new_file}")
+
+        csv.close
+      end
+    end
+
+    desc 'Enhance the latest cached datasets from Penn Musuem (e.g. add image links)'
     task :enhance do
       setup
       prefixes = %w(egyptian near_eastern)

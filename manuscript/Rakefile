@@ -3,6 +3,7 @@ require 'digest'
 require 'fileutils'
 require 'json'
 require 'open-uri'
+require 'pp'
 
 require 'colorize'
 require 'mechanize'
@@ -15,6 +16,16 @@ namespace :import do
 
   namespace :princeton do
     task all: %w[import:princeton:islamicmss import:princeton:ymdi]
+
+    task :stats do
+      Dir.glob('records/princeton/**/*.json').each do |file|
+        json = JSON.parse(File.read(file))
+        json['metadata'].each do |obj|
+          pp "#{obj['label']}: #{obj['value']}"
+        end
+        break
+      end
+    end
 
     desc 'Parse the JSON files to ensure they are valid'
     task :parse_json do
