@@ -1,0 +1,69 @@
+require 'colorize'
+require 'csv'
+require 'fileutils'
+require 'mechanize'
+
+task default: %w[all]
+
+task :all => %w[download:numismatic]
+
+namespace :download do
+
+  def setup
+    cleanup
+    FileUtils.mkdir_p('records/chunks')
+    @agent = Mechanize.new
+    @agent.pluggable_parser.default = Mechanize::Download
+  end
+
+  def cleanup
+    FileUtils.rm_rf('records')
+  end
+
+  def get_headers(file)
+    puts "\tExtracting headers from #{file}".green
+    CSV.read(file, headers: true).headers
+  end
+
+  def combine_csv
+
+    files = Dir.glob('records/chunks/*.csv')
+    headers = get_headers(files.first)
+
+    CSV.open('numismatics_combined.csv', 'w') do |csv|
+      csv << headers
+
+      Dir.glob('records/chunks/*.csv').each do |chunk|
+        CSV.foreach(chunk, headers: true) {|row| csv << row.values_at(*headers)}
+      end
+    end
+  end
+
+  def validate_csv(file)
+    CSV.open(file)
+  end
+
+  task :validate_csv do
+    Dir.glob('records/chunks/*.csv').each do |file|
+      puts "Validating #{file}"
+      CSV.read(file)
+    end
+  end
+
+  task :combine do
+    combine_csv
+  end
+
+  desc 'Download the Numismatic dataset'
+  task :numismatic do
+    setup
+    (0..7000).step(1000) do |page|
+      url = "http://numismatics.org/search/query.csv?q=imagesavailable:true%20AND%20department_facet:%22Islamic%22&start=#{page}"
+      puts "Fetching records #{page} to #{page + 999}".green
+      @agent.get(url).save("records/chunks/#{page}.csv")
+    end
+
+    combine_csv
+  end
+
+end
