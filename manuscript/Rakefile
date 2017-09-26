@@ -39,7 +39,7 @@ namespace :import do
         File.open("records/harvard/#{file_name}", "w") do |f|
           puts "Adding #{title} - #{file_name}".green
           mods_doc = mods.xpath('metadata/mods')
-          f.write(mods_doc)
+          f.write(mods_doc.to_xml)
           f.close
         end
       end
