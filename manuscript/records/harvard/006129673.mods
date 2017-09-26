@@ -1,0 +1,101 @@
+<mods schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-4.xsd" version="3.4">
+<titleInfo>
+<title>Taʼrikh-i emeniyye</title>
+</titleInfo>
+<titleInfo type="alternative">
+<title>Tarikh-i aminiya</title>
+</titleInfo>
+<titleInfo type="alternative">
+<title>Tarikhi ăminiyă</title>
+</titleInfo>
+<name type="personal">
+<namePart>Sairami, Musa</namePart>
+<namePart type="date">1836-1917</namePart>
+<role>
+<roleTerm authority="marcrelator" type="text">creator</roleTerm>
+</role>
+</name>
+<name type="personal">
+<namePart>Pantusov, Nikolaĭ Nikolaevich</namePart>
+<namePart type="date">1849-1909</namePart>
+<role>
+<roleTerm type="text">ed.</roleTerm>
+</role>
+</name>
+<typeOfResource>text</typeOfResource>
+<genre authority="marc">bibliography</genre>
+<originInfo>
+<place>
+<placeTerm authority="marccountry" type="code">ru</placeTerm>
+</place>
+<place>
+<placeTerm type="text">Qazān</placeTerm>
+</place>
+<publisher>Ṭabʻkhāne-i Medrese-i ʻUlūm</publisher>
+<dateIssued>1322 [1904 or 1905]</dateIssued>
+<dateOther keyDate="yes">1904</dateOther>
+<dateIssued encoding="marc">1904</dateIssued>
+<issuance>monographic</issuance>
+</originInfo>
+<language>
+<languageTerm authority="iso639-2b" type="code">chg</languageTerm>
+</language>
+<physicalDescription>
+<form authority="marcform">print</form>
+<extent>24, 320 p. ; 29 cm.</extent>
+</physicalDescription>
+<note type="statement of responsibility">Mullā Mūsá ibn Mullā ʻĪsá Sayrāmī nīng taʼlīfī.</note>
+<note>Added t.p. in Russian, transliterated: Taarikh-i Ėmėnii︠e︡. Istorii︠a︡ vladi︠e︡teleĭ kashgariĭ. Sochinenie Mully Musy, ben' Mulla Aĭsa, Saĭramtsa izdannai︠a︡ N.N. Pantusovymʹ.</note>
+<note>Photocopy.</note>
+<note>Central Asian Turkic in Arabic script.</note>
+<subject authority="lcsh">
+<geographic>Xinjiang Uygur Zizhiqu (China)</geographic>
+<topic>History</topic>
+<topic>Sources</topic>
+</subject>
+<genre>Sources</genre>
+<subject authority="lcsh">
+<geographic>Kashi (China)</geographic>
+<topic>History</topic>
+</subject>
+<subject>
+<hierarchicalGeographic>
+<country>Russia (Federation)</country>
+<city>Kazanʹ</city>
+</hierarchicalGeographic>
+</subject>
+<relatedItem type="series">
+<titleInfo>
+<title>Open Collections Program at Harvard University. Islamic Heritage Project</title>
+<partName>Islamic Heritage Project</partName>
+</titleInfo>
+</relatedItem>
+<identifier type="uri">http://nrs.harvard.edu/urn-3:HUL.FIG:006129673</identifier>
+<identifier type="uri">http://nrs.harvard.edu/urn-3:FHCL:2095472</identifier>
+<location>
+<url access="preview"/>
+<url access="raw object">http://nrs.harvard.edu/urn-3:HUL.FIG:006129673</url>
+</location>
+<location>
+<url access="preview">http://ids.lib.harvard.edu/ids/view/10845183?width=150&amp;height=150&amp;usethumb=y</url>
+<url access="raw object">http://nrs.harvard.edu/urn-3:FHCL:2095472</url>
+</location>
+<location>
+<physicalLocation type="repository">Widener Library</physicalLocation>
+</location>
+<location>
+<physicalLocation type="repository"/>
+</location>
+<location>
+<physicalLocation>Networked Resource</physicalLocation>
+</location>
+<recordInfo>
+<recordContentSource authority="marcorg">CUY</recordContentSource>
+<recordCreationDate encoding="marc">931029</recordCreationDate>
+<recordChangeDate encoding="iso8601">20090826120954.0</recordChangeDate>
+<recordIdentifier source="HOLLIS">006129673</recordIdentifier>
+</recordInfo>
+<location>
+<url usage="primary display" access="object in context">http://ocp.hul.harvard.edu/dl/ihp/006129673</url>
+</location>
+</mods>

@@ -1,0 +1,88 @@
+<mods schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-4.xsd" version="3.4">
+<titleInfo>
+<title>Harita-yi Kapudanan-i Derya</title>
+</titleInfo>
+<titleInfo type="alternative">
+<title>Harita-i Kapudanan-i Derya</title>
+</titleInfo>
+<name type="personal">
+<namePart>Mehmet İzzet Ramizpaşazade.</namePart>
+<role>
+<roleTerm authority="marcrelator" type="text">creator</roleTerm>
+</role>
+</name>
+<typeOfResource>text</typeOfResource>
+<genre authority="marc">bibliography</genre>
+<genre authority="marc">biography</genre>
+<originInfo>
+<place>
+<placeTerm authority="marccountry" type="code">tu</placeTerm>
+</place>
+<place>
+<placeTerm type="text">Istanbul</placeTerm>
+</place>
+<publisher>Ceridehane</publisher>
+<dateIssued>1285 [1868]</dateIssued>
+<dateOther keyDate="yes">1868</dateOther>
+<dateIssued encoding="marc">1868</dateIssued>
+<issuance>monographic</issuance>
+</originInfo>
+<language>
+<languageTerm authority="iso639-2b" type="code">ota</languageTerm>
+</language>
+<physicalDescription>
+<form authority="marcform">print</form>
+<extent>220 p. ; 18 cm.</extent>
+</physicalDescription>
+<note type="statement of responsibility">[Mehmet İzzet Ramizpaşazade].</note>
+<note>Attributed to Mehmet İzzet Ramizpaşazade.</note>
+<note>In Ottoman Turkish.</note>
+<subject authority="lcsh">
+<name type="corporate">
+<namePart>Turkey.</namePart>
+<namePart>Bahriye</namePart>
+</name>
+<topic>Biography</topic>
+</subject>
+<subject authority="lcsh">
+<topic>Admirals</topic>
+<geographic>Turkey</geographic>
+<topic>Biography</topic>
+</subject>
+<subject authority="lcsh">
+<topic>Naval biography</topic>
+<geographic>Turkey</geographic>
+</subject>
+<subject>
+<hierarchicalGeographic>
+<country>Turkey</country>
+<city>Istanbul</city>
+</hierarchicalGeographic>
+</subject>
+<relatedItem type="series">
+<titleInfo>
+<title>Open Collections Program at Harvard University. Islamic Heritage Project</title>
+<partName>Islamic Heritage Project</partName>
+</titleInfo>
+</relatedItem>
+<identifier type="uri">http://nrs.harvard.edu/urn-3:FHCL:2051758</identifier>
+<location>
+<url access="preview">http://ids.lib.harvard.edu/ids/view/10712952?width=150&amp;height=150&amp;usethumb=y</url>
+<url access="raw object">http://nrs.harvard.edu/urn-3:FHCL:2051758</url>
+</location>
+<location>
+<physicalLocation type="repository">Widener Library</physicalLocation>
+</location>
+<location>
+<physicalLocation>Networked Resource</physicalLocation>
+</location>
+<recordInfo>
+<recordContentSource authority="marcorg">WAU</recordContentSource>
+<recordCreationDate encoding="marc">850315</recordCreationDate>
+<recordChangeDate encoding="iso8601">20090901131429.0</recordChangeDate>
+<recordIdentifier source="HOLLIS">004714543</recordIdentifier>
+</recordInfo>
+<location>
+<url usage="primary display" access="object in context">http://ocp.hul.harvard.edu/dl/ihp/004714543</url>
+</location>
+</mods>

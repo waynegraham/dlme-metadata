@@ -1,0 +1,85 @@
+<mods schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-4.xsd" version="3.4">
+<titleInfo>
+<title>Teşrifat-i kadime</title>
+</titleInfo>
+<titleInfo type="alternative">
+<title>Usul-i atı̂ka-yı teşrifat-ı Devlet-i Aliye-yi Osmaniye</title>
+</titleInfo>
+<name type="personal">
+<namePart>Esat Efendi</namePart>
+<namePart type="date">1790?-1848</namePart>
+<role>
+<roleTerm authority="marcrelator" type="text">creator</roleTerm>
+</role>
+</name>
+<typeOfResource>text</typeOfResource>
+<genre authority="marc">bibliography</genre>
+<originInfo>
+<place>
+<placeTerm authority="marccountry" type="code">tu</placeTerm>
+</place>
+<place>
+<placeTerm type="text">[Istanbul]</placeTerm>
+</place>
+<publisher>Matbaa-yı Âmire</publisher>
+<dateIssued>[1287 [1870]]</dateIssued>
+<dateOther keyDate="yes">1870</dateOther>
+<dateIssued encoding="marc">1870</dateIssued>
+<issuance>monographic</issuance>
+</originInfo>
+<language>
+<languageTerm authority="iso639-2b" type="code">ota</languageTerm>
+</language>
+<physicalDescription>
+<form authority="marcform">print</form>
+<extent>144 p. ; 23 cm.</extent>
+</physicalDescription>
+<note type="statement of responsibility">Esat Efendi.</note>
+<note>Caption title.</note>
+<note>On p. [1]: ... nakib ül-eşraf Esat Efendi merhumun usul-i atı̂ka-yı teşrifat-ı Devlet-i Aliye-yi Osmaniye'ye dair cem ve teʾlif eylediği risaledir.</note>
+<note>In Ottoman Turkish.</note>
+<subject authority="lcsh">
+<topic>Diplomatic etiquette</topic>
+<geographic>Turkey</geographic>
+</subject>
+<subject authority="lcsh">
+<geographic>Turkey</geographic>
+<topic>Court and courtiers</topic>
+</subject>
+<subject authority="lcsh">
+<geographic>Turkey</geographic>
+<topic>Social life and customs</topic>
+</subject>
+<subject>
+<hierarchicalGeographic>
+<country>Turkey</country>
+<city>Istanbul</city>
+</hierarchicalGeographic>
+</subject>
+<relatedItem type="series">
+<titleInfo>
+<title>Open Collections Program at Harvard University. Islamic Heritage Project</title>
+<partName>Islamic Heritage Project</partName>
+</titleInfo>
+</relatedItem>
+<identifier type="uri">http://nrs.harvard.edu/urn-3:FHCL:2623648</identifier>
+<location>
+<url access="preview">http://ids.lib.harvard.edu/ids/view/12188087?width=150&amp;height=150&amp;usethumb=y</url>
+<url access="raw object">http://nrs.harvard.edu/urn-3:FHCL:2623648</url>
+</location>
+<location>
+<physicalLocation type="repository">Widener Library</physicalLocation>
+</location>
+<location>
+<physicalLocation>Networked Resource</physicalLocation>
+</location>
+<recordInfo>
+<recordContentSource authority="marcorg">CLU</recordContentSource>
+<recordCreationDate encoding="marc">841022</recordCreationDate>
+<recordChangeDate encoding="iso8601">20090901122908.0</recordChangeDate>
+<recordIdentifier source="HOLLIS">004562372</recordIdentifier>
+</recordInfo>
+<location>
+<url usage="primary display" access="object in context">http://ocp.hul.harvard.edu/dl/ihp/004562372</url>
+</location>
+</mods>

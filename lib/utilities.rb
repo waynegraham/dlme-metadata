@@ -4,6 +4,9 @@ require 'date'
 require 'fileutils'
 require 'colorize'
 require 'csv'
+require 'mechanize'
+require 'open-uri'
+require 'pp'
 
 def setup
   FileUtils.mkdir_p('records')

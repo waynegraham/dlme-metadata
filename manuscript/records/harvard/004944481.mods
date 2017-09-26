@@ -1,0 +1,115 @@
+<mods schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-4.xsd" version="3.4">
+<titleInfo>
+<title>Asar-i Şeyh Seyyid Mustafa Beyzade</title>
+</titleInfo>
+<titleInfo displayLabel="Title on p. [1] (1st group):" type="alternative">
+<title>Cem-i asar-i Şeyh Seyyid Mustafa Beyzade</title>
+</titleInfo>
+<titleInfo type="alternative">
+<title>Āthār shaykh Sayyid Muṣṭafá Bakzādah</title>
+</titleInfo>
+<name type="personal">
+<namePart>Beyzade Mustafa Efendi</namePart>
+<namePart type="date">-1785 or 1786</namePart>
+<role>
+<roleTerm authority="marcrelator" type="text">creator</roleTerm>
+</role>
+</name>
+<name type="personal">
+<namePart>Mehmet Murat el-Nakşbendî</namePart>
+<namePart type="date">1808-1847 or 1848</namePart>
+</name>
+<name type="personal">
+<namePart>Murtaḍá al-Zabīdī, Muḥammad ibn Muḥammad</namePart>
+<namePart type="date">1732 or 1733-1791</namePart>
+</name>
+<typeOfResource>text</typeOfResource>
+<originInfo>
+<place>
+<placeTerm authority="marccountry" type="code">tu</placeTerm>
+</place>
+<place>
+<placeTerm type="text">Asitane-yi Aliye [Istanbul]</placeTerm>
+</place>
+<publisher>Darüttıbattil'âmire</publisher>
+<dateIssued>1264 [1847]</dateIssued>
+<dateOther keyDate="yes">1847</dateOther>
+<dateIssued encoding="marc">1847</dateIssued>
+<issuance>monographic</issuance>
+</originInfo>
+<language>
+<languageTerm authority="iso639-2b" type="code">ota</languageTerm>
+</language>
+<language>
+<languageTerm authority="iso639-2b" type="code">ara</languageTerm>
+</language>
+<physicalDescription>
+<form authority="marcform">print</form>
+<extent>5, 136 p. ; 20 cm.</extent>
+</physicalDescription>
+<tableOfContents>Terceme-yi ahval-i Beyzade Mustafa Efendi -- Mevlid ün-Nebi -- Menasik ül-hac -- Naẓm al-nāṣiḥīn -- Silsilat al-Naqshabandīyah -- Muqaddimat al-Qaṣīdah al-durrīyah -- al-Qaṣīdah al-durrīyah -- Qaṣāʼid -- Şeyh Hafiz Mehmed al-Hisari'nin tarih-i irtihali -- Taqrīḍ Sharḥ al-Qāmūs -- Taqrīḍ Sharḥ al-Iḥyāʼ -- Murtaza Efendi'nin kaside-yi sabikaya takrizidir -- Beyzade Efendinin Yusufzade'ye verdiği icazetname -- Murad Molla Tekyesi şeyhi Abdülhalim Efendi'ye verdiği izinname -- Boluvi el-Hac Mustafa Efendi'ye verdiği icazetname -- Halil Efendi'ye verdiği icazetname -- Rizevi Ali Efendi'ye verilen icazetname -- Murtaza Efendi'nin Beyzade Efendi'ye i[r]sal eylediği mektub -- Beyzade Efendi'den Murtaza Efendi'ye tahrir olunan mektub -- Geyve Müftüsü Efendi'ye tahrir olunmuştur -- Kastamonu Müftüsüne irsal olunan mektubudur -- Hafiz Efendi'nin Beyzade Efendi'ye yazdıkları tezkire -- Beyzade Efendi hazretlerinin tezkireye cevapları -- Risālat al-Sulūk lil-Shaykh Beyzade -- Çorumlu Ebubekir Efendi'nin risale-yi manzumelerine takrizdir -- Cevab-ı mektub -- Medhiye-yi Abdülkadir el-Geylani -- İşbu salat-i şerife Beyzade Efendiden mervidir -- Risālat al-maʻlūm wa-al-majhūl.</tableOfContents>
+<note>Edited by Mehmet Murat Efendi.</note>
+<note>Ottoman Turkish and Arabic.</note>
+<subject authority="lcsh">
+<name type="personal">
+<namePart>Beyzade Mustafa Efendi</namePart>
+<namePart type="date">-1785 or 1786</namePart>
+</name>
+</subject>
+<subject authority="lcsh">
+<topic>Mawlid al-Nabī</topic>
+<topic>Early works to 1800</topic>
+</subject>
+<subject authority="lcsh">
+<name type="personal">
+<namePart>Muḥammad</namePart>
+<namePart type="termsOfAddress">Prophet</namePart>
+<namePart type="date">-632</namePart>
+</name>
+</subject>
+<subject authority="lcsh">
+<topic>Fasts and feasts</topic>
+<topic>Islam</topic>
+<topic>Early works to 1800</topic>
+</subject>
+<subject authority="lcsh">
+<topic>Religious poetry, Turkish</topic>
+<topic>Early works to 1800</topic>
+</subject>
+<subject authority="lcsh">
+<topic>Sufism</topic>
+<topic>Early works to 1800</topic>
+</subject>
+<subject>
+<hierarchicalGeographic>
+<country>Turkey</country>
+<city>Istanbul</city>
+</hierarchicalGeographic>
+</subject>
+<relatedItem type="series">
+<titleInfo>
+<title>Open Collections Program at Harvard University. Islamic Heritage Project</title>
+<partName>Islamic Heritage Project</partName>
+</titleInfo>
+</relatedItem>
+<identifier type="uri">http://nrs.harvard.edu/urn-3:FHCL:2249132</identifier>
+<location>
+<url access="preview">http://ids.lib.harvard.edu/ids/view/11270283?width=150&amp;height=150&amp;usethumb=y</url>
+<url access="raw object">http://nrs.harvard.edu/urn-3:FHCL:2249132</url>
+</location>
+<location>
+<physicalLocation type="repository">Widener Library</physicalLocation>
+</location>
+<location>
+<physicalLocation>Networked Resource</physicalLocation>
+</location>
+<recordInfo>
+<recordContentSource authority="marcorg">HLS</recordContentSource>
+<recordCreationDate encoding="marc">941108</recordCreationDate>
+<recordChangeDate encoding="iso8601">20091109161157.0</recordChangeDate>
+<recordIdentifier source="HOLLIS">004944481</recordIdentifier>
+</recordInfo>
+<location>
+<url usage="primary display" access="object in context">http://ocp.hul.harvard.edu/dl/ihp/004944481</url>
+</location>
+</mods>

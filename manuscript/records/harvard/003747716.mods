@@ -1,0 +1,86 @@
+<mods schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-4.xsd" version="3.4">
+<titleInfo>
+<title>Lughat-i Turkī</title>
+</titleInfo>
+<titleInfo type="alternative">
+<title>Turkish-Persian dictionary</title>
+</titleInfo>
+<name type="personal">
+<namePart>Faḍl Allāh Khān.</namePart>
+<role>
+<roleTerm authority="marcrelator" type="text">creator</roleTerm>
+</role>
+</name>
+<typeOfResource>text</typeOfResource>
+<genre authority="marc">dictionary</genre>
+<originInfo>
+<place>
+<placeTerm authority="marccountry" type="code">ii</placeTerm>
+</place>
+<place>
+<placeTerm type="text">Kalkatah</placeTerm>
+</place>
+<publisher>Ṭabʻkhānah-ʼi Shaykh Hidāyat Allāh</publisher>
+<dateIssued>1825</dateIssued>
+<dateOther keyDate="yes">1825</dateOther>
+<issuance>monographic</issuance>
+</originInfo>
+<language>
+<languageTerm authority="iso639-2b" type="code">per</languageTerm>
+</language>
+<language>
+<languageTerm authority="iso639-2b" type="code">chg</languageTerm>
+</language>
+<physicalDescription>
+<form authority="marcform">print</form>
+<extent>244 p. ; 24 cm.</extent>
+</physicalDescription>
+<note type="statement of responsibility">Faḍl Allāh Khān.</note>
+<note>Title, publisher and date from colophon.</note>
+<note>In Persian and Chagatai.</note>
+<subject authority="lcsh">
+<topic>Chagatai language</topic>
+<topic>Dictionaries</topic>
+<topic>Persian</topic>
+</subject>
+<subject authority="lcsh">
+<topic>Turkish language</topic>
+<topic>Dictionaries</topic>
+<topic>Persian</topic>
+</subject>
+<subject>
+<hierarchicalGeographic>
+<country>India</country>
+<city>Kolkata</city>
+</hierarchicalGeographic>
+</subject>
+<relatedItem type="isReferencedBy">
+<note>Storey, vol. 3, pt. 1, p. 111.</note>
+</relatedItem>
+<relatedItem type="series">
+<titleInfo>
+<title>Open Collections Program at Harvard University. Islamic Heritage Project</title>
+<partName>Islamic Heritage Project</partName>
+</titleInfo>
+</relatedItem>
+<identifier type="uri">http://nrs.harvard.edu/urn-3:FHCL:2249131</identifier>
+<location>
+<url access="preview">http://ids.lib.harvard.edu/ids/view/11270023?width=150&amp;height=150&amp;usethumb=y</url>
+<url access="raw object">http://nrs.harvard.edu/urn-3:FHCL:2249131</url>
+</location>
+<location>
+<physicalLocation type="repository">Widener Library</physicalLocation>
+</location>
+<location>
+<physicalLocation>Networked Resource</physicalLocation>
+</location>
+<recordInfo>
+<recordContentSource authority="marcorg">HLS</recordContentSource>
+<recordCreationDate encoding="marc">931215</recordCreationDate>
+<recordChangeDate encoding="iso8601">20090903143250.0</recordChangeDate>
+<recordIdentifier source="HOLLIS">003747716</recordIdentifier>
+</recordInfo>
+<location>
+<url usage="primary display" access="object in context">http://ocp.hul.harvard.edu/dl/ihp/003747716</url>
+</location>
+</mods>

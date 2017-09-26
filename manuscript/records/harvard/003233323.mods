@@ -1,0 +1,84 @@
+<mods schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-4.xsd" version="3.4">
+<titleInfo>
+<title>Hādhihi Tarjamat quṭb al-wāṣilīn wa-ghawth al-sālikīn al-ʻārif billāh Sayyidī Shams al-Dīn Muḥammad Abī al-Maḥāsin al-Qāwuqjī al-Ḥasanī</title>
+</titleInfo>
+<titleInfo type="uniform">
+<title>Tarjamat Shams al-Dīn Muḥammad Abī al-Maḥāsin al-Qāwuqjī al-Ḥasanī</title>
+</titleInfo>
+<name type="personal">
+<namePart>Adʹhamī, ʻAbd al-Qādir</namePart>
+<namePart type="date">-1907 or 1908</namePart>
+<role>
+<roleTerm authority="marcrelator" type="text">creator</roleTerm>
+</role>
+</name>
+<name type="personal">
+<namePart>Qāwuqjī, Muḥammad Kamāl al-Dīn Afandī.</namePart>
+</name>
+<typeOfResource>text</typeOfResource>
+<genre authority="marc">bibliography</genre>
+<genre authority="marc">biography</genre>
+<originInfo>
+<place>
+<placeTerm authority="marccountry" type="code">le</placeTerm>
+</place>
+<place>
+<placeTerm type="text">Bayrūt</placeTerm>
+</place>
+<publisher>al-Maṭbaʻah al-Adabīyah</publisher>
+<dateIssued>1306 [1888]</dateIssued>
+<dateOther keyDate="yes">1888</dateOther>
+<dateIssued encoding="marc">1888</dateIssued>
+<issuance>monographic</issuance>
+</originInfo>
+<language>
+<languageTerm authority="iso639-2b" type="code">ara</languageTerm>
+</language>
+<physicalDescription>
+<form authority="marcform">print</form>
+<extent>63 p. ; 21 cm.</extent>
+</physicalDescription>
+<note type="statement of responsibility">min qalam ʻAbd al-Qādir al-Adʹhamī al-Ṭarābulusī.</note>
+<subject authority="lcsh">
+<name type="personal">
+<namePart>Qāwuqjī, Muḥammad ibn Khalīl</namePart>
+<namePart type="date">1809 or 1810-1887 or 1888</namePart>
+</name>
+</subject>
+<subject authority="lcsh">
+<topic>Muslim scholars</topic>
+<geographic>Lebanon</geographic>
+<topic>Biography</topic>
+</subject>
+<subject>
+<hierarchicalGeographic>
+<country>Lebanon</country>
+<city>Beirut</city>
+</hierarchicalGeographic>
+</subject>
+<relatedItem type="series">
+<titleInfo>
+<title>Open Collections Program at Harvard University. Islamic Heritage Project</title>
+<partName>Islamic Heritage Project</partName>
+</titleInfo>
+</relatedItem>
+<identifier type="uri">http://nrs.harvard.edu/urn-3:FHCL:2251911</identifier>
+<location>
+<url access="preview">http://ids.lib.harvard.edu/ids/view/11291061?width=150&amp;height=150&amp;usethumb=y</url>
+<url access="raw object">http://nrs.harvard.edu/urn-3:FHCL:2251911</url>
+</location>
+<location>
+<physicalLocation type="repository">Widener Library</physicalLocation>
+</location>
+<location>
+<physicalLocation>Networked Resource</physicalLocation>
+</location>
+<recordInfo>
+<recordCreationDate encoding="marc">930721</recordCreationDate>
+<recordChangeDate encoding="iso8601">20090828144617.0</recordChangeDate>
+<recordIdentifier source="HOLLIS">003233323</recordIdentifier>
+</recordInfo>
+<location>
+<url usage="primary display" access="object in context">http://ocp.hul.harvard.edu/dl/ihp/003233323</url>
+</location>
+</mods>

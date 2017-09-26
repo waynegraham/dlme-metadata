@@ -1,0 +1,89 @@
+<mods schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-4.xsd" version="3.4">
+<titleInfo>
+<title>Semerat ül-fuad fi 'l-mebde ve 'l-me'ad</title>
+</titleInfo>
+<titleInfo type="alternative">
+<title>Semeratü'l-fuâd fi'l-mebde ve'l-meâd</title>
+</titleInfo>
+<titleInfo type="alternative">
+<title>Thamarāt al-fuʼād fī al-mabdaʼ wa-al-maʻād</title>
+</titleInfo>
+<name type="personal">
+<namePart>Sarı Abdullah</namePart>
+<namePart type="date">1584-1660 or 1661</namePart>
+<role>
+<roleTerm authority="marcrelator" type="text">creator</roleTerm>
+</role>
+</name>
+<typeOfResource>text</typeOfResource>
+<genre authority="marc">bibliography</genre>
+<originInfo>
+<place>
+<placeTerm authority="marccountry" type="code">tu</placeTerm>
+</place>
+<place>
+<placeTerm type="text">[Istanbul]</placeTerm>
+</place>
+<publisher>Matbaa-yi Amire</publisher>
+<dateIssued>1288 [1871-72]</dateIssued>
+<dateOther keyDate="yes">1871</dateOther>
+<dateIssued encoding="marc">1871</dateIssued>
+<issuance>monographic</issuance>
+</originInfo>
+<language>
+<languageTerm authority="iso639-2b" type="code">ota</languageTerm>
+</language>
+<physicalDescription>
+<form authority="marcform">print</form>
+<extent>311 p. ; 24 cm.</extent>
+</physicalDescription>
+<note type="statement of responsibility">li-şarih il-Mesnevi Abdullah Efendi.</note>
+<note>Imprint and date taken from colophon.</note>
+<note>In Ottoman Turkish.</note>
+<subject authority="lcsh">
+<topic>Turkish poetry</topic>
+</subject>
+<subject authority="lcsh">
+<topic>Mysticism in literature</topic>
+</subject>
+<subject authority="lcsh">
+<topic>Muslim saints</topic>
+<topic>Biography</topic>
+</subject>
+<subject authority="lcsh">
+<topic>Sufis</topic>
+<topic>Biography</topic>
+</subject>
+<subject>
+<hierarchicalGeographic>
+<country>Turkey</country>
+<city>Istanbul</city>
+</hierarchicalGeographic>
+</subject>
+<relatedItem type="series">
+<titleInfo>
+<title>Open Collections Program at Harvard University. Islamic Heritage Project</title>
+<partName>Islamic Heritage Project</partName>
+</titleInfo>
+</relatedItem>
+<identifier type="uri">http://nrs.harvard.edu/urn-3:FHCL:2251909</identifier>
+<location>
+<url access="preview">http://ids.lib.harvard.edu/ids/view/11290675?width=150&amp;height=150&amp;usethumb=y</url>
+<url access="raw object">http://nrs.harvard.edu/urn-3:FHCL:2251909</url>
+</location>
+<location>
+<physicalLocation type="repository">Widener Library</physicalLocation>
+</location>
+<location>
+<physicalLocation>Networked Resource</physicalLocation>
+</location>
+<recordInfo>
+<recordContentSource authority="marcorg">CLU</recordContentSource>
+<recordCreationDate encoding="marc">780720</recordCreationDate>
+<recordChangeDate encoding="iso8601">20090901122213.0</recordChangeDate>
+<recordIdentifier source="HOLLIS">002054017</recordIdentifier>
+</recordInfo>
+<location>
+<url usage="primary display" access="object in context">http://ocp.hul.harvard.edu/dl/ihp/002054017</url>
+</location>
+</mods>

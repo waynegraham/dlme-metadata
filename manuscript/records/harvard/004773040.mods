@@ -1,0 +1,83 @@
+<mods schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-4.xsd" version="3.4">
+<titleInfo>
+<nonSort>al-</nonSort>
+<title>Manhaj al-aʻdal fī tarjamat al-Shaykh al-ʻAllāmah ʻAlī al-Ahdal wa-baʻḍ mashāhīr dhurrīyatihi wa-atbāʻihi wa-aṣḥāb hādhā al-Sayyid al-Akmal</title>
+</titleInfo>
+<name type="personal">
+<namePart>Ahdal, Muḥammad ibn Aḥmad</namePart>
+<namePart type="date">1826-1880</namePart>
+<role>
+<roleTerm authority="marcrelator" type="text">creator</roleTerm>
+</role>
+</name>
+<name type="personal">
+<namePart>Ahdal, ʻAlī ibn ʻAlī ibn ʻUmar.</namePart>
+</name>
+<typeOfResource>text</typeOfResource>
+<genre authority="marc">bibliography</genre>
+<genre authority="marc">biography</genre>
+<genre authority="">Lithographs.</genre>
+<originInfo>
+<place>
+<placeTerm authority="marccountry" type="code">ii</placeTerm>
+</place>
+<place>
+<placeTerm type="text">Bambayʼ</placeTerm>
+</place>
+<publisher>Maṭbaʻ Kulzār Ḥasanī</publisher>
+<dateIssued>1287 [1870]</dateIssued>
+<dateOther keyDate="yes">1870</dateOther>
+<dateIssued encoding="marc">1870</dateIssued>
+<issuance>monographic</issuance>
+</originInfo>
+<language>
+<languageTerm authority="iso639-2b" type="code">ara</languageTerm>
+</language>
+<physicalDescription>
+<form authority="marcform">print</form>
+<extent>48 p. ; 21 cm.</extent>
+</physicalDescription>
+<note type="statement of responsibility">taʼlīf Muḥammad ibn Aḥmad ibn ʻAbd al-Bārī al-Ahdal ; qad ihtamma bi-ṭabʻihi wa-nashrihi ʻAlī ibn ʻAlī ibn ʻUmar al-Ahdal.</note>
+<note>Lithographed.</note>
+<subject authority="lcsh">
+<topic>Muslim scholars</topic>
+<geographic>Yemen</geographic>
+<topic>Biography</topic>
+</subject>
+<subject authority="lcsh">
+<geographic>Yemen (Republic)</geographic>
+<topic>Biography</topic>
+</subject>
+<genre>Biography</genre>
+<subject>
+<hierarchicalGeographic>
+<country>India</country>
+<city>Mumbai</city>
+</hierarchicalGeographic>
+</subject>
+<relatedItem type="series">
+<titleInfo>
+<title>Open Collections Program at Harvard University. Islamic Heritage Project</title>
+<partName>Islamic Heritage Project</partName>
+</titleInfo>
+</relatedItem>
+<identifier type="uri">http://nrs.harvard.edu/urn-3:FHCL:2251906</identifier>
+<location>
+<url access="preview">http://ids.lib.harvard.edu/ids/view/11289513?width=150&amp;height=150&amp;usethumb=y</url>
+<url access="raw object">http://nrs.harvard.edu/urn-3:FHCL:2251906</url>
+</location>
+<location>
+<physicalLocation>Networked Resource</physicalLocation>
+</location>
+<location>
+<physicalLocation type="repository">Widener Library</physicalLocation>
+</location>
+<recordInfo>
+<recordCreationDate encoding="marc">940923</recordCreationDate>
+<recordChangeDate encoding="iso8601">20090901122653.0</recordChangeDate>
+<recordIdentifier source="HOLLIS">004773040</recordIdentifier>
+</recordInfo>
+<location>
+<url usage="primary display" access="object in context">http://ocp.hul.harvard.edu/dl/ihp/004773040</url>
+</location>
+</mods>

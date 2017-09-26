@@ -1,0 +1,89 @@
+<mods schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-4.xsd" version="3.4">
+<titleInfo>
+<title>Siyar al-mutaʼakhkhirīn</title>
+<subTitle>tārīkh-i mamlakat-i Hind az ibtidā-yi sanah-i 1118 h. tā 1194 h. mutābiq-i 1782 m. mubtanī bar aḥvāl-i salṭanat-i haft salāṭīn-i mutaʼakhkhirīn-i Hindūstān ʻumūman (...)</subTitle>
+</titleInfo>
+<titleInfo type="uniform">
+<title>Siyar al-mutaʼakhkhirīn</title>
+</titleInfo>
+<name type="personal">
+<namePart>Ghulām Husain Khān</namePart>
+<namePart type="termsOfAddress">Ṭabaṭāḅāī</namePart>
+<namePart type="date">1727 or 1728-</namePart>
+<role>
+<roleTerm authority="marcrelator" type="text">creator</roleTerm>
+</role>
+</name>
+<name type="personal">
+<namePart>ʻAbd al-Majīd.</namePart>
+</name>
+<typeOfResource>text</typeOfResource>
+<genre authority="marc">bibliography</genre>
+<originInfo>
+<place>
+<placeTerm authority="marccountry" type="code">ii</placeTerm>
+</place>
+<place>
+<placeTerm type="text">Kalkutah</placeTerm>
+</place>
+<publisher>Dār al-Imārah</publisher>
+<dateIssued>1248 [1833]</dateIssued>
+<dateOther keyDate="yes">1832</dateOther>
+<dateIssued encoding="marc">1832</dateIssued>
+<issuance>monographic</issuance>
+</originInfo>
+<language>
+<languageTerm authority="iso639-2b" type="code">per</languageTerm>
+</language>
+<physicalDescription>
+<form authority="marcform">print</form>
+<extent>2 v. in 1. ; 33 cm.</extent>
+</physicalDescription>
+<note type="statement of responsibility">taṣnīf-i Nawwāb Sayyid Ghulām Ḥusayn Khān Ṭabāṭabāʼī ; bi-ihtimām-i ʻAbd al-Majīd.</note>
+<note>In Persian.</note>
+<subject authority="lcsh">
+<geographic>India</geographic>
+<topic>History</topic>
+<temporal>1766-1805</temporal>
+<topic>Early works to 1800</topic>
+</subject>
+<genre>Early works to 1800</genre>
+<subject authority="lcsh">
+<geographic>India</geographic>
+<topic>History</topic>
+<temporal>1526-1765</temporal>
+<topic>Early works to 1800</topic>
+</subject>
+<genre>Early works to 1800</genre>
+<subject>
+<hierarchicalGeographic>
+<country>India</country>
+<city>Kolkata</city>
+</hierarchicalGeographic>
+</subject>
+<relatedItem type="series">
+<titleInfo>
+<title>Open Collections Program at Harvard University. Islamic Heritage Project</title>
+<partName>Islamic Heritage Project</partName>
+</titleInfo>
+</relatedItem>
+<identifier type="uri">http://nrs.harvard.edu/urn-3:FHCL:2225240</identifier>
+<location>
+<url access="preview">http://ids.lib.harvard.edu/ids/view/11219176?width=150&amp;height=150&amp;usethumb=y</url>
+<url access="raw object">http://nrs.harvard.edu/urn-3:FHCL:2225240</url>
+</location>
+<location>
+<physicalLocation type="repository">Widener Library</physicalLocation>
+</location>
+<location>
+<physicalLocation>Networked Resource</physicalLocation>
+</location>
+<recordInfo>
+<recordCreationDate encoding="marc">880629</recordCreationDate>
+<recordChangeDate encoding="iso8601">20090903122957.0</recordChangeDate>
+<recordIdentifier source="HOLLIS">007236449</recordIdentifier>
+</recordInfo>
+<location>
+<url usage="primary display" access="object in context">http://ocp.hul.harvard.edu/dl/ihp/007236449</url>
+</location>
+</mods>

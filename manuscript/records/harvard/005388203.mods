@@ -1,0 +1,115 @@
+<mods schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-4.xsd" version="3.4">
+<titleInfo>
+<title>El-Okyanus fî tercemeti'l-Kamus</title>
+</titleInfo>
+<titleInfo type="alternative">
+<title>Okyanus fi tercümet ül-Kamus</title>
+</titleInfo>
+<titleInfo type="alternative">
+<title>Okyanus el-basit fî tercemeti'l-Kamus el-muhit</title>
+</titleInfo>
+<titleInfo type="alternative">
+<title>اوقيانوس البسيط في ترجمة القاموس المحيط</title>
+</titleInfo>
+<titleInfo type="alternative">
+<title>Ūqyānūs al-basīṭ fī tarjamat al-Qāmūs al-muḥīṭ</title>
+</titleInfo>
+<titleInfo type="alternative">
+<title>Ūqyānūs fī tarjamat al-Qāmūs</title>
+</titleInfo>
+<titleInfo type="alternative">
+<title>Ḳāmūs</title>
+</titleInfo>
+<titleInfo type="uniform">
+<title>Qāmūs al-muḥīṭ Turkish</title>
+</titleInfo>
+<name type="personal">
+<namePart>Fīrūzābādī, Muḥammad ibn Yaʻqūb</namePart>
+<namePart type="date">1329-1414 or 1415</namePart>
+<role>
+<roleTerm authority="marcrelator" type="text">creator</roleTerm>
+</role>
+</name>
+<name type="personal">
+<namePart>Ahmet Asım</namePart>
+<namePart type="date">1755-1819 or 1820</namePart>
+</name>
+<typeOfResource>text</typeOfResource>
+<genre authority="marc">dictionary</genre>
+<originInfo>
+<place>
+<placeTerm authority="marccountry" type="code">ua</placeTerm>
+</place>
+<place>
+<placeTerm type="text">Bulak</placeTerm>
+</place>
+<publisher>Bulak Matbaası</publisher>
+<dateIssued>1250 [1834]</dateIssued>
+<dateOther keyDate="yes">1834</dateOther>
+<dateIssued encoding="marc">1834</dateIssued>
+<issuance>monographic</issuance>
+</originInfo>
+<language>
+<languageTerm authority="iso639-2b" type="code">ota</languageTerm>
+</language>
+<language>
+<languageTerm authority="iso639-2b" type="code">ara</languageTerm>
+</language>
+<physicalDescription>
+<form authority="marcform">print</form>
+<extent>3 v. ; 35 cm.</extent>
+</physicalDescription>
+<note type="statement of responsibility">[mütercimi Ahmet Asım].</note>
+<note>Translation of al-Qāmūs al-muḥīṭ.</note>
+<note>Title from colophon, v. 1.</note>
+<note>Arabic and Ottoman Turkish.</note>
+<subject authority="lcsh">
+<name type="personal">
+<namePart>Fīrūzābādī, Muḥammad ibn Yaʻqūb</namePart>
+<namePart type="date">1329-1414 or 1415</namePart>
+</name>
+</subject>
+<subject authority="lcsh">
+<topic>Arabic language</topic>
+<topic>Dictionaries</topic>
+<topic>Turkish</topic>
+<topic>Early works to 1800</topic>
+</subject>
+<subject authority="lcsh">
+<topic>Turkish language</topic>
+<topic>Dictionaries</topic>
+<topic>Arabic</topic>
+<topic>Early works to 1800</topic>
+</subject>
+<subject>
+<hierarchicalGeographic>
+<country>Egypt</country>
+<city>Cairo</city>
+</hierarchicalGeographic>
+</subject>
+<relatedItem type="series">
+<titleInfo>
+<title>Open Collections Program at Harvard University. Islamic Heritage Project</title>
+<partName>Islamic Heritage Project</partName>
+</titleInfo>
+</relatedItem>
+<identifier type="uri">http://nrs.harvard.edu/urn-3:FHCL:2032318</identifier>
+<location>
+<url access="preview">http://ids.lib.harvard.edu/ids/view/10573215?width=150&amp;height=150&amp;usethumb=y</url>
+<url access="raw object">http://nrs.harvard.edu/urn-3:FHCL:2032318</url>
+</location>
+<location>
+<physicalLocation type="repository">Widener Library</physicalLocation>
+</location>
+<location>
+<physicalLocation>Networked Resource</physicalLocation>
+</location>
+<recordInfo>
+<recordCreationDate encoding="marc">950310</recordCreationDate>
+<recordChangeDate encoding="iso8601">20120502151223.0</recordChangeDate>
+<recordIdentifier source="HOLLIS">005388203</recordIdentifier>
+</recordInfo>
+<location>
+<url usage="primary display" access="object in context">http://ocp.hul.harvard.edu/dl/ihp/005388203</url>
+</location>
+</mods>

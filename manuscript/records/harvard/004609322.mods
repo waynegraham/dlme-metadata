@@ -1,0 +1,121 @@
+<mods schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-4.xsd" version="3.4">
+<titleInfo>
+<title>Hâdikât ül-vüzerâ</title>
+</titleInfo>
+<titleInfo type="alternative">
+<title>Hadika-yi vüzera</title>
+</titleInfo>
+<titleInfo type="alternative">
+<title>Ḥadīqat al-wuzarā</title>
+</titleInfo>
+<name type="personal">
+<namePart>Osmanzade Taip, Ahmet</namePart>
+<namePart type="date">1660?-1724</namePart>
+<role>
+<roleTerm authority="marcrelator" type="text">creator</roleTerm>
+</role>
+</name>
+<name type="personal">
+<namePart>Ahmed Câvid</namePart>
+<namePart type="date">-1803</namePart>
+</name>
+<typeOfResource>text</typeOfResource>
+<genre authority="marc">bibliography</genre>
+<originInfo>
+<place>
+<placeTerm authority="marccountry" type="code">tu</placeTerm>
+</place>
+<place>
+<placeTerm type="text">[Istanbul]</placeTerm>
+</place>
+<publisher>Cerîde-i Havâdis Matbaası</publisher>
+<dateIssued>1271 [1854]</dateIssued>
+<dateOther keyDate="yes">1854</dateOther>
+<dateIssued encoding="marc">1854</dateIssued>
+<issuance>monographic</issuance>
+</originInfo>
+<language>
+<languageTerm authority="iso639-2b" type="code">ota</languageTerm>
+</language>
+<physicalDescription>
+<form authority="marcform">print</form>
+<extent>133 p. ; 20 cm.</extent>
+</physicalDescription>
+<tableOfContents>With: Zeyl-i Hâdikât ül-vüzerâ / Dilâverağazade Ömer Efendi. [İstanbul]: Ceride-i Havâdis Matbaası, 1271 - Zeyl ül-zeyl / Ahmed Cavid. [İstanbul] : Ceride-i Havâdis Matbaası, 1271 - Bagdadi Abdülfettah Şefkat Efendi'nin zeyli. [İstanbul] : Ceride-i Havâdis Matbaası, 1271.</tableOfContents>
+<note type="statement of responsibility">[Osmanzade].</note>
+<note>Title and statement of responsibility from colophon.</note>
+<note>In Ottoman Turkish.</note>
+<subject authority="lcsh">
+<topic>Statesmen</topic>
+<geographic>Turkey</geographic>
+</subject>
+<subject authority="lcsh">
+<topic>Diplomats</topic>
+<geographic>Turkey</geographic>
+</subject>
+<subject authority="lcsh">
+<geographic>Turkey</geographic>
+<topic>Biography</topic>
+</subject>
+<genre>Biography</genre>
+<subject>
+<hierarchicalGeographic>
+<country>Turkey</country>
+<city>Istanbul</city>
+</hierarchicalGeographic>
+</subject>
+<relatedItem type="constituent">
+<titleInfo>
+<title>Zeyl-i Hâdikât ül-vüzerâ</title>
+</titleInfo>
+<name type="personal">
+<namePart>Dilâverağazade Ömer Efendi,</namePart>
+<namePart type="date">-1758</namePart>
+</name>
+</relatedItem>
+<relatedItem type="constituent">
+<titleInfo>
+<title>Zeyl-i Hâdikât ül-vüzerâ</title>
+</titleInfo>
+<name type="personal">
+<namePart>Abdülfettah Şefkat Efendi,</namePart>
+<namePart type="date">-1826</namePart>
+</name>
+</relatedItem>
+<relatedItem type="constituent">
+<titleInfo>
+<title>Zeyl-i Dilaverzade Ömer</title>
+</titleInfo>
+</relatedItem>
+<relatedItem type="constituent">
+<titleInfo>
+<title>Zeyl-i Ahmed Cavid Bey</title>
+</titleInfo>
+</relatedItem>
+<relatedItem type="series">
+<titleInfo>
+<title>Open Collections Program at Harvard University. Islamic Heritage Project</title>
+<partName>Islamic Heritage Project</partName>
+</titleInfo>
+</relatedItem>
+<identifier type="uri">http://nrs.harvard.edu/urn-3:FHCL:2095476</identifier>
+<location>
+<url access="preview">http://ids.lib.harvard.edu/ids/view/10847585?width=150&amp;height=150&amp;usethumb=y</url>
+<url access="raw object">http://nrs.harvard.edu/urn-3:FHCL:2095476</url>
+</location>
+<location>
+<physicalLocation type="repository">Widener Library</physicalLocation>
+</location>
+<location>
+<physicalLocation>Networked Resource</physicalLocation>
+</location>
+<recordInfo>
+<recordContentSource authority="marcorg">CUY</recordContentSource>
+<recordCreationDate encoding="marc">831223</recordCreationDate>
+<recordChangeDate encoding="iso8601">20090903092731.0</recordChangeDate>
+<recordIdentifier source="HOLLIS">004609322</recordIdentifier>
+</recordInfo>
+<location>
+<url usage="primary display" access="object in context">http://ocp.hul.harvard.edu/dl/ihp/004609322</url>
+</location>
+</mods>

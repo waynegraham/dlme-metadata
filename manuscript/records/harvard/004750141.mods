@@ -1,0 +1,90 @@
+<mods schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-4.xsd" version="3.4">
+<titleInfo>
+<title>Iṣlāḥ al-taqwīm</title>
+</titleInfo>
+<titleInfo type="alternative">
+<title>Islah üt-takvim</title>
+</titleInfo>
+<titleInfo type="uniform">
+<title>Islah üt-takvim Arabic &amp; Turkish</title>
+</titleInfo>
+<name type="personal">
+<namePart>Gazi Ahmet Muhtar Paşa</namePart>
+<namePart type="date">1839-1918</namePart>
+<role>
+<roleTerm authority="marcrelator" type="text">creator</roleTerm>
+</role>
+</name>
+<name type="personal">
+<namePart>Yakan, Shafīq Manṣūr.</namePart>
+</name>
+<typeOfResource>text</typeOfResource>
+<genre authority="marc">bibliography</genre>
+<originInfo>
+<place>
+<placeTerm authority="marccountry" type="code">ua</placeTerm>
+</place>
+<place>
+<placeTerm type="text">Miṣr [Cairo]</placeTerm>
+</place>
+<publisher>Maṭbaʻat Muḥammad Afandī Muṣṭafá</publisher>
+<dateIssued>1307 [1889 or 90]</dateIssued>
+<dateOther keyDate="yes">1889</dateOther>
+<dateIssued encoding="marc">1889</dateIssued>
+<issuance>monographic</issuance>
+</originInfo>
+<language>
+<languageTerm authority="iso639-2b" type="code">ota</languageTerm>
+</language>
+<language>
+<languageTerm authority="iso639-2b" type="code">ara</languageTerm>
+</language>
+<physicalDescription>
+<form authority="marcform">print</form>
+<extent>72, 45 p. ; 29 cm.</extent>
+</physicalDescription>
+<note type="statement of responsibility">taʼlīf al-Ghāzī Aḥmad Mukhtār Pāshā ; tarjamahu lil-ʻArabīyah Shafīq Manṣūr Yakan.</note>
+<note>Ottoman Turkish and Arabic translation in adjacent columns.</note>
+<subject authority="lcsh">
+<topic>Islamic calendar</topic>
+<geographic>Turkey</geographic>
+</subject>
+<subject>
+<hierarchicalGeographic>
+<country>Egypt</country>
+<city>Cairo</city>
+</hierarchicalGeographic>
+</subject>
+<relatedItem type="isReferencedBy">
+<note>Özege, M.S. Eski harflerle, 8163.</note>
+</relatedItem>
+<relatedItem type="series">
+<titleInfo>
+<title>Open Collections Program at Harvard University. Islamic Heritage Project</title>
+<partName>Islamic Heritage Project</partName>
+</titleInfo>
+</relatedItem>
+<identifier type="uri">http://nrs.harvard.edu/urn-3:FHCL:2251905</identifier>
+<location>
+<url access="preview">http://ids.lib.harvard.edu/ids/view/11289387?width=150&amp;height=150&amp;usethumb=y</url>
+<url access="raw object">http://nrs.harvard.edu/urn-3:FHCL:2251905</url>
+</location>
+<location>
+<physicalLocation>Networked Resource</physicalLocation>
+</location>
+<location>
+<physicalLocation type="repository">Widener Library</physicalLocation>
+</location>
+<location>
+<physicalLocation type="repository"/>
+</location>
+<recordInfo>
+<recordContentSource authority="marcorg">PUL</recordContentSource>
+<recordCreationDate encoding="marc">890609</recordCreationDate>
+<recordChangeDate encoding="iso8601">20120503100048.0</recordChangeDate>
+<recordIdentifier source="HOLLIS">004750141</recordIdentifier>
+</recordInfo>
+<location>
+<url usage="primary display" access="object in context">http://ocp.hul.harvard.edu/dl/ihp/004750141</url>
+</location>
+</mods>

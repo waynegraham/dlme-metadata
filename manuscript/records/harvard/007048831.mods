@@ -1,0 +1,93 @@
+<mods schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-4.xsd" version="3.4">
+<titleInfo>
+<title>Kitāb-i Khayrāt-i ḥisān</title>
+</titleInfo>
+<name type="personal">
+<namePart>Muḥammad Ḥasan Khān</namePart>
+<namePart type="termsOfAddress">Iʻtimād al-Salṭanah</namePart>
+<namePart type="date">-1896</namePart>
+<role>
+<roleTerm authority="marcrelator" type="text">creator</roleTerm>
+</role>
+</name>
+<name type="personal">
+<namePart>Ṣādiq, Muḥammad</namePart>
+<namePart type="termsOfAddress">Shams al-kuttāb</namePart>
+</name>
+<typeOfResource>text</typeOfResource>
+<genre authority="marc">bibliography</genre>
+<genre authority="marc">biography</genre>
+<genre authority="">Lithographs-Iran.</genre>
+<originInfo>
+<place>
+<placeTerm authority="marccountry" type="code">ir</placeTerm>
+</place>
+<place>
+<placeTerm type="text">[Tehran</placeTerm>
+</place>
+<publisher>s.n.]</publisher>
+<dateIssued>1304-1307 [1886-1889]</dateIssued>
+<dateOther keyDate="yes">1886</dateOther>
+<dateIssued encoding="marc" point="start">1886</dateIssued>
+<dateIssued encoding="marc" point="end">1889</dateIssued>
+<issuance>monographic</issuance>
+</originInfo>
+<language>
+<languageTerm authority="iso639-2b" type="code">per</languageTerm>
+</language>
+<physicalDescription>
+<form authority="marcform">print</form>
+<extent>3 v. in 2 ; 33 cm.</extent>
+</physicalDescription>
+<note type="statement of responsibility">az talʼīfāt-i Iʻtimād al-Salṭanah Muḥammad Ḥasan Khān.</note>
+<note>Lithographed.</note>
+<note>In Persian.</note>
+<subject authority="lcsh">
+<topic>Muslim women</topic>
+<topic>Biography</topic>
+</subject>
+<subject authority="lcsh">
+<topic>Women</topic>
+<geographic>Iran</geographic>
+<topic>Biography</topic>
+</subject>
+<subject>
+<hierarchicalGeographic>
+<country>Iran</country>
+<city>Tehran</city>
+</hierarchicalGeographic>
+</subject>
+<relatedItem type="series">
+<titleInfo>
+<title>Open Collections Program at Harvard University. Islamic Heritage Project</title>
+<partName>Islamic Heritage Project</partName>
+</titleInfo>
+</relatedItem>
+<identifier type="uri">http://nrs.harvard.edu/urn-3:FHCL:5142562</identifier>
+<identifier type="uri">http://nrs.harvard.edu/urn-3:FHCL:2225243</identifier>
+<location>
+<url access="preview">http://ids.lib.harvard.edu/ids/view/31795910?width=150&amp;height=150&amp;usethumb=y</url>
+<url access="raw object">http://nrs.harvard.edu/urn-3:FHCL:5142562</url>
+</location>
+<location>
+<url access="preview">http://ids.lib.harvard.edu/ids/view/11220007?width=150&amp;height=150&amp;usethumb=y</url>
+<url access="raw object">http://nrs.harvard.edu/urn-3:FHCL:2225243</url>
+</location>
+<location>
+<physicalLocation>Networked Resource</physicalLocation>
+</location>
+<location>
+<physicalLocation>Networked Resource</physicalLocation>
+</location>
+<location>
+<physicalLocation type="repository">Widener Library</physicalLocation>
+</location>
+<recordInfo>
+<recordCreationDate encoding="marc">860318</recordCreationDate>
+<recordChangeDate encoding="iso8601">20090831115303.0</recordChangeDate>
+<recordIdentifier source="HOLLIS">007048831</recordIdentifier>
+</recordInfo>
+<location>
+<url usage="primary display" access="object in context">http://ocp.hul.harvard.edu/dl/ihp/007048831</url>
+</location>
+</mods>

@@ -1,0 +1,89 @@
+<mods schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-4.xsd" version="3.4">
+<titleInfo>
+<title>Kitāb al-Barāhīn al-bayyināt fī bayān ḥaqāʼiq al-ḥayawānāt</title>
+</titleInfo>
+<titleInfo type="uniform">
+<title>Barāhīn al-bayyināt fī bayān ḥaqāʼiq al-ḥayawānāt</title>
+</titleInfo>
+<name type="personal">
+<namePart>Iskandarānī, Muḥammad ibn Aḥmad</namePart>
+<namePart type="date">-1888 or 1889</namePart>
+<role>
+<roleTerm authority="marcrelator" type="text">creator</roleTerm>
+</role>
+</name>
+<typeOfResource>text</typeOfResource>
+<genre authority="marc">bibliography</genre>
+<originInfo>
+<place>
+<placeTerm authority="marccountry" type="code">sy</placeTerm>
+</place>
+<place>
+<placeTerm type="text">[Damascus]</placeTerm>
+</place>
+<publisher>Majlis Maʻārif Wilāyat Sūrīyah</publisher>
+<dateIssued>1303 [1885 or 1886]</dateIssued>
+<dateOther keyDate="yes">1885</dateOther>
+<dateIssued encoding="marc" point="start">1885</dateIssued>
+<dateIssued encoding="marc" point="start" qualifier="questionable">1885</dateIssued>
+<issuance>monographic</issuance>
+</originInfo>
+<language>
+<languageTerm authority="iso639-2b" type="code">ara</languageTerm>
+</language>
+<physicalDescription>
+<form authority="marcform">print</form>
+<extent>372 p. ; 26 cm.</extent>
+</physicalDescription>
+<note type="statement of responsibility">li-muʼallifihi Muḥammad al-Iskandarānī.</note>
+<subject authority="lcsh">
+<topic>Zoology</topic>
+<geographic>Islamic Empire</geographic>
+<topic>History</topic>
+<topic>Sources</topic>
+</subject>
+<subject authority="lcsh">
+<topic>Muslim scholars</topic>
+<topic>Certification</topic>
+</subject>
+<subject authority="lcsh">
+<topic>Muslim scholars</topic>
+<geographic>Syria</geographic>
+<geographic>Damascus</geographic>
+</subject>
+<subject authority="lcsh">
+<geographic>Damascus (Syria)</geographic>
+<topic>Intellectual life</topic>
+</subject>
+<subject>
+<hierarchicalGeographic>
+<country>Syria</country>
+<city>Damascus</city>
+</hierarchicalGeographic>
+</subject>
+<relatedItem type="series">
+<titleInfo>
+<title>Open Collections Program at Harvard University. Islamic Heritage Project</title>
+<partName>Islamic Heritage Project</partName>
+</titleInfo>
+</relatedItem>
+<identifier type="uri">http://nrs.harvard.edu/urn-3:FHCL:2252640</identifier>
+<location>
+<url access="preview">http://ids.lib.harvard.edu/ids/view/11305843?width=150&amp;height=150&amp;usethumb=y</url>
+<url access="raw object">http://nrs.harvard.edu/urn-3:FHCL:2252640</url>
+</location>
+<location>
+<physicalLocation type="repository">Widener Library</physicalLocation>
+</location>
+<location>
+<physicalLocation>Networked Resource</physicalLocation>
+</location>
+<recordInfo>
+<recordCreationDate encoding="marc">911104</recordCreationDate>
+<recordChangeDate encoding="iso8601">20090831130411.0</recordChangeDate>
+<recordIdentifier source="HOLLIS">002376509</recordIdentifier>
+</recordInfo>
+<location>
+<url usage="primary display" access="object in context">http://ocp.hul.harvard.edu/dl/ihp/002376509</url>
+</location>
+</mods>

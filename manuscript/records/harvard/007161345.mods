@@ -1,0 +1,92 @@
+<mods schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-4.xsd" version="3.4">
+<titleInfo>
+<title>Talfīq al-akhbār wa-talqīḥ al-āthār fī waqāʻiʻ Qāzān wa-Bulghār wa-mulūk al-Tatār</title>
+</titleInfo>
+<name type="personal">
+<namePart>Ramzī, M. M. (Muḥammad Muḥammad).</namePart>
+<role>
+<roleTerm authority="marcrelator" type="text">creator</roleTerm>
+</role>
+</name>
+<typeOfResource>text</typeOfResource>
+<genre authority="marc">bibliography</genre>
+<originInfo>
+<place>
+<placeTerm authority="marccountry" type="code">ru</placeTerm>
+</place>
+<place>
+<placeTerm type="text">Ūrinbūrgh</placeTerm>
+</place>
+<publisher>al-Maṭbaʻah al-Karīmīyah wa-al-Ḥusaynīyah</publisher>
+<dateIssued>[1908]</dateIssued>
+<dateOther keyDate="yes">1908</dateOther>
+<dateIssued encoding="marc">1908</dateIssued>
+<edition>al-Ṭabʻah 1.</edition>
+<issuance>monographic</issuance>
+</originInfo>
+<language>
+<languageTerm authority="iso639-2b" type="code">ara</languageTerm>
+</language>
+<physicalDescription>
+<form authority="marcform">print</form>
+<extent>2 v. : ill., map ; 22 cm.</extent>
+</physicalDescription>
+<note type="statement of responsibility">athar M. M. al-Ramzī.</note>
+<note>Includes bibliographical references.</note>
+<subject authority="lcsh">
+<topic>Tatars</topic>
+<topic>History</topic>
+</subject>
+<subject authority="lcsh">
+<topic>Kazan Tatars</topic>
+<topic>History</topic>
+</subject>
+<subject authority="lcsh">
+<topic>Turks</topic>
+<topic>History</topic>
+</subject>
+<subject authority="lcsh">
+<topic>Bulgars (Turkic people)</topic>
+<topic>History</topic>
+</subject>
+<subject authority="lcsh">
+<geographic>Tatarstan (Russia)</geographic>
+<topic>History</topic>
+</subject>
+<subject authority="lcsh">
+<geographic>Kazanʹ (Russia)</geographic>
+<topic>History</topic>
+</subject>
+<subject>
+<hierarchicalGeographic>
+<country>Russia</country>
+<city>Orenburg</city>
+</hierarchicalGeographic>
+</subject>
+<relatedItem type="series">
+<titleInfo>
+<title>Open Collections Program at Harvard University. Islamic Heritage Project</title>
+<partName>Islamic Heritage Project</partName>
+</titleInfo>
+</relatedItem>
+<identifier type="uri">http://nrs.harvard.edu/urn-3:FHCL:2174688</identifier>
+<location>
+<url access="preview">http://ids.lib.harvard.edu/ids/view/11062894?width=150&amp;height=150&amp;usethumb=y</url>
+<url access="raw object">http://nrs.harvard.edu/urn-3:FHCL:2174688</url>
+</location>
+<location>
+<physicalLocation type="repository">Widener Library</physicalLocation>
+</location>
+<location>
+<physicalLocation>Networked Resource</physicalLocation>
+</location>
+<recordInfo>
+<recordContentSource authority="marcorg">PUL</recordContentSource>
+<recordCreationDate encoding="marc">940613</recordCreationDate>
+<recordChangeDate encoding="iso8601">20090825144237.0</recordChangeDate>
+<recordIdentifier source="HOLLIS">007161345</recordIdentifier>
+</recordInfo>
+<location>
+<url usage="primary display" access="object in context">http://ocp.hul.harvard.edu/dl/ihp/007161345</url>
+</location>
+</mods>

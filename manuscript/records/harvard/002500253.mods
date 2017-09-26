@@ -1,0 +1,85 @@
+<mods schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-4.xsd" version="3.4">
+<titleInfo>
+<title>Muḥammad Amīn ʼalá Jihat al-waḥdah</title>
+</titleInfo>
+<titleInfo type="alternative">
+<title>Jihat al-waḥdah</title>
+</titleInfo>
+<titleInfo type="uniform">
+<title>Risālat jihat al-waḥdah</title>
+</titleInfo>
+<name type="personal">
+<namePart>Shirwānī, Muḥammad al-Amīn ibn Ṣadr al-Dīn</namePart>
+<namePart type="date">-1626 or 1627</namePart>
+<role>
+<roleTerm authority="marcrelator" type="text">creator</roleTerm>
+</role>
+</name>
+<typeOfResource>text</typeOfResource>
+<genre authority="marc">bibliography</genre>
+<originInfo>
+<place>
+<placeTerm authority="marccountry" type="code">tu</placeTerm>
+</place>
+<place>
+<placeTerm type="text">[Istanbul]</placeTerm>
+</place>
+<publisher>Maṭbaʼat al-Ḥājj Muḥammad Afandī al-Busnawī</publisher>
+<dateIssued>1288 [1871]</dateIssued>
+<dateOther keyDate="yes">1871</dateOther>
+<dateIssued encoding="marc">1871</dateIssued>
+<issuance>monographic</issuance>
+</originInfo>
+<language>
+<languageTerm authority="iso639-2b" type="code">ara</languageTerm>
+</language>
+<physicalDescription>
+<form authority="marcform">print</form>
+<extent>28 p. ; 22 cm.</extent>
+</physicalDescription>
+<note type="statement of responsibility">[Muḥammad al-Amīn ibn Ṣadr al-Dīn Shirwānī].</note>
+<note>Title from caption.</note>
+<subject authority="lcsh">
+<topic>Logic</topic>
+</subject>
+<subject authority="lcsh">
+<topic>Islamic philosophy</topic>
+</subject>
+<subject authority="lcsh">
+<name type="personal">
+<namePart>Fanārī, Muḥammad ibn Ḥamzah</namePart>
+<namePart type="date">1350 or 1351-1430 or 1431</namePart>
+</name>
+</subject>
+<subject>
+<hierarchicalGeographic>
+<country>Turkey</country>
+<city>Istanbul</city>
+</hierarchicalGeographic>
+</subject>
+<relatedItem type="series">
+<titleInfo>
+<title>Open Collections Program at Harvard University. Islamic Heritage Project</title>
+<partName>Islamic Heritage Project</partName>
+</titleInfo>
+</relatedItem>
+<identifier type="uri">http://nrs.harvard.edu/urn-3:FHCL:2174613</identifier>
+<location>
+<url access="preview">http://ids.lib.harvard.edu/ids/view/11057508?width=150&amp;height=150&amp;usethumb=y</url>
+<url access="raw object">http://nrs.harvard.edu/urn-3:FHCL:2174613</url>
+</location>
+<location>
+<physicalLocation>Networked Resource</physicalLocation>
+</location>
+<location>
+<physicalLocation type="repository">Widener Library</physicalLocation>
+</location>
+<recordInfo>
+<recordCreationDate encoding="marc">920317</recordCreationDate>
+<recordChangeDate encoding="iso8601">20090901122330.0</recordChangeDate>
+<recordIdentifier source="HOLLIS">002500253</recordIdentifier>
+</recordInfo>
+<location>
+<url usage="primary display" access="object in context">http://ocp.hul.harvard.edu/dl/ihp/002500253</url>
+</location>
+</mods>

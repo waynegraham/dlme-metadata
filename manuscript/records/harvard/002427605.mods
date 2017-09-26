@@ -1,0 +1,105 @@
+<mods schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-4.xsd" version="3.4">
+<titleInfo>
+<title>Sharḥ Ashkāl al-taʼsīs</title>
+</titleInfo>
+<titleInfo type="alternative">
+<title>Ashkāl al-taʼsīs</title>
+</titleInfo>
+<name type="personal">
+<namePart>Qāḍīʹzādah, Mūsá ibn Muḥammad</namePart>
+<namePart type="date">-approximately 1436</namePart>
+<role>
+<roleTerm authority="marcrelator" type="text">creator</roleTerm>
+</role>
+</name>
+<typeOfResource>text</typeOfResource>
+<genre authority="marc">bibliography</genre>
+<originInfo>
+<place>
+<placeTerm authority="marccountry" type="code">tu</placeTerm>
+</place>
+<place>
+<placeTerm type="text">[Istanbul]</placeTerm>
+</place>
+<publisher>al-Ḥājj ʻAlī al-Raḍī</publisher>
+<dateIssued>1274 [1858]</dateIssued>
+<dateOther keyDate="yes">1858</dateOther>
+<dateIssued encoding="marc">1858</dateIssued>
+<issuance>monographic</issuance>
+</originInfo>
+<language>
+<languageTerm authority="iso639-2b" type="code">ara</languageTerm>
+</language>
+<physicalDescription>
+<form authority="marcform">print</form>
+<extent>56 p. ; 23 cm.</extent>
+</physicalDescription>
+<note type="statement of responsibility">[Mūsá ibn Muḥammad Qāḍīʹzādah].</note>
+<subject authority="lcsh">
+<name type="personal">
+<namePart>Euclides</namePart>
+</name>
+</subject>
+<subject authority="lcsh">
+<topic>Geometry</topic>
+<topic>Early works to 1800</topic>
+</subject>
+<subject authority="lcsh">
+<topic>Mathematics, Arab</topic>
+<topic>Early works to 1800</topic>
+</subject>
+<subject authority="lcsh">
+<name type="personal">
+<namePart>Samarqandī, Muḥammad ibn Ashraf</namePart>
+<namePart type="date">active 13th century</namePart>
+</name>
+</subject>
+<subject>
+<hierarchicalGeographic>
+<country>Turkey</country>
+<city>Istanbul</city>
+</hierarchicalGeographic>
+</subject>
+<relatedItem>
+<titleInfo>
+<title>Ashkāl al-taʼsīs</title>
+</titleInfo>
+<name type="personal">
+<namePart>Samarqandī, Muḥammad ibn Ashraf,</namePart>
+<namePart type="date">active 13th century</namePart>
+</name>
+</relatedItem>
+<relatedItem type="constituent">
+<titleInfo>
+<title>Ḥāshiyah ʻalá Sharḥ Ashkāl al-taʼsīs</title>
+</titleInfo>
+<name type="personal">
+<namePart>Saʻīdī, Abū al-Fatḥ Muḥammad Hādī ibn Abī Naṣr.</namePart>
+</name>
+</relatedItem>
+<relatedItem type="series">
+<titleInfo>
+<title>Open Collections Program at Harvard University. Islamic Heritage Project</title>
+<partName>Islamic Heritage Project</partName>
+</titleInfo>
+</relatedItem>
+<identifier type="uri">http://nrs.harvard.edu/urn-3:FHCL:2174123</identifier>
+<location>
+<url access="preview">http://ids.lib.harvard.edu/ids/view/11053475?width=150&amp;height=150&amp;usethumb=y</url>
+<url access="raw object">http://nrs.harvard.edu/urn-3:FHCL:2174123</url>
+</location>
+<location>
+<physicalLocation type="repository">Widener Library</physicalLocation>
+</location>
+<location>
+<physicalLocation>Networked Resource</physicalLocation>
+</location>
+<recordInfo>
+<recordCreationDate encoding="marc">920116</recordCreationDate>
+<recordChangeDate encoding="iso8601">20090902152242.0</recordChangeDate>
+<recordIdentifier source="HOLLIS">002427605</recordIdentifier>
+</recordInfo>
+<location>
+<url usage="primary display" access="object in context">http://ocp.hul.harvard.edu/dl/ihp/002427605</url>
+</location>
+</mods>

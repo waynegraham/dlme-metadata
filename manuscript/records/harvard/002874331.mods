@@ -1,0 +1,80 @@
+<mods schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-4.xsd" version="3.4">
+<titleInfo>
+<title>Hādhā kitāb Kashf al-labs ʻan ḥadīth waḍʻ al-yad ʻalá al-raʼs</title>
+</titleInfo>
+<titleInfo type="alternative">
+<title>Kitāb Kashf al-lubs ʻan ḥadīth waḍʻ al-yad ʻalá al-raʼs</title>
+</titleInfo>
+<titleInfo type="uniform">
+<title>Kashf al-labs ʻan ḥadīth waḍʻ al-yad ʻalá al-raʼs</title>
+</titleInfo>
+<name type="personal">
+<namePart>Kattānī, ʻAbd al-Ḥayy ibn ʻAbd al-Kabīr.</namePart>
+<role>
+<roleTerm authority="marcrelator" type="text">creator</roleTerm>
+</role>
+</name>
+<typeOfResource>text</typeOfResource>
+<genre authority="marc">bibliography</genre>
+<originInfo>
+<place>
+<placeTerm authority="marccountry" type="code">mr</placeTerm>
+</place>
+<place>
+<placeTerm type="text">Ṭanjah</placeTerm>
+</place>
+<publisher>al-Maṭbaʻah al-Maghribīyah</publisher>
+<dateIssued>1326 [1908]</dateIssued>
+<dateOther keyDate="yes">1908</dateOther>
+<dateIssued encoding="marc">1908</dateIssued>
+<issuance>monographic</issuance>
+</originInfo>
+<language>
+<languageTerm authority="iso639-2b" type="code">ara</languageTerm>
+</language>
+<physicalDescription>
+<form authority="marcform">print</form>
+<extent>55 p. ; 21 cm.</extent>
+</physicalDescription>
+<note type="statement of responsibility">li-ʻAbd al-Ḥayy ibn Abī al-Makārim ʻAbd al-Kabīr al-Kattānī.</note>
+<note>Cover title.</note>
+<subject authority="lcsh">
+<topic>Hadith</topic>
+<topic>Criticism, interpretation, etc</topic>
+</subject>
+<subject authority="lcsh">
+<topic>Islam</topic>
+<topic>Customs and practices</topic>
+</subject>
+<subject>
+<hierarchicalGeographic>
+<country>Morocco</country>
+<city>Tangier</city>
+</hierarchicalGeographic>
+</subject>
+<relatedItem type="series">
+<titleInfo>
+<title>Open Collections Program at Harvard University. Islamic Heritage Project</title>
+<partName>Islamic Heritage Project</partName>
+</titleInfo>
+</relatedItem>
+<identifier type="uri">http://nrs.harvard.edu/urn-3:FHCL:2251910</identifier>
+<location>
+<url access="preview">http://ids.lib.harvard.edu/ids/view/11290995?width=150&amp;height=150&amp;usethumb=y</url>
+<url access="raw object">http://nrs.harvard.edu/urn-3:FHCL:2251910</url>
+</location>
+<location>
+<physicalLocation type="repository">Widener Library</physicalLocation>
+</location>
+<location>
+<physicalLocation>Networked Resource</physicalLocation>
+</location>
+<recordInfo>
+<recordCreationDate encoding="marc">930311</recordCreationDate>
+<recordChangeDate encoding="iso8601">20090825143048.0</recordChangeDate>
+<recordIdentifier source="HOLLIS">002874331</recordIdentifier>
+</recordInfo>
+<location>
+<url usage="primary display" access="object in context">http://ocp.hul.harvard.edu/dl/ihp/002874331</url>
+</location>
+</mods>

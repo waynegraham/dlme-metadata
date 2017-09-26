@@ -1,0 +1,113 @@
+<mods schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-4.xsd" version="3.4">
+<titleInfo>
+<title>Farhang-i Shuʻūrī va al-musammāh bi-Navāl al-fuz̤alā va lisān al-ʻAjam</title>
+</titleInfo>
+<titleInfo type="alternative">
+<title>Ferheng-i Şuuri</title>
+</titleInfo>
+<titleInfo type="alternative">
+<title>Lisān al-ʻAjam, yā Farhang-i Shuʻūrī</title>
+</titleInfo>
+<titleInfo type="alternative">
+<title>Lisan ül-Acem ya Ferheng-i Şuuri</title>
+</titleInfo>
+<titleInfo type="alternative">
+<title>Farhang-i Shuʻūrī</title>
+</titleInfo>
+<titleInfo type="alternative">
+<title>Neval ül-fuzela ve lisan ül-Acem</title>
+</titleInfo>
+<titleInfo type="alternative">
+<title>Nawāl al-fuz̤alā va lisān al-ʻAjam</title>
+</titleInfo>
+<titleInfo type="alternative">
+<title>Lisanü'l-Acem</title>
+</titleInfo>
+<titleInfo type="alternative">
+<title>Nevalü'l-fuzela</title>
+</titleInfo>
+<name type="personal">
+<namePart>Hasan Şuuri</namePart>
+<namePart type="date">-1693</namePart>
+<role>
+<roleTerm authority="marcrelator" type="text">creator</roleTerm>
+</role>
+</name>
+<name type="personal">
+<namePart>İbrahim Müteferrika</namePart>
+<namePart type="date">1674?-1745</namePart>
+</name>
+<typeOfResource>text</typeOfResource>
+<genre authority="marc">dictionary</genre>
+<originInfo>
+<place>
+<placeTerm authority="marccountry" type="code">tu</placeTerm>
+</place>
+<place>
+<placeTerm type="text">Kostantiniye</placeTerm>
+</place>
+<publisher>Dar ut-Tıbaat il-Mamure</publisher>
+<dateIssued>1155 [1742]</dateIssued>
+<dateOther keyDate="yes">1742</dateOther>
+<dateIssued encoding="marc">1742</dateIssued>
+<issuance>monographic</issuance>
+</originInfo>
+<language>
+<languageTerm authority="iso639-2b" type="code">ota</languageTerm>
+</language>
+<language>
+<languageTerm authority="iso639-2b" type="code">per</languageTerm>
+</language>
+<physicalDescription>
+<form authority="marcform">print</form>
+<extent>2 v. ; 33 cm.</extent>
+</physicalDescription>
+<note type="statement of responsibility">[Hasan Şuuri].</note>
+<note>Last of the books printed by İ. Müteferrika. Cf. E. J. Brill. Catalogue No. 453 p. 61; A Catalogue of the Persian printed books in the British Museum. col. 666.</note>
+<note>Title romanized.</note>
+<note>Title from colophon.</note>
+<note>In Ottoman Turkish and Persian.</note>
+<subject authority="lcsh">
+<topic>Persian language</topic>
+<topic>Dictionaries</topic>
+<topic>Turkish</topic>
+<topic>Early works to 1800</topic>
+</subject>
+<subject authority="lcsh">
+<topic>Persian language</topic>
+<topic>Dictionaries</topic>
+<topic>Early works to 1800</topic>
+</subject>
+<subject>
+<hierarchicalGeographic>
+<country>Turkey</country>
+<city>Istanbul</city>
+</hierarchicalGeographic>
+</subject>
+<relatedItem type="series">
+<titleInfo>
+<title>Open Collections Program at Harvard University. Islamic Heritage Project</title>
+<partName>Islamic Heritage Project</partName>
+</titleInfo>
+</relatedItem>
+<identifier type="uri">http://nrs.harvard.edu/urn-3:FHCL:2033507</identifier>
+<location>
+<url access="preview">http://ids.lib.harvard.edu/ids/view/10615959?width=150&amp;height=150&amp;usethumb=y</url>
+<url access="raw object">http://nrs.harvard.edu/urn-3:FHCL:2033507</url>
+</location>
+<location>
+<physicalLocation>Networked Resource</physicalLocation>
+</location>
+<location>
+<physicalLocation type="repository">Widener Library</physicalLocation>
+</location>
+<recordInfo>
+<recordContentSource authority="marcorg">CUY</recordContentSource>
+<recordCreationDate encoding="marc">850611</recordCreationDate>
+<recordChangeDate encoding="iso8601">20090908112709.0</recordChangeDate>
+<recordIdentifier source="HOLLIS">006947329</recordIdentifier>
+</recordInfo>
+<location>
+<url usage="primary display" access="object in context">http://ocp.hul.harvard.edu/dl/ihp/006947329</url>
+</location>
+</mods>

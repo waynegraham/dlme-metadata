@@ -1,0 +1,80 @@
+<mods schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-4.xsd" version="3.4">
+<titleInfo>
+<title>Ishārāt al-uṣūl ilá mafātīḥ al-aḥkām ḥasaba mā yaqtaḍīh al-awqāt wa-al-ayyām</title>
+</titleInfo>
+<name type="personal">
+<namePart>Kirbāsī, Muḥammad ibn Ibrāhīm</namePart>
+<namePart type="date">1766 or 1767-1844</namePart>
+<role>
+<roleTerm authority="marcrelator" type="text">creator</roleTerm>
+</role>
+</name>
+<typeOfResource>text</typeOfResource>
+<genre authority="marc">bibliography</genre>
+<originInfo>
+<place>
+<placeTerm authority="marccountry" type="code">ir</placeTerm>
+</place>
+<place>
+<placeTerm type="text">[Ṭihrān?</placeTerm>
+</place>
+<publisher>s.n.</publisher>
+<dateIssued>1245 [1829 or 30]]</dateIssued>
+<dateOther keyDate="yes">1830</dateOther>
+<dateIssued encoding="marc">1830</dateIssued>
+<issuance>monographic</issuance>
+</originInfo>
+<language>
+<languageTerm authority="iso639-2b" type="code">ara</languageTerm>
+</language>
+<language>
+<languageTerm authority="iso639-2b" type="code">per</languageTerm>
+</language>
+<physicalDescription>
+<form authority="marcform">print</form>
+<extent>281 leaves ; 30 cm.</extent>
+</physicalDescription>
+<note type="statement of responsibility">bi-saʻy Mīrzā Zayn al-ʻĀbidīn.</note>
+<note>In Arabic ; introd. in Persian.</note>
+<subject authority="lcsh">
+<topic>Islam</topic>
+<topic>Doctrines</topic>
+<topic>Early works to 1800</topic>
+</subject>
+<subject authority="lcsh">
+<topic>Islamic law</topic>
+<topic>Interpretation and construction</topic>
+<topic>Early works to 1800</topic>
+</subject>
+<subject>
+<hierarchicalGeographic>
+<country>Iran</country>
+<city>Tehran</city>
+</hierarchicalGeographic>
+</subject>
+<relatedItem type="series">
+<titleInfo>
+<title>Open Collections Program at Harvard University. Islamic Heritage Project</title>
+<partName>Islamic Heritage Project</partName>
+</titleInfo>
+</relatedItem>
+<identifier type="uri">http://nrs.harvard.edu/urn-3:FHCL:2232057</identifier>
+<location>
+<url access="preview">http://ids.lib.harvard.edu/ids/view/11234753?width=150&amp;height=150&amp;usethumb=y</url>
+<url access="raw object">http://nrs.harvard.edu/urn-3:FHCL:2232057</url>
+</location>
+<location>
+<physicalLocation type="repository">Widener Library</physicalLocation>
+</location>
+<location>
+<physicalLocation>Networked Resource</physicalLocation>
+</location>
+<recordInfo>
+<recordCreationDate encoding="marc">961031</recordCreationDate>
+<recordChangeDate encoding="iso8601">20090903141640.0</recordChangeDate>
+<recordIdentifier source="HOLLIS">007265191</recordIdentifier>
+</recordInfo>
+<location>
+<url usage="primary display" access="object in context">http://ocp.hul.harvard.edu/dl/ihp/007265191</url>
+</location>
+</mods>

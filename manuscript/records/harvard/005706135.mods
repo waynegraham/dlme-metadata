@@ -1,0 +1,98 @@
+<mods schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-4.xsd" version="3.4">
+<titleInfo>
+<title>Aksa'l-ereb fî tercemeti Mukaddimeti'l-edeb</title>
+</titleInfo>
+<titleInfo type="alternative">
+<title>Aksa'l-ereb terceme-yi Mukaddimetü'l-edeb</title>
+</titleInfo>
+<titleInfo type="alternative">
+<title>Aksa el-ereb terceme-yi Mukaddimet ül-edeb</title>
+</titleInfo>
+<titleInfo type="alternative">
+<title>Aqṣá al-arab tarjamat Muqaddimat al-adab</title>
+</titleInfo>
+<titleInfo type="alternative">
+<title>Aqṣá al-arab fī tarjamat Muqaddimat al-adab</title>
+</titleInfo>
+<titleInfo type="alternative">
+<title>Terceme-yi Mukaddimetü'l-edeb</title>
+</titleInfo>
+<titleInfo type="uniform">
+<title>Muqaddimat al-adab Ottoman Turkish</title>
+</titleInfo>
+<name type="personal">
+<namePart>Zamakhsharī, Maḥmūd ibn ʻUmar</namePart>
+<namePart type="date">1075-1144</namePart>
+<role>
+<roleTerm authority="marcrelator" type="text">creator</roleTerm>
+</role>
+</name>
+<typeOfResource>text</typeOfResource>
+<genre authority="marc">dictionary</genre>
+<originInfo>
+<place>
+<placeTerm authority="marccountry" type="code">tu</placeTerm>
+</place>
+<place>
+<placeTerm type="text">[Istanbul]</placeTerm>
+</place>
+<publisher>Matbaa-yi Amire</publisher>
+<dateIssued>1313 [1895 or 6]</dateIssued>
+<dateOther keyDate="yes">1895</dateOther>
+<dateIssued encoding="marc">1895</dateIssued>
+<issuance>monographic</issuance>
+</originInfo>
+<language>
+<languageTerm authority="iso639-2b" type="code">ota</languageTerm>
+</language>
+<physicalDescription>
+<form authority="marcform">print</form>
+<extent>2 v. in 1 (304-205 p.) ; 28 cm.</extent>
+</physicalDescription>
+<note type="statement of responsibility">[Maḥmūd ibn ʻUmar Zamakhsharī].</note>
+<note>Translation of: Muqaddimat al-adab.</note>
+<note>In Ottoman Turkish with Arabic and Persian originals within text.</note>
+<subject authority="lcsh">
+<topic>Arabic language</topic>
+<topic>Dictionaries</topic>
+<topic>Turkish</topic>
+<topic>Early works to 1800</topic>
+</subject>
+<subject authority="lcsh">
+<topic>Persian language</topic>
+<topic>Dictionaries</topic>
+<topic>Turkish</topic>
+<topic>Early works to 1800</topic>
+</subject>
+<subject>
+<hierarchicalGeographic>
+<country>Turkey</country>
+<city>Istanbul</city>
+</hierarchicalGeographic>
+</subject>
+<relatedItem type="series">
+<titleInfo>
+<title>Open Collections Program at Harvard University. Islamic Heritage Project</title>
+<partName>Islamic Heritage Project</partName>
+</titleInfo>
+</relatedItem>
+<identifier type="uri">http://nrs.harvard.edu/urn-3:FHCL:2158446</identifier>
+<location>
+<url access="preview">http://ids.lib.harvard.edu/ids/view/10996295?width=150&amp;height=150&amp;usethumb=y</url>
+<url access="raw object">http://nrs.harvard.edu/urn-3:FHCL:2158446</url>
+</location>
+<location>
+<physicalLocation type="repository">Widener Library</physicalLocation>
+</location>
+<location>
+<physicalLocation>Networked Resource</physicalLocation>
+</location>
+<recordInfo>
+<recordCreationDate encoding="marc">950622</recordCreationDate>
+<recordChangeDate encoding="iso8601">20090915175608.0</recordChangeDate>
+<recordIdentifier source="HOLLIS">005706135</recordIdentifier>
+</recordInfo>
+<location>
+<url usage="primary display" access="object in context">http://ocp.hul.harvard.edu/dl/ihp/005706135</url>
+</location>
+</mods>

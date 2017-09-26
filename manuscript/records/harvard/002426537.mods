@@ -1,0 +1,122 @@
+<mods schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-4.xsd" version="3.4">
+<titleInfo>
+<title>Aruz-i Endelusi şerhi</title>
+</titleInfo>
+<titleInfo type="alternative">
+<title>Sharḥ mushkilāt al-Mukhtaṣar fī ʻilm al-ʻarūḍ</title>
+</titleInfo>
+<titleInfo type="alternative">
+<title>Tashrīḥ mushkilāt al-Mukhtaṣar fī ʻilm al-ʻarūḍ</title>
+</titleInfo>
+<titleInfo type="alternative">
+<title>Bayān mushkilāt al-Mukhtaṣar fī ʻilm al-ʻarūḍ</title>
+</titleInfo>
+<titleInfo type="alternative">
+<title>Tercüme-i Endülüsî</title>
+</titleInfo>
+<titleInfo type="alternative">
+<title>Terceme-yi Endülüsî</title>
+</titleInfo>
+<titleInfo type="uniform">
+<title>Sharḥ ʻArūḍ al-Andalusī. Arabic &amp; Ottoman Turkish</title>
+</titleInfo>
+<name type="personal">
+<namePart>Qayṣarī, ʻAbd al-Muḥsin</namePart>
+<namePart type="date">-1467</namePart>
+<role>
+<roleTerm authority="marcrelator" type="text">creator</roleTerm>
+</role>
+</name>
+<typeOfResource>text</typeOfResource>
+<genre authority="marc">bibliography</genre>
+<genre authority="">Lithographs.</genre>
+<originInfo>
+<place>
+<placeTerm authority="marccountry" type="code">tu</placeTerm>
+</place>
+<place>
+<placeTerm type="text">[Istanbul]</placeTerm>
+</place>
+<publisher>Karahisarî Ali Efendizade Esat Efendinin Matbaası</publisher>
+<dateIssued>1286 [1869]</dateIssued>
+<dateOther keyDate="yes">1869</dateOther>
+<dateIssued encoding="marc">1869</dateIssued>
+<issuance>monographic</issuance>
+</originInfo>
+<language>
+<languageTerm authority="iso639-2b" type="code">ota</languageTerm>
+</language>
+<language>
+<languageTerm authority="iso639-2b" type="code">ara</languageTerm>
+</language>
+<physicalDescription>
+<form authority="marcform">print</form>
+<extent>95 p. ; 24 cm.</extent>
+</physicalDescription>
+<note type="statement of responsibility">[ʻAbd al-Muḥsin al-Qayṣarī].</note>
+<note>Lithographed.</note>
+<note>Title from colophon.</note>
+<note>In Arabic, with Ottoman Turkish translation by Muṣṭafá ʻIṣām al-Dīn (p. 44-end).</note>
+<subject authority="lcsh">
+<name type="personal">
+<namePart>Abū al-Jaysh, Muḥammad ibn Ḥusayn</namePart>
+<namePart type="date">-1228 or 1229</namePart>
+</name>
+</subject>
+<subject authority="lcsh">
+<topic>Arabic language</topic>
+<topic>Versification</topic>
+</subject>
+<subject authority="lcsh">
+<topic>Arabic poetry</topic>
+<topic>History and criticism</topic>
+</subject>
+<subject>
+<hierarchicalGeographic>
+<country>Turkey</country>
+<city>Istanbul</city>
+</hierarchicalGeographic>
+</subject>
+<relatedItem type="constituent">
+<titleInfo>
+<title>Tercüme-i Endülüsî. 1869</title>
+</titleInfo>
+<name type="personal">
+<namePart>ʻIṣām al-Dīn, Muṣṭafá,</namePart>
+</name>
+</relatedItem>
+<relatedItem type="constituent">
+<titleInfo>
+<title>ʻArūḍ al-Andalusī. 1869</title>
+</titleInfo>
+<name type="personal">
+<namePart>Abū al-Jaysh, Muḥammad ibn Ḥusayn,</namePart>
+<namePart type="date">-1228 or 1229</namePart>
+</name>
+</relatedItem>
+<relatedItem type="series">
+<titleInfo>
+<title>Open Collections Program at Harvard University. Islamic Heritage Project</title>
+<partName>Islamic Heritage Project</partName>
+</titleInfo>
+</relatedItem>
+<identifier type="uri">http://nrs.harvard.edu/urn-3:FHCL:2174122</identifier>
+<location>
+<url access="preview">http://ids.lib.harvard.edu/ids/view/11053371?width=150&amp;height=150&amp;usethumb=y</url>
+<url access="raw object">http://nrs.harvard.edu/urn-3:FHCL:2174122</url>
+</location>
+<location>
+<physicalLocation type="repository">Widener Library</physicalLocation>
+</location>
+<location>
+<physicalLocation>Networked Resource</physicalLocation>
+</location>
+<recordInfo>
+<recordCreationDate encoding="marc">920114</recordCreationDate>
+<recordChangeDate encoding="iso8601">20090910174853.0</recordChangeDate>
+<recordIdentifier source="HOLLIS">002426537</recordIdentifier>
+</recordInfo>
+<location>
+<url usage="primary display" access="object in context">http://ocp.hul.harvard.edu/dl/ihp/002426537</url>
+</location>
+</mods>

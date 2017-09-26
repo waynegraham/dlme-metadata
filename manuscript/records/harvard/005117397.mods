@@ -1,0 +1,71 @@
+<mods schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-4.xsd" version="3.4">
+<titleInfo>
+<title>Girit tarihi</title>
+</titleInfo>
+<name type="personal">
+<namePart>Hüseyin Kami Hanyavî</namePart>
+<namePart type="date">1878-1912</namePart>
+<role>
+<roleTerm authority="marcrelator" type="text">creator</roleTerm>
+</role>
+</name>
+<typeOfResource>text</typeOfResource>
+<genre authority="marc">bibliography</genre>
+<originInfo>
+<place>
+<placeTerm authority="marccountry" type="code">tu</placeTerm>
+</place>
+<place>
+<placeTerm type="text">Dersaadet</placeTerm>
+</place>
+<publisher>Mühendisoğlu Ohanes Matbaası</publisher>
+<dateIssued>1288 [1872]</dateIssued>
+<dateOther keyDate="yes">1872</dateOther>
+<dateIssued encoding="marc">1872</dateIssued>
+<issuance>monographic</issuance>
+</originInfo>
+<language>
+<languageTerm authority="iso639-2b" type="code">ota</languageTerm>
+</language>
+<physicalDescription>
+<form authority="marcform">print</form>
+<extent>307 p. ; maps. ; 23 cm.</extent>
+</physicalDescription>
+<note type="statement of responsibility">eser-i Hüseyin Kami Hanyavî.</note>
+<note>In Ottoman Turkish.</note>
+<subject authority="lcsh">
+<geographic>Crete (Greece)</geographic>
+<topic>History</topic>
+</subject>
+<subject>
+<hierarchicalGeographic>
+<country>Turkey</country>
+<city>Istanbul</city>
+</hierarchicalGeographic>
+</subject>
+<relatedItem type="series">
+<titleInfo>
+<title>Open Collections Program at Harvard University. Islamic Heritage Project</title>
+<partName>Islamic Heritage Project</partName>
+</titleInfo>
+</relatedItem>
+<identifier type="uri">http://nrs.harvard.edu/urn-3:FHCL:2153399</identifier>
+<location>
+<url access="preview">http://ids.lib.harvard.edu/ids/view/10987933?width=150&amp;height=150&amp;usethumb=y</url>
+<url access="raw object">http://nrs.harvard.edu/urn-3:FHCL:2153399</url>
+</location>
+<location>
+<physicalLocation type="repository">Widener Library</physicalLocation>
+</location>
+<location>
+<physicalLocation>Networked Resource</physicalLocation>
+</location>
+<recordInfo>
+<recordCreationDate encoding="marc">950103</recordCreationDate>
+<recordChangeDate encoding="iso8601">20090901114112.0</recordChangeDate>
+<recordIdentifier source="HOLLIS">005117397</recordIdentifier>
+</recordInfo>
+<location>
+<url usage="primary display" access="object in context">http://ocp.hul.harvard.edu/dl/ihp/005117397</url>
+</location>
+</mods>

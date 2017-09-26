@@ -1,0 +1,97 @@
+<mods schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-4.xsd" version="3.4">
+<titleInfo>
+<title>Kitāb-i Ādāb al-mulūk</title>
+</titleInfo>
+<titleInfo type="uniform">
+<title>Ādāb al-mulūk</title>
+</titleInfo>
+<name type="personal">
+<namePart>Ṭabāṭabāʼī, Muḥammad Rafīʻ ibn ʻAlī Aṣghar.</namePart>
+<role>
+<roleTerm authority="marcrelator" type="text">creator</roleTerm>
+</role>
+</name>
+<typeOfResource>text</typeOfResource>
+<genre authority="marc">bibliography</genre>
+<genre authority="">Lithographs.-Iran</genre>
+<originInfo>
+<place>
+<placeTerm authority="marccountry" type="code">ir</placeTerm>
+</place>
+<place>
+<placeTerm type="text">[Tabrīz</placeTerm>
+</place>
+<publisher>Aḥmad Āqā Tājir]</publisher>
+<dateIssued>1320 [1902 or 1903]</dateIssued>
+<dateOther keyDate="yes">1902</dateOther>
+<dateIssued encoding="marc">1902</dateIssued>
+<issuance>monographic</issuance>
+</originInfo>
+<language>
+<languageTerm authority="iso639-2b" type="code">per</languageTerm>
+</language>
+<language>
+<languageTerm authority="iso639-2b" type="code">ara</languageTerm>
+</language>
+<physicalDescription>
+<form authority="marcform">print</form>
+<extent>323 p. ; 22 cm.</extent>
+</physicalDescription>
+<note type="statement of responsibility">[Muḥammad Rafīʻ ibn ʻAlī Aṣghar al-Ṭabāṭabāʼī].</note>
+<note>Lithographed.</note>
+<note>In Persian with quotations in Arabic.</note>
+<subject authority="lcsh">
+<name type="personal">
+<namePart>ʻAlī ibn Abī Ṭālib</namePart>
+<namePart type="termsOfAddress">Caliph</namePart>
+<namePart type="date">approximately 600-661</namePart>
+</name>
+</subject>
+<subject authority="lcsh">
+<topic>Kings and rulers</topic>
+<topic>Duties</topic>
+</subject>
+<subject authority="lcsh">
+<topic>Kings and rulers</topic>
+<topic>Religious aspects</topic>
+<topic>Islam</topic>
+</subject>
+<subject authority="lcsh">
+<geographic>Islamic Empire</geographic>
+<topic>Kings and rulers</topic>
+</subject>
+<subject authority="lcsh">
+<topic>Islam and state</topic>
+</subject>
+<subject>
+<hierarchicalGeographic>
+<country>Iran</country>
+<city>Tabrīz</city>
+</hierarchicalGeographic>
+</subject>
+<relatedItem type="series">
+<titleInfo>
+<title>Open Collections Program at Harvard University. Islamic Heritage Project</title>
+<partName>Islamic Heritage Project</partName>
+</titleInfo>
+</relatedItem>
+<identifier type="uri">http://nrs.harvard.edu/urn-3:FHCL:2174616</identifier>
+<location>
+<url access="preview">http://ids.lib.harvard.edu/ids/view/11058037?width=150&amp;height=150&amp;usethumb=y</url>
+<url access="raw object">http://nrs.harvard.edu/urn-3:FHCL:2174616</url>
+</location>
+<location>
+<physicalLocation type="repository">Widener Library</physicalLocation>
+</location>
+<location>
+<physicalLocation>Networked Resource</physicalLocation>
+</location>
+<recordInfo>
+<recordCreationDate encoding="marc">961105</recordCreationDate>
+<recordChangeDate encoding="iso8601">20090826160314.0</recordChangeDate>
+<recordIdentifier source="HOLLIS">007271053</recordIdentifier>
+</recordInfo>
+<location>
+<url usage="primary display" access="object in context">http://ocp.hul.harvard.edu/dl/ihp/007271053</url>
+</location>
+</mods>

@@ -1,0 +1,107 @@
+<mods schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-4.xsd" version="3.4">
+<titleInfo>
+<title>Hādhā kitāb Maṭāliʻ al-anẓār</title>
+</titleInfo>
+<titleInfo type="alternative">
+<title>Kitāb Maṭāliʻ al-anẓār</title>
+</titleInfo>
+<titleInfo type="uniform">
+<title>Maṭāliʻ al-anẓār</title>
+</titleInfo>
+<titleInfo type="alternative">
+<title>Ḥāshiyat al-Sayyid al-Sharīf al-Jurjānī ʻalá Maṭāliʻ al-anẓār</title>
+</titleInfo>
+<name type="personal">
+<namePart>Iṣfahānī, Maḥmūd ibn ʻAbd al-Raḥmān</namePart>
+<namePart type="date">1275 or 1276-1348 or 1349</namePart>
+<role>
+<roleTerm authority="marcrelator" type="text">creator</roleTerm>
+</role>
+</name>
+<typeOfResource>text</typeOfResource>
+<genre authority="marc">bibliography</genre>
+<genre authority="">Lithographs.</genre>
+<originInfo>
+<place>
+<placeTerm authority="marccountry" type="code">tu</placeTerm>
+</place>
+<place>
+<placeTerm type="text">[Dar Saʻādat]</placeTerm>
+</place>
+<publisher>Ṣirket-i İlmiye</publisher>
+<dateIssued>1305 [1887]</dateIssued>
+<dateOther keyDate="yes">1887</dateOther>
+<dateIssued encoding="marc">1887</dateIssued>
+<issuance>monographic</issuance>
+</originInfo>
+<language>
+<languageTerm authority="iso639-2b" type="code">ara</languageTerm>
+</language>
+<physicalDescription>
+<form authority="marcform">print</form>
+<extent>493 p. ; 26 cm.</extent>
+</physicalDescription>
+<note type="statement of responsibility">li-Abī al-Thanāʼ Shams al-Dīn ibn Maḥmūd ibn ʻAbd al-Raḥmān al-Iṣfahānī. Maʻa matnihi Ṭawāliʻ al-anwār / li-ʻAbd Allāh ibn ʻUmar al-Bayḍāwī. wa-bi-hāmishihimā Ḥāshiyat al-Sayyid al-Sharīf al-Jurjānī.</note>
+<note>Lithograph.</note>
+<subject authority="lcsh">
+<topic>Islam</topic>
+<topic>Doctrines</topic>
+<topic>Early works to 1800</topic>
+</subject>
+<subject authority="lcsh">
+<name type="personal">
+<namePart>Bayḍāwī, ʻAbd Allāh ibn ʻUmar</namePart>
+<namePart type="date">-1286?</namePart>
+</name>
+</subject>
+<subject>
+<hierarchicalGeographic>
+<country>Turkey</country>
+<city>Istanbul</city>
+</hierarchicalGeographic>
+</subject>
+<relatedItem type="constituent">
+<titleInfo>
+<title>Ṭawāliʻ al-anwār min Maṭāliʻ al-anẓār</title>
+</titleInfo>
+<name type="personal">
+<namePart>Bayḍāwī, ʻAbd Allāh ibn ʻUmar,</namePart>
+<namePart type="date">-1286?</namePart>
+</name>
+</relatedItem>
+<relatedItem type="constituent">
+<titleInfo>
+<title>Ḥāshiyah ʻalá Maṭāliʻ al-anẓār</title>
+</titleInfo>
+<name type="personal">
+<namePart>Jurjānī, ʻAlī ibn Muḥammad,</namePart>
+<namePart type="termsOfAddress">al-Sayyid al-Sharīf</namePart>
+<namePart type="date">1340-1413</namePart>
+</name>
+</relatedItem>
+<relatedItem type="series">
+<titleInfo>
+<title>Open Collections Program at Harvard University. Islamic Heritage Project</title>
+<partName>Islamic Heritage Project</partName>
+</titleInfo>
+</relatedItem>
+<identifier type="uri">http://nrs.harvard.edu/urn-3:FHCL:2251907</identifier>
+<location>
+<url access="preview">http://ids.lib.harvard.edu/ids/view/11289567?width=150&amp;height=150&amp;usethumb=y</url>
+<url access="raw object">http://nrs.harvard.edu/urn-3:FHCL:2251907</url>
+</location>
+<location>
+<physicalLocation>Networked Resource</physicalLocation>
+</location>
+<location>
+<physicalLocation type="repository">Widener Library</physicalLocation>
+</location>
+<recordInfo>
+<recordCreationDate encoding="marc">960708</recordCreationDate>
+<recordChangeDate encoding="iso8601">20090915172727.0</recordChangeDate>
+<recordIdentifier source="HOLLIS">006936515</recordIdentifier>
+</recordInfo>
+<location>
+<url usage="primary display" access="object in context">http://ocp.hul.harvard.edu/dl/ihp/006936515</url>
+</location>
+</mods>

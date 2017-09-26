@@ -1,0 +1,96 @@
+<mods schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-4.xsd" version="3.4">
+<titleInfo>
+<title>Ḥāshīyat al-Kalanbawī ʻalá Jalāl al-Dīn al-Dawwānī fī Sharḥ al-ʻAqāʼid al-ʻAḍudīyah</title>
+</titleInfo>
+<titleInfo type="uniform">
+<title>Ḥāshiyah ʻalá Sharḥ al-ʻAqāʼid al-ʻAḍudīyah</title>
+</titleInfo>
+<name type="personal">
+<namePart>Kalanbawī, Ismāʻīl ibn Muṣṭafá</namePart>
+<namePart type="date">-1790 or 1791</namePart>
+<role>
+<roleTerm authority="marcrelator" type="text">creator</roleTerm>
+</role>
+</name>
+<typeOfResource>text</typeOfResource>
+<genre authority="marc">bibliography</genre>
+<originInfo>
+<place>
+<placeTerm authority="marccountry" type="code">tu</placeTerm>
+</place>
+<place>
+<placeTerm type="text">Istānbūl</placeTerm>
+</place>
+<publisher>Dār al-Salṭanah al-ʻAlīyah</publisher>
+<dateIssued>1233 [1818 or 1819]</dateIssued>
+<dateOther keyDate="yes">1818</dateOther>
+<dateIssued encoding="marc" point="start">1818</dateIssued>
+<dateIssued encoding="marc" point="start" qualifier="questionable">1818</dateIssued>
+<issuance>monographic</issuance>
+</originInfo>
+<language>
+<languageTerm authority="iso639-2b" type="code">ara</languageTerm>
+</language>
+<physicalDescription>
+<form authority="marcform">print</form>
+<extent>657 p. ; 24 cm.</extent>
+</physicalDescription>
+<note type="statement of responsibility">[Ismāʻīl ibn Muṣṭafá al-Kalanbawī].</note>
+<subject authority="lcsh">
+<name type="personal">
+<namePart>Dawwānī, Muḥammad ibn Asʻad</namePart>
+<namePart type="date">1426 or 1427-1512 or 1513</namePart>
+</name>
+</subject>
+<subject authority="lcsh">
+<name type="personal">
+<namePart>Ījī, ʻAḍud al-Dīn ʻAbd al-Raḥmān ibn Aḥmad</namePart>
+<namePart type="date">-1355?</namePart>
+</name>
+</subject>
+<subject authority="lcsh">
+<topic>Islam</topic>
+<topic>Doctrines</topic>
+<topic>Early works to 1800</topic>
+</subject>
+<subject>
+<hierarchicalGeographic>
+<country>Turkey</country>
+<city>Istanbul</city>
+</hierarchicalGeographic>
+</subject>
+<relatedItem type="constituent">
+<titleInfo>
+<title>Sharḥ al-ʻAqāʼid al-ʻAḍudīyah</title>
+</titleInfo>
+<name type="personal">
+<namePart>Dawwānī, Muḥammad ibn Asʼad,</namePart>
+<namePart type="date">1426 or 1427-1512 or 1513</namePart>
+</name>
+</relatedItem>
+<relatedItem type="series">
+<titleInfo>
+<title>Open Collections Program at Harvard University. Islamic Heritage Project</title>
+<partName>Islamic Heritage Project</partName>
+</titleInfo>
+</relatedItem>
+<identifier type="uri">http://nrs.harvard.edu/urn-3:FHCL:2174617</identifier>
+<location>
+<url access="preview">http://ids.lib.harvard.edu/ids/view/11058369?width=150&amp;height=150&amp;usethumb=y</url>
+<url access="raw object">http://nrs.harvard.edu/urn-3:FHCL:2174617</url>
+</location>
+<location>
+<physicalLocation>Networked Resource</physicalLocation>
+</location>
+<location>
+<physicalLocation type="repository">Widener Library</physicalLocation>
+</location>
+<recordInfo>
+<recordCreationDate encoding="marc">910215</recordCreationDate>
+<recordChangeDate encoding="iso8601">20090903144424.0</recordChangeDate>
+<recordIdentifier source="HOLLIS">008284937</recordIdentifier>
+</recordInfo>
+<location>
+<url usage="primary display" access="object in context">http://ocp.hul.harvard.edu/dl/ihp/008284937</url>
+</location>
+</mods>

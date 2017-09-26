@@ -1,0 +1,98 @@
+<mods schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-4.xsd" version="3.4">
+<titleInfo>
+<title>Fetava-yi Feyziyye ma'an-nukul</title>
+</titleInfo>
+<titleInfo type="alternative">
+<title>Fetava-i Feyziye</title>
+</titleInfo>
+<titleInfo type="alternative">
+<title>Fatāwá fayḍīyah maʼa al-nuqūl</title>
+</titleInfo>
+<name type="personal">
+<namePart>Feyzullah Efendi</namePart>
+<namePart type="termsOfAddress">Şeyhülislam</namePart>
+<namePart type="date">1639-1703</namePart>
+<role>
+<roleTerm authority="marcrelator" type="text">creator</roleTerm>
+</role>
+</name>
+<typeOfResource>text</typeOfResource>
+<genre authority="marc">bibliography</genre>
+<originInfo>
+<place>
+<placeTerm authority="marccountry" type="code">tu</placeTerm>
+</place>
+<place>
+<placeTerm type="text">[Iİstanbul]</placeTerm>
+</place>
+<publisher>Dar üt-Tıbaat ül-Amire</publisher>
+<dateIssued>1266 [1850]</dateIssued>
+<dateOther keyDate="yes">1850</dateOther>
+<dateIssued encoding="marc">1850</dateIssued>
+<issuance>monographic</issuance>
+</originInfo>
+<language>
+<languageTerm authority="iso639-2b" type="code">ota</languageTerm>
+</language>
+<physicalDescription>
+<form authority="marcform">print</form>
+<extent>14, 572 p. ; 27 cm.</extent>
+</physicalDescription>
+<note type="statement of responsibility">[Feyzullah Efendi].</note>
+<note>In Ottoman Turkish.</note>
+<subject authority="lcsh">
+<topic>Islamic law</topic>
+<topic>Interpretation and construction</topic>
+<topic>Early works to 1800</topic>
+</subject>
+<subject authority="lcsh">
+<topic>Fatwas</topic>
+<geographic>Turkey</geographic>
+<topic>Early works to 1800</topic>
+</subject>
+<subject authority="lcsh">
+<topic>Advisory opinions (Islamic law)</topic>
+<geographic>Turkey</geographic>
+<topic>Early works to 1800</topic>
+</subject>
+<subject authority="lcsh">
+<topic>Islamic law</topic>
+<geographic>Turkey</geographic>
+<topic>Sources</topic>
+<topic>Early works to 1800</topic>
+</subject>
+<subject>
+<hierarchicalGeographic>
+<country>Turkey</country>
+<city>Istanbul</city>
+</hierarchicalGeographic>
+</subject>
+<relatedItem type="isReferencedBy">
+<note>Özege, M.S. Eski harflerle, 5651.</note>
+</relatedItem>
+<relatedItem type="series">
+<titleInfo>
+<title>Open Collections Program at Harvard University. Islamic Heritage Project</title>
+<partName>Islamic Heritage Project</partName>
+</titleInfo>
+</relatedItem>
+<identifier type="uri">http://nrs.harvard.edu/urn-3:FHCL:2174438</identifier>
+<location>
+<url access="preview">http://ids.lib.harvard.edu/ids/view/11056326?width=150&amp;height=150&amp;usethumb=y</url>
+<url access="raw object">http://nrs.harvard.edu/urn-3:FHCL:2174438</url>
+</location>
+<location>
+<physicalLocation type="repository">Widener Library</physicalLocation>
+</location>
+<location>
+<physicalLocation>Networked Resource</physicalLocation>
+</location>
+<recordInfo>
+<recordCreationDate encoding="marc">950310</recordCreationDate>
+<recordChangeDate encoding="iso8601">20090903095701.0</recordChangeDate>
+<recordIdentifier source="HOLLIS">005388134</recordIdentifier>
+</recordInfo>
+<location>
+<url usage="primary display" access="object in context">http://ocp.hul.harvard.edu/dl/ihp/005388134</url>
+</location>
+</mods>

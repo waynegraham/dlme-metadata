@@ -1,0 +1,88 @@
+<mods schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-4.xsd" version="3.4">
+<titleInfo>
+<title>Verd'ül-hadaik</title>
+</titleInfo>
+<titleInfo type="alternative">
+<title>Verd ül hadaik</title>
+</titleInfo>
+<titleInfo type="alternative">
+<title>Hadikat ül-vüzera zeyli</title>
+</titleInfo>
+<titleInfo type="alternative">
+<title>Ward al-ḥadāʻiq</title>
+</titleInfo>
+<name type="personal">
+<namePart>Ahmet Rıfat</namePart>
+<namePart type="date">-1876</namePart>
+<role>
+<roleTerm authority="marcrelator" type="text">creator</roleTerm>
+</role>
+</name>
+<typeOfResource>text</typeOfResource>
+<genre authority="marc">bibliography</genre>
+<genre authority="marc">biography</genre>
+<originInfo>
+<place>
+<placeTerm authority="marccountry" type="code">tu</placeTerm>
+</place>
+<place>
+<placeTerm type="text">[Istanbul</placeTerm>
+</place>
+<publisher>s.n.</publisher>
+<dateIssued>1866?]</dateIssued>
+<dateOther keyDate="yes">1866</dateOther>
+<dateIssued encoding="marc" point="start">1866</dateIssued>
+<dateIssued encoding="marc" point="start" qualifier="questionable">1866</dateIssued>
+<issuance>monographic</issuance>
+</originInfo>
+<language>
+<languageTerm authority="iso639-2b" type="code">ota</languageTerm>
+</language>
+<physicalDescription>
+<form authority="marcform">print</form>
+<extent>76 p. ; 27 cm.</extent>
+</physicalDescription>
+<note type="statement of responsibility">[Ahmet Rıfat].</note>
+<note>"Hadikat ül-vüzera zeyli."</note>
+<note>In Ottoman Turkish.</note>
+<subject authority="lcsh">
+<geographic>Turkey</geographic>
+<topic>Biography</topic>
+</subject>
+<genre>Biography</genre>
+<subject authority="lcsh">
+<geographic>Turkey</geographic>
+<topic>Officials and employees</topic>
+</subject>
+<subject>
+<hierarchicalGeographic>
+<country>Turkey</country>
+<city>Istanbul</city>
+</hierarchicalGeographic>
+</subject>
+<relatedItem type="series">
+<titleInfo>
+<title>Open Collections Program at Harvard University. Islamic Heritage Project</title>
+<partName>Islamic Heritage Project</partName>
+</titleInfo>
+</relatedItem>
+<identifier type="uri">http://nrs.harvard.edu/urn-3:FHCL:2153400</identifier>
+<location>
+<url access="preview">http://ids.lib.harvard.edu/ids/view/10988268?width=150&amp;height=150&amp;usethumb=y</url>
+<url access="raw object">http://nrs.harvard.edu/urn-3:FHCL:2153400</url>
+</location>
+<location>
+<physicalLocation type="repository">Widener Library</physicalLocation>
+</location>
+<location>
+<physicalLocation>Networked Resource</physicalLocation>
+</location>
+<recordInfo>
+<recordCreationDate encoding="marc">950112</recordCreationDate>
+<recordChangeDate encoding="iso8601">20090205122719.0</recordChangeDate>
+<recordIdentifier source="HOLLIS">005154614</recordIdentifier>
+</recordInfo>
+<location>
+<url usage="primary display" access="object in context">http://ocp.hul.harvard.edu/dl/ihp/005154614</url>
+</location>
+</mods>

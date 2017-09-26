@@ -1,0 +1,87 @@
+<mods schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-4.xsd" version="3.4">
+<titleInfo>
+<title>Saray Bosna'da ebniye-yi hayriyenin musavver tarihi</title>
+</titleInfo>
+<titleInfo type="alternative">
+<title>Saraybosna'da ebniye-yi hayriyenin musavver tarihi</title>
+</titleInfo>
+<name type="personal">
+<namePart>Kemurazade Seyfeddin Fehmi bin Ali.</namePart>
+<role>
+<roleTerm authority="marcrelator" type="text">creator</roleTerm>
+</role>
+</name>
+<typeOfResource>text</typeOfResource>
+<genre authority="marc">bibliography</genre>
+<originInfo>
+<place>
+<placeTerm authority="marccountry" type="code">bn</placeTerm>
+</place>
+<place>
+<placeTerm type="text">Saray Bosna</placeTerm>
+</place>
+<publisher>İslam Matbaası</publisher>
+<dateIssued>[1908]</dateIssued>
+<dateOther keyDate="yes">1908</dateOther>
+<dateIssued encoding="marc">1908</dateIssued>
+<issuance>monographic</issuance>
+</originInfo>
+<language>
+<languageTerm authority="iso639-2b" type="code">ota</languageTerm>
+</language>
+<physicalDescription>
+<form authority="marcform">print</form>
+<extent>34 p. ; ill. ; 26 cm.</extent>
+</physicalDescription>
+<tableOfContents>1. Hünkâr Cami-i şerifi.</tableOfContents>
+<note type="statement of responsibility">muharriri, Kemurazade Seyfeddin Fehmi bin Ali.</note>
+<note>In Ottoman Turkish.</note>
+<subject authority="lcsh">
+<name type="corporate">
+<namePart>Careva džamija (Sarajevo, Bosnia and Herzegovina)</namePart>
+</name>
+<topic>History</topic>
+<topic>Sources</topic>
+</subject>
+<subject authority="lcsh">
+<topic>Waqf</topic>
+<geographic>Bosnia and Herzegovina</geographic>
+<geographic>Sarajevo</geographic>
+</subject>
+<subject authority="lcsh">
+<geographic>Sarajevo (Bosnia and Herzegovina)</geographic>
+<topic>Buildings, structures, etc</topic>
+<topic>History</topic>
+</subject>
+<subject>
+<hierarchicalGeographic>
+<country>Bosnia and Herzegovina</country>
+<city>Sarajevo</city>
+</hierarchicalGeographic>
+</subject>
+<relatedItem type="series">
+<titleInfo>
+<title>Open Collections Program at Harvard University. Islamic Heritage Project</title>
+<partName>Islamic Heritage Project</partName>
+</titleInfo>
+</relatedItem>
+<identifier type="uri">http://nrs.harvard.edu/urn-3:FHCL:2175618</identifier>
+<location>
+<url access="preview">http://ids.lib.harvard.edu/ids/view/11092456?width=150&amp;height=150&amp;usethumb=y</url>
+<url access="raw object">http://nrs.harvard.edu/urn-3:FHCL:2175618</url>
+</location>
+<location>
+<physicalLocation type="repository">Widener Library</physicalLocation>
+</location>
+<location>
+<physicalLocation>Networked Resource</physicalLocation>
+</location>
+<recordInfo>
+<recordCreationDate encoding="marc">950119</recordCreationDate>
+<recordChangeDate encoding="iso8601">20090825143937.0</recordChangeDate>
+<recordIdentifier source="HOLLIS">005185280</recordIdentifier>
+</recordInfo>
+<location>
+<url usage="primary display" access="object in context">http://ocp.hul.harvard.edu/dl/ihp/005185280</url>
+</location>
+</mods>

@@ -1,0 +1,89 @@
+<mods schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-4.xsd" version="3.4">
+<titleInfo>
+<title>İnşa-yi Hayret Efendi</title>
+</titleInfo>
+<titleInfo type="alternative">
+<title>Riyaz ul-kütebâ ve hıyaz ul-üdebâ</title>
+</titleInfo>
+<titleInfo type="alternative">
+<title>Riyāḍ al-kutabāʼ wa-ḥiyāḍ al-udabāʼ</title>
+</titleInfo>
+<name type="corporate">
+<namePart>Maṭbaʻat Būlāq</namePart>
+</name>
+<typeOfResource>text</typeOfResource>
+<genre authority="marc">bibliography</genre>
+<originInfo>
+<place>
+<placeTerm authority="marccountry" type="code">ua</placeTerm>
+</place>
+<place>
+<placeTerm type="text">al-Qāhirah</placeTerm>
+</place>
+<publisher>Dâru't-Tibâa</publisher>
+<dateIssued>1242 [1826]</dateIssued>
+<dateOther keyDate="yes">1826</dateOther>
+<dateIssued encoding="marc">1826</dateIssued>
+<issuance>monographic</issuance>
+</originInfo>
+<language>
+<languageTerm authority="iso639-2b" type="code">ota</languageTerm>
+</language>
+<physicalDescription>
+<form authority="marcform">print</form>
+<extent>1, 494 p. ; 28 cm.</extent>
+</physicalDescription>
+<note>Also known as: Riyaz ul-kütebâ ve hıyaz ul-üdebâ.</note>
+<note>In Ottoman Turkish.</note>
+<subject authority="lcsh">
+<name type="personal">
+<namePart>Muḥammad ʻAlī Bāshā</namePart>
+<namePart type="termsOfAddress">Governor of Egypt</namePart>
+<namePart type="date">1769-1849</namePart>
+</name>
+<topic>Correspondence</topic>
+</subject>
+<subject authority="lcsh">
+<topic>Sultans</topic>
+<geographic>Turkey</geographic>
+<topic>Correspondence</topic>
+</subject>
+<subject authority="lcsh">
+<geographic>Turkey</geographic>
+<topic>Kings and rulers</topic>
+<topic>Correspondence</topic>
+</subject>
+<genre>Correspondence</genre>
+<subject>
+<hierarchicalGeographic>
+<country>Egypt</country>
+<city>Cairo</city>
+</hierarchicalGeographic>
+</subject>
+<relatedItem type="series">
+<titleInfo>
+<title>Open Collections Program at Harvard University. Islamic Heritage Project</title>
+<partName>Islamic Heritage Project</partName>
+</titleInfo>
+</relatedItem>
+<identifier type="uri">http://nrs.harvard.edu/urn-3:FHCL:2249110</identifier>
+<location>
+<url access="preview">http://ids.lib.harvard.edu/ids/view/11267210?width=150&amp;height=150&amp;usethumb=y</url>
+<url access="raw object">http://nrs.harvard.edu/urn-3:FHCL:2249110</url>
+</location>
+<location>
+<physicalLocation type="repository">Widener Library</physicalLocation>
+</location>
+<location>
+<physicalLocation>Networked Resource</physicalLocation>
+</location>
+<recordInfo>
+<recordContentSource authority="marcorg">WAU</recordContentSource>
+<recordCreationDate encoding="marc">850304</recordCreationDate>
+<recordChangeDate encoding="iso8601">20090910164451.0</recordChangeDate>
+<recordIdentifier source="HOLLIS">004649867</recordIdentifier>
+</recordInfo>
+<location>
+<url usage="primary display" access="object in context">http://ocp.hul.harvard.edu/dl/ihp/004649867</url>
+</location>
+</mods>

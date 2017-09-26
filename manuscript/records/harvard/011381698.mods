@@ -1,0 +1,118 @@
+<mods schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-4.xsd" version="3.4">
+<titleInfo>
+<title>Levensschets van sulthan Ibrahiem, vorst van Eirakh</title>
+<subTitle>uit het Arabisch in het Maleisch vertaald door eenen Maleischen schriftgeleerden</subTitle>
+</titleInfo>
+<titleInfo type="alternative">
+<title>Hikajat sulthan Ibrahiem, radja pada negrie Eirakh</title>
+<subTitle>di pindahkan fokha deri pada bahasa Arab kapada bahasa Melaijoe ; di dalam ietoe, di salin poela dengan bahasa wolanda jang tsahh oleh di terdjoemahkan</subTitle>
+</titleInfo>
+<titleInfo type="uniform">
+<title>Ḥikāyat Sulṭān Ibrāhīm ibn Adham. Dutch &amp; Malay</title>
+</titleInfo>
+<name type="personal">
+<namePart>Roorda van Eysinga, P. P. (Philippus Pieter)</namePart>
+<namePart type="date">1796-1856</namePart>
+</name>
+<typeOfResource>text</typeOfResource>
+<genre authority="marc">bibliography</genre>
+<genre authority="fast">Legends.</genre>
+<originInfo>
+<place>
+<placeTerm authority="marccountry" type="code">io</placeTerm>
+</place>
+<place>
+<placeTerm type="text">Batavia</placeTerm>
+</place>
+<publisher>Lands Maleische Drukkerij</publisher>
+<dateIssued>1822</dateIssued>
+<dateOther keyDate="yes">1822</dateOther>
+<issuance>monographic</issuance>
+</originInfo>
+<language>
+<languageTerm authority="iso639-2b" type="code">may</languageTerm>
+</language>
+<language>
+<languageTerm authority="iso639-2b" type="code">dut</languageTerm>
+</language>
+<physicalDescription>
+<extent>1 online resource (4, 3, 4, 96, 9 pages)</extent>
+</physicalDescription>
+<note type="statement of responsibility">en uit het Maleisch in het Nederduitsch overgebracht door Philippus Pieter Roorda van Eijsinga.</note>
+<note>Malay title pages have hijri date 1237 [1821 or 22].</note>
+<note>In Malay. (Arabic and Roman scripts) with Dutch translation; translated from Arabic.</note>
+<note>Electronic reproduction. Cambridge, Mass. : Harvard College Library Digital Imaging Group, 2009. (Open Collections Program at Harvard University. Islamic Heritage Project). Copy digitized: Widener Library: PL5139.H55 D8 1822x.</note>
+<subject authority="lcsh">
+<name type="personal">
+<namePart>Ibrāhīm ibn Adʹham</namePart>
+<namePart type="date">-approximately 777</namePart>
+</name>
+<topic>Legends</topic>
+</subject>
+<subject authority="lcsh">
+<topic>Sufism</topic>
+<geographic>Indonesia</geographic>
+</subject>
+<subject authority="lcsh">
+<topic>Islamic legends</topic>
+<geographic>Indonesia</geographic>
+</subject>
+<subject authority="lcsh">
+<topic>Legends</topic>
+<geographic>Indonesia</geographic>
+</subject>
+<subject authority="fast">
+<name type="personal">
+<namePart>Ibrāhīm ibn Adʹham</namePart>
+<namePart type="date">-approximately 777</namePart>
+</name>
+</subject>
+<subject authority="fast">
+<topic>Islamic legends</topic>
+</subject>
+<subject authority="fast">
+<topic>Legends</topic>
+</subject>
+<subject authority="fast">
+<topic>Sufism</topic>
+</subject>
+<subject authority="fast">
+<geographic>Indonesia</geographic>
+</subject>
+<subject>
+<hierarchicalGeographic>
+<country>Indonesia</country>
+<city>Jakarta</city>
+</hierarchicalGeographic>
+</subject>
+<classification authority="lcc">PL5139.H55 D8 1822</classification>
+<relatedItem type="series">
+<titleInfo>
+<title>Open Collections Program at Harvard University. Islamic Heritage Project</title>
+<partName>Islamic Heritage Project</partName>
+</titleInfo>
+</relatedItem>
+<identifier type="uri">http://nrs.harvard.edu/urn-3:FHCL:2174439</identifier>
+<location>
+<url access="preview">http://ids.lib.harvard.edu/ids/view/11056924?width=150&amp;height=150&amp;usethumb=y</url>
+<url access="raw object">http://nrs.harvard.edu/urn-3:FHCL:2174439</url>
+</location>
+<location>
+<physicalLocation>Networked Resource</physicalLocation>
+</location>
+<location>
+<physicalLocation type="repository">Widener Library</physicalLocation>
+</location>
+<recordInfo>
+<recordContentSource authority="marcorg">HMM</recordContentSource>
+<recordCreationDate encoding="marc">871208</recordCreationDate>
+<recordChangeDate encoding="iso8601">20170410125707.0</recordChangeDate>
+<recordIdentifier source="HOLLIS">011381698</recordIdentifier>
+<languageOfCataloging>
+<languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+</languageOfCataloging>
+</recordInfo>
+<location>
+<url usage="primary display" access="object in context">http://ocp.hul.harvard.edu/dl/ihp/011381698</url>
+</location>
+</mods>

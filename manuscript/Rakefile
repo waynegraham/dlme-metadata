@@ -1,18 +1,50 @@
-require 'csv'
-require 'digest'
-require 'fileutils'
-require 'json'
-require 'open-uri'
-require 'pp'
-
-require 'colorize'
-require 'mechanize'
+# require 'csv'
+# require 'digest'
+# require 'fileutils'
+# require 'json'
+# require 'open-uri'
+# require 'pp'
+#
+# require 'colorize'
+# require 'mechanize'
+require_relative '../lib/utilities'
 
 task default: %w[all]
 
 task :all => %w[import:openn]
 
 namespace :import do
+
+  namespace :harvard do
+    task all: %w(import:harvard:process)
+
+    HARVARD_ENDPOINT = 'http://vcoai.lib.harvard.edu/vcoai/vc?verb=ListRecords&set=ihp&metadataPrefix=mods'
+
+    desc "Download Harvard collection"
+    task :download do
+      xml = Nokogiri::XML(open(HARVARD_ENDPOINT))
+      FileUtils.mkdir_p('./records/harvard')
+      File.open('records/harvard/dlme.xml', 'w') {|file| file.write(xml)}
+    end
+
+    desc 'Split Harvard records in to individual MODS files'
+    task :split do
+      xml = Nokogiri::XML(File.open('records/harvard/dlme.xml'))
+      xml.remove_namespaces!
+      xml.xpath('//record').each do |mods|
+        file_name = mods.xpath('header/identifier').text.gsub('oai:vc.harvard.edu:ihp.', '')
+        file_name += '.mods'
+        title = mods.xpath('metadata/mods/titleInfo/title').first.text
+
+        File.open("records/harvard/#{file_name}", "w") do |f|
+          puts "Adding #{title} - #{file_name}".green
+          mods_doc = mods.xpath('metadata/mods')
+          f.write(mods_doc)
+          f.close
+        end
+      end
+    end
+  end
 
   namespace :princeton do
     task all: %w[import:princeton:islamicmss import:princeton:ymdi]

@@ -1,0 +1,76 @@
+<mods schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-4.xsd" version="3.4">
+<titleInfo>
+<nonSort>al-</nonSort>
+<title>Aḥkām al-mukhtaṣarāt fī umūr al-diyānāt</title>
+</titleInfo>
+<name type="personal">
+<namePart>Fāsī, Aḥmad ibn Muḥammad ibn ʻAbd al-Qādir.</namePart>
+<role>
+<roleTerm authority="marcrelator" type="text">creator</roleTerm>
+</role>
+</name>
+<typeOfResource>text</typeOfResource>
+<genre authority="marc">bibliography</genre>
+<genre authority="">Lithographs-Morocco.</genre>
+<originInfo>
+<place>
+<placeTerm authority="marccountry" type="code">mr</placeTerm>
+</place>
+<place>
+<placeTerm type="text">[Fez</placeTerm>
+</place>
+<publisher>s.n.</publisher>
+<dateIssued>18-?]</dateIssued>
+<dateOther keyDate="yes">1880</dateOther>
+<dateIssued encoding="marc" point="start">1880</dateIssued>
+<dateIssued encoding="marc" point="end">1900</dateIssued>
+<dateIssued encoding="marc" point="start" qualifier="questionable">1880</dateIssued>
+<dateIssued encoding="marc" point="end" qualifier="questionable">1900</dateIssued>
+<issuance>monographic</issuance>
+</originInfo>
+<language>
+<languageTerm authority="iso639-2b" type="code">ara</languageTerm>
+</language>
+<physicalDescription>
+<form authority="marcform">print</form>
+<extent>16 p.; 23 cm.</extent>
+</physicalDescription>
+<note type="statement of responsibility">taʾlīf Aḥmad ibn Muḥammad ibn ʻAbd al-Qādir al-Fāsī.</note>
+<note>Lithographed.</note>
+<note>Bound with: Fatḥ al-laṭīf fī ʻilm al-taṣrīf / Abū Zayd ʻAbd al-Raḥmān ibn Ṣāliḥ al-Makkūdī; Khatm al-mubārak li-Mukhtaṣar al-Shaykh Khalīl / Muḥammad ibn al-Rashīd al-Ḥusaynī al-ʻIrāqī; Ḥawāshī ʻalá kalām ʻAbd al-Qādir ibn ʻAlī al-Fāsī.</note>
+<subject authority="lcsh">
+<topic>Islam</topic>
+<topic>Doctrines</topic>
+</subject>
+<subject>
+<hierarchicalGeographic>
+<country>Morocco</country>
+<city>Fès</city>
+</hierarchicalGeographic>
+</subject>
+<relatedItem type="series">
+<titleInfo>
+<title>Open Collections Program at Harvard University. Islamic Heritage Project</title>
+<partName>Islamic Heritage Project</partName>
+</titleInfo>
+</relatedItem>
+<identifier type="uri">http://nrs.harvard.edu/urn-3:FHCL:2251916</identifier>
+<location>
+<url access="preview">http://ids.lib.harvard.edu/ids/view/11292012?width=150&amp;height=150&amp;usethumb=y</url>
+<url access="raw object">http://nrs.harvard.edu/urn-3:FHCL:2251916</url>
+</location>
+<location>
+<physicalLocation type="repository">Widener Library</physicalLocation>
+</location>
+<location>
+<physicalLocation>Networked Resource</physicalLocation>
+</location>
+<recordInfo>
+<recordCreationDate encoding="marc">961018</recordCreationDate>
+<recordChangeDate encoding="iso8601">20090901091526.0</recordChangeDate>
+<recordIdentifier source="HOLLIS">008286223</recordIdentifier>
+</recordInfo>
+<location>
+<url usage="primary display" access="object in context">http://ocp.hul.harvard.edu/dl/ihp/008286223</url>
+</location>
+</mods>

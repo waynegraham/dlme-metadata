@@ -1,0 +1,76 @@
+<mods schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-4.xsd" version="3.4">
+<titleInfo>
+<nonSort>al-</nonSort>
+<title>Hamzīyah al-ramzīyah fī madḥ khayr man la-hu al-mazīyah</title>
+</titleInfo>
+<name type="personal">
+<namePart>Ḥuṭānī, Aḥmad.</namePart>
+<role>
+<roleTerm authority="marcrelator" type="text">creator</roleTerm>
+</role>
+</name>
+<typeOfResource>text</typeOfResource>
+<genre authority="marc">bibliography</genre>
+<genre authority="">Lithographs-Russia-20th century.</genre>
+<originInfo>
+<place>
+<placeTerm authority="marccountry" type="code">ru</placeTerm>
+</place>
+<place>
+<placeTerm type="text">Tamīrkhān</placeTerm>
+</place>
+<publisher>al-Maṭbaʻah al-Islāmīyah</publisher>
+<dateIssued>1907</dateIssued>
+<dateOther keyDate="yes">1907</dateOther>
+<issuance>monographic</issuance>
+</originInfo>
+<language>
+<languageTerm authority="iso639-2b" type="code">ara</languageTerm>
+</language>
+<physicalDescription>
+<form authority="marcform">print</form>
+<extent>93 p. ; 22 cm.</extent>
+</physicalDescription>
+<note type="statement of responsibility">taʼlīf Aḥmad al-Ḥuṭānī.</note>
+<note>"Ṣuḥḥiḥa min khaṭṭ al-muʼallif."</note>
+<note>Lithographed.</note>
+<subject authority="lcsh">
+<name type="personal">
+<namePart>Muḥammad</namePart>
+<namePart type="termsOfAddress">Prophet</namePart>
+<namePart type="date">-632</namePart>
+</name>
+<topic>Poetry</topic>
+</subject>
+<subject>
+<hierarchicalGeographic>
+<country>Russia</country>
+<city>Buynaksk</city>
+</hierarchicalGeographic>
+</subject>
+<relatedItem type="series">
+<titleInfo>
+<title>Open Collections Program at Harvard University. Islamic Heritage Project</title>
+<partName>Islamic Heritage Project</partName>
+</titleInfo>
+</relatedItem>
+<identifier type="uri">http://nrs.harvard.edu/urn-3:FHCL:2249109</identifier>
+<location>
+<url access="preview">http://ids.lib.harvard.edu/ids/view/11267114?width=150&amp;height=150&amp;usethumb=y</url>
+<url access="raw object">http://nrs.harvard.edu/urn-3:FHCL:2249109</url>
+</location>
+<location>
+<physicalLocation type="repository">Widener Library</physicalLocation>
+</location>
+<location>
+<physicalLocation>Networked Resource</physicalLocation>
+</location>
+<recordInfo>
+<recordCreationDate encoding="marc">940126</recordCreationDate>
+<recordChangeDate encoding="iso8601">20090825145256.0</recordChangeDate>
+<recordIdentifier source="HOLLIS">003862341</recordIdentifier>
+</recordInfo>
+<location>
+<url usage="primary display" access="object in context">http://ocp.hul.harvard.edu/dl/ihp/003862341</url>
+</location>
+</mods>

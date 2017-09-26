@@ -1,0 +1,99 @@
+<mods schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-4.xsd" version="3.4">
+<titleInfo>
+<title>Risālah-ʼi istidlālīyah</title>
+</titleInfo>
+<titleInfo type="alternative">
+<title>Risale-yi istidlaliyeh</title>
+</titleInfo>
+<titleInfo type="alternative">
+<title>Risālah al-istidlālīyah</title>
+</titleInfo>
+<titleInfo type="uniform">
+<title>Istidlālīyah</title>
+</titleInfo>
+<name type="personal">
+<namePart>Ṭarasūsī, ʻUthmān ibn Muṣṭafá.</namePart>
+<role>
+<roleTerm authority="marcrelator" type="text">creator</roleTerm>
+</role>
+</name>
+<typeOfResource>text</typeOfResource>
+<genre authority="marc">bibliography</genre>
+<originInfo>
+<place>
+<placeTerm authority="marccountry" type="code">tu</placeTerm>
+</place>
+<place>
+<placeTerm type="text">[Istanbul]</placeTerm>
+</place>
+<publisher>Maṭbaʻat Dār al-Khilāfah al-ʻAlīyah</publisher>
+<dateIssued>1258 [1842 or 1843]</dateIssued>
+<dateOther keyDate="yes">1842</dateOther>
+<dateIssued encoding="marc">1842</dateIssued>
+<issuance>monographic</issuance>
+</originInfo>
+<language>
+<languageTerm authority="iso639-2b" type="code">ara</languageTerm>
+</language>
+<physicalDescription>
+<form authority="marcform">print</form>
+<extent>15 p. ; 19 cm.</extent>
+</physicalDescription>
+<note type="statement of responsibility">li-ʻUthmān ibn Muṣṭafá al-Ṭarasūsī.</note>
+<subject authority="lcsh">
+<topic>Arabic language</topic>
+<topic>Grammar</topic>
+</subject>
+<subject authority="lcsh">
+<topic>Arabic language</topic>
+<topic>Inflection</topic>
+</subject>
+<subject authority="lcsh">
+<titleInfo>
+<title>Qurʼan</title>
+</titleInfo>
+<topic>Criticism, interpretation, etc</topic>
+</subject>
+<subject authority="lcsh">
+<topic>Debates and debating</topic>
+<topic>Religious aspects</topic>
+<topic>Islam</topic>
+</subject>
+<subject authority="lcsh">
+<topic>Logic</topic>
+</subject>
+<subject authority="lcsh">
+<topic>Syllogism</topic>
+</subject>
+<subject>
+<hierarchicalGeographic>
+<country>Turkey</country>
+<city>Istanbul</city>
+</hierarchicalGeographic>
+</subject>
+<relatedItem type="series">
+<titleInfo>
+<title>Open Collections Program at Harvard University. Islamic Heritage Project</title>
+<partName>Islamic Heritage Project</partName>
+</titleInfo>
+</relatedItem>
+<identifier type="uri">http://nrs.harvard.edu/urn-3:FHCL:2232059</identifier>
+<location>
+<url access="preview">http://ids.lib.harvard.edu/ids/view/11235596?width=150&amp;height=150&amp;usethumb=y</url>
+<url access="raw object">http://nrs.harvard.edu/urn-3:FHCL:2232059</url>
+</location>
+<location>
+<physicalLocation type="repository">Widener Library</physicalLocation>
+</location>
+<location>
+<physicalLocation>Networked Resource</physicalLocation>
+</location>
+<recordInfo>
+<recordCreationDate encoding="marc">020206</recordCreationDate>
+<recordChangeDate encoding="iso8601">20120504143058.0</recordChangeDate>
+<recordIdentifier source="HOLLIS">008833605</recordIdentifier>
+</recordInfo>
+<location>
+<url usage="primary display" access="object in context">http://ocp.hul.harvard.edu/dl/ihp/008833605</url>
+</location>
+</mods>

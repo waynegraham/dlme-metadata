@@ -1,0 +1,104 @@
+<mods schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-4.xsd" version="3.4">
+<titleInfo>
+<title>Hādhā kitāb Uqlīdis</title>
+</titleInfo>
+<titleInfo type="alternative">
+<title>Uṣūl al-handasah wa-al-ḥisāb</title>
+</titleInfo>
+<titleInfo type="alternative">
+<title>Kitāb Ūqlīdis</title>
+</titleInfo>
+<titleInfo type="uniform">
+<title>Elements Arabic</title>
+</titleInfo>
+<name type="personal">
+<namePart>Euclid.</namePart>
+<role>
+<roleTerm authority="marcrelator" type="text">creator</roleTerm>
+</role>
+</name>
+<typeOfResource>text</typeOfResource>
+<genre authority="marc">bibliography</genre>
+<originInfo>
+<place>
+<placeTerm authority="marccountry" type="code">tu</placeTerm>
+</place>
+<place>
+<placeTerm type="text">[Istanbul</placeTerm>
+</place>
+<publisher>Dār al-Ṭibāʻah lil-Dawlah al-ʻAlīyah al-ʻUthmānīya]</publisher>
+<dateIssued>1216 [1801 or 1802]</dateIssued>
+<dateOther keyDate="yes">1801</dateOther>
+<dateIssued encoding="marc">1801</dateIssued>
+<issuance>monographic</issuance>
+</originInfo>
+<language>
+<languageTerm authority="iso639-2b" type="code">ara</languageTerm>
+</language>
+<physicalDescription>
+<form authority="marcform">print</form>
+<extent>222 p. ; 23 cm.</extent>
+</physicalDescription>
+<note type="statement of responsibility">taḥrīr Muḥammad ibn Muḥammad al-mushtahir bi-Naṣīr al-Dīn al-Ṭūsī.</note>
+<note>"... Uṣūl al-handasah wa-al-ḥisāb al-mansūb ilá Ūqlīdis al-Ṣūrī"</note>
+<subject authority="lcsh">
+<topic>Geometry</topic>
+<topic>Early works to 1800</topic>
+</subject>
+<subject authority="lcsh">
+<topic>Mathematics, Greek</topic>
+<topic>Early works to 1800</topic>
+</subject>
+<subject authority="lcsh">
+<topic>Mathematics, Arab</topic>
+<topic>Early works to 1800</topic>
+</subject>
+<subject authority="lcsh">
+<name type="personal">
+<namePart>Euclid</namePart>
+</name>
+</subject>
+<subject>
+<hierarchicalGeographic>
+<country>Turkey</country>
+<city>Istanbul</city>
+</hierarchicalGeographic>
+</subject>
+<relatedItem type="constituent">
+<titleInfo>
+<title>Taḥrīr uṣūl al-handasah wa-al-ḥisāb</title>
+</titleInfo>
+<name type="personal">
+<namePart>Ṭūsī, Naṣīr al-Dīn Muḥammad ibn Muḥammad,</namePart>
+<namePart type="date">1201-1274</namePart>
+</name>
+</relatedItem>
+<relatedItem type="series">
+<titleInfo>
+<title>Open Collections Program at Harvard University. Islamic Heritage Project</title>
+<partName>Islamic Heritage Project</partName>
+</titleInfo>
+</relatedItem>
+<identifier type="uri">http://nrs.harvard.edu/urn-3:FHCL:2051759</identifier>
+<location>
+<url access="preview">http://ids.lib.harvard.edu/ids/view/10713180?width=150&amp;height=150&amp;usethumb=y</url>
+<url access="raw object">http://nrs.harvard.edu/urn-3:FHCL:2051759</url>
+</location>
+<location>
+<physicalLocation>Master Microforms</physicalLocation>
+</location>
+<location>
+<physicalLocation type="repository">Widener Library</physicalLocation>
+</location>
+<location>
+<physicalLocation>Networked Resource</physicalLocation>
+</location>
+<recordInfo>
+<recordCreationDate encoding="marc">960715</recordCreationDate>
+<recordChangeDate encoding="iso8601">20090903151629.0</recordChangeDate>
+<recordIdentifier source="HOLLIS">006954314</recordIdentifier>
+</recordInfo>
+<location>
+<url usage="primary display" access="object in context">http://ocp.hul.harvard.edu/dl/ihp/006954314</url>
+</location>
+</mods>
