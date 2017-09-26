@@ -4,6 +4,7 @@ GEM
     colorize (0.8.1)
     domain_name (0.5.20170404)
       unf (>= 0.0.5, < 1.0.0)
+    dotenv (2.2.1)
     http-cookie (1.0.3)
       domain_name (~> 0.5)
     mechanize (2.7.5)
@@ -25,6 +26,7 @@ GEM
     nokogiri (1.7.2)
       mini_portile2 (~> 2.1.0)
     ntlm-http (0.1.1)
+    sketchfably (0.0.1)
     unf (0.1.4)
       unf_ext
     unf_ext (0.0.7.4)
@@ -35,9 +37,11 @@ PLATFORMS
 
 DEPENDENCIES
   colorize
+  dotenv
   mechanize
   mysql2
   nokogiri
+  sketchfably
 
 BUNDLED WITH
-   1.15.1
+   1.15.4

@@ -1,0 +1,208 @@
+{
+  "uid": "aeb5ad365ed142f18937ef142aa02274",
+  "publishedAt": "2017-05-08T15:20:24.335733",
+  "likeCount": 5,
+  "commentCount": 4,
+  "createdAt": "2017-05-08T13:49:07.394515",
+  "viewCount": 207,
+  "isAgeRestricted": false,
+  "staffpickedAt": null,
+  "isDownloadable": true,
+  "embedUrl": "https://sketchfab.com/models/aeb5ad365ed142f18937ef142aa02274/embed",
+  "status": {
+    "processing": "SUCCEEDED",
+    "warning": {
+    }
+  },
+  "description": "The outer coffin of the Lady Meret-it-es, Late Period - Ptolemaic Period Egypt (ca. 380-250 B.C.).\nIn the collections of the Nelson-Atkins Museum, Kansas City, MO.\nAcq. Number 2007.12.1.A-C.",
+  "tags": [
+    {
+      "uri": "https://api.sketchfab.com/v3/tags/egypt",
+      "name": "egypt",
+      "slug": "egypt"
+    },
+    {
+      "uri": "https://api.sketchfab.com/v3/tags/mummy",
+      "name": "mummy",
+      "slug": "mummy"
+    },
+    {
+      "uri": "https://api.sketchfab.com/v3/tags/coffin",
+      "name": "coffin",
+      "slug": "coffin"
+    },
+    {
+      "uri": "https://api.sketchfab.com/v3/tags/anubis",
+      "name": "Anubis",
+      "slug": "anubis"
+    },
+    {
+      "uri": "https://api.sketchfab.com/v3/tags/photogrammetry",
+      "name": "photogrammetry",
+      "slug": "photogrammetry"
+    },
+    {
+      "uri": "https://api.sketchfab.com/v3/tags/photoscan",
+      "name": "PhotoScan",
+      "slug": "photoscan"
+    },
+    {
+      "uri": "https://api.sketchfab.com/v3/tags/isis",
+      "name": "Isis",
+      "slug": "isis"
+    },
+    {
+      "uri": "https://api.sketchfab.com/v3/tags/downloadable",
+      "name": "downloadable",
+      "slug": "downloadable"
+    },
+    {
+      "uri": "https://api.sketchfab.com/v3/tags/ancient-egypt",
+      "name": "ancient-egypt",
+      "slug": "ancient-egypt"
+    },
+    {
+      "uri": "https://api.sketchfab.com/v3/tags/book-of-the-dead",
+      "name": "book-of-the-dead",
+      "slug": "book-of-the-dead"
+    }
+  ],
+  "viewerUrl": "https://sketchfab.com/models/aeb5ad365ed142f18937ef142aa02274",
+  "vertexCount": 243306,
+  "user": {
+    "username": "danderson4",
+    "account": "pro",
+    "displayName": "danderson4",
+    "uid": "9fc0b80fe05b44ad97cf6d1b54699499",
+    "uri": "https://api.sketchfab.com/v3/users/9fc0b80fe05b44ad97cf6d1b54699499",
+    "profileUrl": "https://sketchfab.com/danderson4",
+    "avatar": {
+      "images": [
+        {
+          "url": "https://dg5bepmjyhz9h.cloudfront.net/avatars/0da4cd711361448388680620aab0041e/be62167cd1ee478f98ee86068a4b6b1a.jpeg",
+          "width": 100,
+          "height": 100,
+          "size": 2997
+        },
+        {
+          "url": "https://dg5bepmjyhz9h.cloudfront.net/avatars/0da4cd711361448388680620aab0041e/8f49c3dfe78647f28783928b93444152.jpeg",
+          "width": 90,
+          "height": 90,
+          "size": 2616
+        },
+        {
+          "url": "https://dg5bepmjyhz9h.cloudfront.net/avatars/0da4cd711361448388680620aab0041e/25048117ae084c708249a36396bd24d5.jpeg",
+          "width": 48,
+          "height": 48,
+          "size": 1136
+        },
+        {
+          "url": "https://dg5bepmjyhz9h.cloudfront.net/avatars/0da4cd711361448388680620aab0041e/2e73b208a1ce412d9300b00391cfa911.jpeg",
+          "width": 32,
+          "height": 32,
+          "size": 757
+        }
+      ],
+      "uri": "https://api.sketchfab.com/v3/avatars/0da4cd711361448388680620aab0041e"
+    }
+  },
+  "categories": [
+    {
+      "name": "Animals & Pets",
+      "uri": "https://api.sketchfab.com/v3/categories/ed9e048550b2478eb1ab2faaba192832",
+      "thumbnails": [
+        {
+          "url": "https://d1jlf623bx36qa.cloudfront.net/categories/ed9e048550b2478eb1ab2faaba192832/512x288.png",
+          "width": "512",
+          "height": "288"
+        },
+        {
+          "url": "https://d1jlf623bx36qa.cloudfront.net/categories/ed9e048550b2478eb1ab2faaba192832/800x450.png",
+          "width": "800",
+          "height": "450"
+        }
+      ],
+      "uid": "ed9e048550b2478eb1ab2faaba192832",
+      "slug": "animals-pets",
+      "icon": "https://d1jlf623bx36qa.cloudfront.net/static/builds/web/dist/animals-pets-d9a7c77f2ad04342d24342718acc8245.svg"
+    },
+    {
+      "name": "Cultural Heritage & History",
+      "uri": "https://api.sketchfab.com/v3/categories/86f23935367b4a1f9647c8a20e03d716",
+      "thumbnails": [
+        {
+          "url": "https://d1jlf623bx36qa.cloudfront.net/categories/86f23935367b4a1f9647c8a20e03d716/512x288.png",
+          "width": "512",
+          "height": "288"
+        },
+        {
+          "url": "https://d1jlf623bx36qa.cloudfront.net/categories/86f23935367b4a1f9647c8a20e03d716/800x450.png",
+          "width": "800",
+          "height": "450"
+        }
+      ],
+      "uid": "86f23935367b4a1f9647c8a20e03d716",
+      "slug": "cultural-heritage-history",
+      "icon": "https://d1jlf623bx36qa.cloudfront.net/static/builds/web/dist/cultural-heritage-history-9ee6a435bc4969f5766c9de119526ed3.svg"
+    },
+    {
+      "name": "Science & Technology",
+      "uri": "https://api.sketchfab.com/v3/categories/17d20ca7b35243d4a45171838b50704c",
+      "thumbnails": [
+        {
+          "url": "https://d1jlf623bx36qa.cloudfront.net/categories/17d20ca7b35243d4a45171838b50704c/512x288.png",
+          "width": "512",
+          "height": "288"
+        },
+        {
+          "url": "https://d1jlf623bx36qa.cloudfront.net/categories/17d20ca7b35243d4a45171838b50704c/800x450.png",
+          "width": "800",
+          "height": "450"
+        }
+      ],
+      "uid": "17d20ca7b35243d4a45171838b50704c",
+      "slug": "science-technology",
+      "icon": "https://d1jlf623bx36qa.cloudfront.net/static/builds/web/dist/science-technology-9429f980f2028c757a5612ec93cdf479.svg"
+    }
+  ],
+  "name": "Outer Coffin of the Lady Meret-it-es",
+  "animationCount": 0,
+  "thumbnails": {
+    "images": [
+      {
+        "url": "https://dg5bepmjyhz9h.cloudfront.net/urls/aeb5ad365ed142f18937ef142aa02274/dist/thumbnails/f15cc775c6db4f7681ec5478a77b8b8c/720x405.jpeg",
+        "width": 720,
+        "size": 55570,
+        "uid": "14195922b8084b79a63dcf568a433311",
+        "height": 405
+      },
+      {
+        "url": "https://dg5bepmjyhz9h.cloudfront.net/urls/aeb5ad365ed142f18937ef142aa02274/dist/thumbnails/f15cc775c6db4f7681ec5478a77b8b8c/256x144.jpeg",
+        "width": 256,
+        "size": 9508,
+        "uid": "5d868a575a6b42daa59d51de8c093288",
+        "height": 144
+      },
+      {
+        "url": "https://dg5bepmjyhz9h.cloudfront.net/urls/aeb5ad365ed142f18937ef142aa02274/dist/thumbnails/f15cc775c6db4f7681ec5478a77b8b8c/64x36.jpeg",
+        "width": 64,
+        "size": 1395,
+        "uid": "fbce10974a6e4de7816c9b3f6093479f",
+        "height": 36
+      }
+    ]
+  },
+  "license": {
+    "requirements": "Author must be credited. No commercial use. Modified versions can not be distributed.",
+    "url": "http://creativecommons.org/licenses/by-nc-nd/4.0/",
+    "uri": "https://api.sketchfab.com/v3/licenses/34b725081a6a4184957efaec2cb84ed3",
+    "label": "CC Attribution-NonCommercial-NoDerivs",
+    "fullName": "CC Attribution-NonCommercial-NoDerivs",
+    "slug": "by-nc-nd"
+  },
+  "editorUrl": "https://sketchfab.com/models/aeb5ad365ed142f18937ef142aa02274/edit",
+  "soundCount": 0,
+  "uri": "https://api.sketchfab.com/v3/models/aeb5ad365ed142f18937ef142aa02274",
+  "faceCount": 482589,
+  "downloadCount": 17
+}

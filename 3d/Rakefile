@@ -1,0 +1,48 @@
+require_relative '../lib/connection'
+require_relative '../lib/utilities'
+
+Dotenv.load
+SKETCHFAB_TOKEN = ENV.fetch('SKETCHFAB_TOKEN', '')
+
+task :default => ['sketchfab:download']
+
+namespace :sketchfab do
+
+  desc 'Download models from Sketchfab'
+  task download: :environment do
+
+    setup
+    connection = Connection.new
+    CSV.open('models.csv').each do |model|
+      res = connection.get("/v3/models/#{model[0]}")
+      metadata = res.body
+
+      ir = {
+        __source: metadata['uri'],
+        id: "sketchfab_#{model[0]}",
+        agg_data_provider: metadata['user']['displayName'],
+        agg_is_shown_at: { wr_id: metadata['viewerUrl'] },
+        agg_is_shown_by: {
+          wr_id: metadata["thumbnails"]["images"][0]["url"],
+          "wr_format": ["image/jpeg"]
+        },
+        agg_provider: 'Sketchfab',
+        cho_contributor: [metadata['user']['displayName']],
+        # cho_coverage: '', # looks like these are derived from tags?
+        cho_creator: [metadata['user']['displayName']],
+        cho_date: parse_date(metadata['publishedAt']),
+        cho_description: [metadata['description']],
+        cho_edm_type: ["3D Model"],
+        # "cho_spatial": ["Egypt"],
+        cho_title: [metadata['name']],
+        cho_dc_rights: [metadata['license']['fullName']]
+        # cho_type: merge_types()
+      }
+
+      File.open("records/#{model[0]}.json", "w") do |f|
+        puts "Adding model for #{metadata['name']}".green
+        f.write(ir.to_json)
+      end
+    end
+  end
+end
