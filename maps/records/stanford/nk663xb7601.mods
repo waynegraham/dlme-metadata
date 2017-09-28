@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="3.3" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-3.xsd">
+  <titleInfo>
+    <title>Walters Ms. W.674, Ottoman diploma in calligraphy</title>
+  </titleInfo>
+  <titleInfo type="alternative">
+    <title>Ijāzah</title>
+  </titleInfo>
+  <titleInfo type="alternative">
+    <title>اجازة</title>
+  </titleInfo>
+  <name type="personal">
+    <namePart>Muḥammad Ḥilmi Afandī</namePart>
+    <role>
+      <roleTerm authority="marcrelator" type="text">scribe</roleTerm>
+    </role>
+  </name>
+  <typeOfResource manuscript="yes">mixed material</typeOfResource>
+  <abstract>This manuscript is a diploma/certificate (ijāzah) granted to the Ottoman calligrapher Muḥammad Ḥilmī Afandī (Mehmet Hilmi Efendi) in 1219 AH / 1804-5 CE by four master calligraphers: Yāzījī-zādah, Ismāʿīl al-Zuhdī Kātib al-Sarāy al-Sulṭānī, Muḥammad Ḥasīb, and ʿAlī al-Waṣfī. The main text, consisting of a quotation attributed to the Prophet Muhammad and extolling the virtue of elegantly writing the doxological formula (basmalah), "in the name of God, the Compassionate, the Merciful," is executed in thuluth and naskh scripts. 
+        For full description, see http://www.thedigitalwalters.org/Data/WaltersManuscripts/html/W674/description.html</abstract>
+  <note displayLabel="Language">The primary language in this manuscript is Arabic.</note>
+  <language>
+    <languageTerm authority="iso639-2b" type="text">Arabic</languageTerm>
+  </language>
+  <relatedItem type="constituent">
+    <note displayLabel="Locus">fols. 1b - 2a</note>
+    <titleInfo>
+      <title>Ijāzah</title>
+    </titleInfo>
+    <titleInfo type="alternative">
+      <title>اجازة</title>
+    </titleInfo>
+    <note displayLabel="Catalog Note(s)">Main text consists of a quotation attributed to the Prophet Muhammad extolling the virtue of elegantly writing the doxological formula (basmalah), "in the name of God, the Compassionate, the Merciful"</note>
+  </relatedItem>
+  <physicalDescription>
+    <form type="material">paper</form>
+    <form type="material">Mounted on thin pasteboard</form>
+    <note displayLabel="Foliation Statement">Foliation: 2</note>
+    <note displayLabel="Dimensions">16.0 x 22.0cm</note>
+    <note displayLabel="Foliation"/>
+    <note displayLabel="Hand Note">Doxological formula (basmalah) written in thuluth script; quotation written in naskh script; diplomas/certificates written in ijāzah script</note>
+    <note displayLabel="Binding">Modern green goatskin (no flap)</note>
+    <digitalOrigin>reformatted digital</digitalOrigin>
+    <reformattingQuality>access</reformattingQuality>
+    <internetMediaType>image/jpeg</internetMediaType>
+    <internetMediaType>image/tiff</internetMediaType>
+  </physicalDescription>
+  <note displayLabel="Decoration Note">Richly decorated borders and areas around the text</note>
+  <note displayLabel="Decoration Note">fol. 1b  Page of an Ottoman diploma in calligraphy  Text page  This page bears the following inscription: Bi-sm Allāh al-Raḥmān al-Raḥim /1/ Qāla Rasūl Allāh ṣallá Allāh ʿalayhi wa-sallama /1/ man kataba /2/ bi-sm Allāh al-Raḥmān al-Raḥim wa-jawwadahu fa-lahu al-jannatu ṣadaqa Ḥabīb al-Ilāh [sic] /3/</note>
+  <note displayLabel="Decoration Note">fol. 2a  Page of an Ottoman diploma in calligraphy  Text page  This page bears four diplomas written within illuminated cartouches inscribed in ijāzah script by the following master calligraphers: Yāzījī zādah, Ismāʿīl al-Zuhdī Kātib al-Sarāy al-Sulṭānī, Muḥammad Ḥasīb, and ʿAlī al-Waṣfī. The page is dated 1219 AH / 1804-5 CE.</note>
+  <originInfo>
+    <place>
+      <placeTerm type="text">Turkey</placeTerm>
+    </place>
+    <dateCreated encoding="w3cdtf" keyDate="yes">1804</dateCreated>
+    <issuance>monographic</issuance>
+  </originInfo>
+  <note displayLabel="Date Note">1219 AH / 1804-5 CE</note>
+  <note displayLabel="Acquisition">Walters Art Museum, 1931, by Henry Walters bequest</note>
+  <location>
+    <physicalLocation>The Walters Art Museum, 600 North Charles Street, Baltimore MD 21201.</physicalLocation>
+    <shelfLocator>W.674</shelfLocator>
+  </location>
+  <recordInfo>
+    <languageOfCataloging>
+      <languageTerm authority="iso639-2b">eng</languageTerm>
+    </languageOfCataloging>
+    <recordContentSource authority="marcorg">CSt</recordContentSource>
+    <recordContentSource>Cataloger: Landau, Amy</recordContentSource>
+    <recordContentSource>Cataloger: Smith, Sita</recordContentSource>
+    <recordOrigin>Transformed from TEI from digitalwalters.org using custom xquery script.</recordOrigin>
+  </recordInfo>
+  <relatedItem type="host">
+    <titleInfo>
+      <title>Walters Manuscripts</title>
+    </titleInfo>
+    <identifier type="uri">http://purl.stanford.edu/ww121ss5000</identifier>
+    <typeOfResource collection="yes"/>
+  </relatedItem>
+  <accessCondition type="useAndReproduction">Licensed for use under Creative Commons Attribution-ShareAlike 3.0 Unported Access Rights, http://creativecommons.org/licenses/by-sa/3.0/legalcode. Images are free for any use, provided you follow the terms of this license. You do not need to apply to the Walters prior to using the images. We ask only that you cite the source of the images as the Walters Art Museum (see citation style at http://www.thedigitalwalters.org/03_ReadMe.html). Additionally, we request that a copy of any work created using these materials be sent to the Curator of Manuscripts and Rare Books at the Walters Art Museum, 600 N. Charles Street, Baltimore, MD 21201, mss-curator@thewalters.org.</accessCondition>
+  <accessCondition type="copyright">All Walters manuscript images and descriptions provided here are copyrighted © The Walters Art Museum.</accessCondition>
+  <accessCondition type="license">CC by-sa: Attribution-ShareAlike 3.0 Unported</accessCondition>
+</mods>

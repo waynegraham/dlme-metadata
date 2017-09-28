@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="3.3" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-3.xsd">
+  <titleInfo>
+    <title>Walters Ms. W.705, Single leaf of a portrait of the emperor Jahangir</title>
+  </titleInfo>
+  <titleInfo type="alternative">
+    <title>Portrait of the emperor Jahangir</title>
+  </titleInfo>
+  <typeOfResource manuscript="yes">mixed material</typeOfResource>
+  <abstract>This painting depicts the Mughal ruler Jahangir (r. 1014-1037 AH / 1605-27 CE), standing in three-quarter profile, a pose that was common in official Mughal portraiture. It is attributable to the thirteenth century AH / nineteenth CE. During that time, portraits of earlier Mughal rulers were copied and disseminated. This work is executed in opaque watercolor and gold. 
+        For full description, see http://www.thedigitalwalters.org/Data/WaltersManuscripts/html/W705/description.html</abstract>
+  <note displayLabel="Language">No linguistic content; Not applicable</note>
+  <language>
+    <languageTerm authority="iso639-2b" type="text">No linguistic content. Not applicable.</languageTerm>
+  </language>
+  <relatedItem type="constituent">
+    <note displayLabel="Locus">fols. W.705a - W.705b</note>
+    <titleInfo>
+      <title>Portrait of the emperor Jahangir</title>
+    </titleInfo>
+  </relatedItem>
+  <physicalDescription>
+    <form type="material">paper</form>
+    <form type="material">Brown paper</form>
+    <note displayLabel="Foliation Statement">Foliation: Not applicable</note>
+    <note displayLabel="Dimensions">20.5 x 16.5cm</note>
+    <note displayLabel="Foliation"/>
+    <note displayLabel="Layout: Notes">Image: 12.0 cm wide by 16.5 cm high</note>
+    <note displayLabel="Binding"/>
+    <digitalOrigin>reformatted digital</digitalOrigin>
+    <reformattingQuality>access</reformattingQuality>
+    <internetMediaType>image/jpeg</internetMediaType>
+    <internetMediaType>image/tiff</internetMediaType>
+  </physicalDescription>
+  <note displayLabel="Decoration Note">fol. W.705a  Portrait of the emperor Jahangir  Illustration  This painting depicts the Mughal ruler Jahangir (r. 1014-1037 AH / 1605-27 CE), standing in three-quarter profile, a pose that was common in official Mughal portraiture. It is attributable to the thirteenth century AH / nineteenth CE.</note>
+  <note displayLabel="Decoration Note">fol. W.705b  Portrait of the emperor Jahangir (back)  Back</note>
+  <originInfo>
+    <place>
+      <placeTerm type="text">India</placeTerm>
+    </place>
+    <dateCreated encoding="w3cdtf" keyDate="yes" point="start" qualifier="approximate">1825</dateCreated>
+    <dateCreated encoding="w3cdtf" point="end" qualifier="approximate">1875</dateCreated>
+    <dateCreated encoding="w3cdtf" keyDate="yes"/>
+    <issuance>monographic</issuance>
+  </originInfo>
+  <note displayLabel="Date Note">13th century AH / 19th CE</note>
+  <note displayLabel="Acquisition">Walters Art Museum, 1931, by Henry Walters bequest</note>
+  <location>
+    <physicalLocation>The Walters Art Museum, 600 North Charles Street, Baltimore MD 21201.</physicalLocation>
+    <shelfLocator>W.705</shelfLocator>
+  </location>
+  <recordInfo>
+    <languageOfCataloging>
+      <languageTerm authority="iso639-2b">eng</languageTerm>
+    </languageOfCataloging>
+    <recordContentSource authority="marcorg">CSt</recordContentSource>
+    <recordContentSource>Cataloger: Landau, Amy</recordContentSource>
+    <recordContentSource>Cataloger: Smith, Sita</recordContentSource>
+    <recordOrigin>Transformed from TEI from digitalwalters.org using custom xquery script.</recordOrigin>
+  </recordInfo>
+  <relatedItem type="host">
+    <titleInfo>
+      <title>Walters Manuscripts</title>
+    </titleInfo>
+    <identifier type="uri">http://purl.stanford.edu/ww121ss5000</identifier>
+    <typeOfResource collection="yes"/>
+  </relatedItem>
+  <accessCondition type="useAndReproduction">Licensed for use under Creative Commons Attribution-ShareAlike 3.0 Unported Access Rights, http://creativecommons.org/licenses/by-sa/3.0/legalcode. Images are free for any use, provided you follow the terms of this license. You do not need to apply to the Walters prior to using the images. We ask only that you cite the source of the images as the Walters Art Museum (see citation style at http://www.thedigitalwalters.org/03_ReadMe.html). Additionally, we request that a copy of any work created using these materials be sent to the Curator of Manuscripts and Rare Books at the Walters Art Museum, 600 N. Charles Street, Baltimore, MD 21201, mss-curator@thewalters.org.</accessCondition>
+  <accessCondition type="copyright">All Walters manuscript images and descriptions provided here are copyrighted © The Walters Art Museum.</accessCondition>
+  <accessCondition type="license">CC by-sa: Attribution-ShareAlike 3.0 Unported</accessCondition>
+</mods>

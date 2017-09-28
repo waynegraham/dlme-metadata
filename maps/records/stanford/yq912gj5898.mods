@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/mods/v3" version="3.4" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-4.xsd">
+  <titleInfo>
+    <title>Ægyptus Hodierna</title>
+    <subTitle>ex itinerario celeberrimi viri, Pauli Lucæ Franci desumpta, ac novissime</subTitle>
+  </titleInfo>
+  <titleInfo type="alternative">
+    <title>Heutige Ægypten</title>
+  </titleInfo>
+  <name type="personal" usage="primary">
+    <namePart>Homann, Johann Baptist</namePart>
+    <namePart type="date">1663-1724</namePart>
+  </name>
+  <typeOfResource>cartographic</typeOfResource>
+  <genre authority="marcgt">map</genre>
+  <originInfo>
+    <place>
+      <placeTerm type="code" authority="marccountry">gw</placeTerm>
+    </place>
+    <place>
+      <placeTerm type="text">Norimbergæ</placeTerm>
+    </place>
+    <publisher>[J.B. Homann</publisher>
+    <dateIssued>ca. 1720]</dateIssued>
+    <dateIssued encoding="marc">1720</dateIssued>
+    <issuance>monographic</issuance>
+  </originInfo>
+  <language>
+    <languageTerm authority="iso639-2b" type="code">lat</languageTerm>
+  </language>
+  <language objectPart="translation">
+    <languageTerm authority="iso639-2b" type="code">ger</languageTerm>
+  </language>
+  <physicalDescription>
+    <form authority="marccategory">map</form>
+    <form authority="marcsmd">map</form>
+    <extent>1 map : hand col. ; 47 x 56 cm.</extent>
+  </physicalDescription>
+  <note type="statement of responsibility" altRepGroup="00">repræsentata à Johanne Baptista Homann = das heutige Ægypten : aus der Reyssbeischreiburg des berühmten H.n Paul Lucas / gezogē, und mit folgenden Denkwurdigkeiten herausgegeben von Iohann Bapt. Homann.</note>
+  <note>Relief shown by hachures.</note>
+  <note>"Joannes Christophorus I.B. Homanni filius delineavit. Cum privilegio sac. cæs. majestatis."</note>
+  <note>Includes illustrations of Cataracts of the Nile, the Pyramids, tombs, various antiquities, scenes of embalming, and ancient furnaces.</note>
+  <subject>
+    <geographicCode authority="marcgac">f-ua---</geographicCode>
+  </subject>
+  <subject>
+    <cartographics>
+      <scale>Scale 1:2,300,000.</scale>
+    </cartographics>
+  </subject>
+  <subject authority="lcsh">
+    <geographic>Egypt</geographic>
+    <genre>Maps</genre>
+    <genre>Early works to 1800</genre>
+  </subject>
+  <recordInfo>
+    <descriptionStandard>aacr</descriptionStandard>
+    <recordContentSource authority="marcorg">INU</recordContentSource>
+    <recordCreationDate encoding="marc">051007</recordCreationDate>
+    <recordIdentifier source="SIRSI">a9275720</recordIdentifier>
+    <recordOrigin>Converted from MARCXML to MODS version 3.4 using MARC21slim2MODS3-4_SDR.xsl (Version 1.2.5 2013/08/11)</recordOrigin>
+  </recordInfo>
+  <accessCondition type="useAndReproduction">Image from the Map Collections courtesy Stanford University Libraries.  If you have questions, please contact the Branner Earth Science Library &amp; Map Collections at brannerlibrary@stanford.edu.</accessCondition>
+  <accessCondition type="copyright">Property rights reside with the repository. Copyright © Stanford University. All Rights Reserved.</accessCondition>
+  <accessCondition type="license">CC by-nc: Attribution Non-Commercial 3.0 Unported</accessCondition>
+</mods>

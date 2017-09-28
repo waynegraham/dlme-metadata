@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods:mods xmlns:xforms="http://www.w3.org/2002/xforms" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xxforms="http://orbeon.org/oxf/xml/xforms">
+  <mods:identifier type="local" displayLabel="Norwich ID">NOR 0299</mods:identifier>
+  <mods:titleInfo type="main">
+    <mods:title>Deserta Aegypti, Thebaidis, Arabia, Syriae, etc.</mods:title>
+  </mods:titleInfo>
+  <mods:originInfo>
+    <mods:dateCreated encoding="w3cdtf" keyDate="yes" qualifier="inferred">1725</mods:dateCreated>
+    <mods:place>
+      <mods:placeTerm type="text">Augsberg</mods:placeTerm>
+    </mods:place>
+    <mods:publisher>Seutter, Matthaeus, 1678-1756</mods:publisher>
+  </mods:originInfo>
+  <mods:physicalDescription>
+    <mods:extent>49.5 x 57 cm</mods:extent>
+  </mods:physicalDescription>
+  <mods:subject>
+    <mods:cartographics>
+      <mods:scale>No scale given</mods:scale>
+    </mods:cartographics>
+  </mods:subject>
+  <mods:subject authority="lcsh">
+    <mods:geographic authorityURI="http://id.loc.gov/authorities/subjects/sh85001569">Africa--Maps</mods:geographic>
+  </mods:subject>
+  <mods:subject>
+    <mods:geographic>Egypt</mods:geographic>
+  </mods:subject>
+  <mods:typeOfResource>cartographic</mods:typeOfResource>
+  <mods:name type="personal" authority="naf" xlink:href="http://id.loc.gov/authorities/names/n83052694">
+    <mods:namePart>Seutter, Matthaeus, 1678-1756</mods:namePart>
+    <mods:role>
+      <mods:roleTerm type="text" authority="marcrelator">creator</mods:roleTerm>
+    </mods:role>
+  </mods:name>
+  <mods:name type="personal" authority="naf" xlink:href="http://id.loc.gov/authorities/names/no2011131896">
+    <mods:namePart>Rogg, Gottfried, 1669-1742</mods:namePart>
+    <mods:role>
+      <mods:roleTerm type="text" authority="marcrelator">engraver</mods:roleTerm>
+    </mods:role>
+  </mods:name>
+  <mods:titleInfo type="translated">
+    <mods:title>Desert regions of Egypt, Sudan, Arabia, Syria, etc.</mods:title>
+  </mods:titleInfo>
+  <mods:note>Includes places of biblical interest . Also illustrated are Palestine "and places such as Jerusalem, Jericho, Ashkalond and Gaza."</mods:note>
+  <mods:note>Colored</mods:note>
+  <mods:note displayLabel="References" type="reference">Norwich, I., Pam Kolbe, and Jeffrey C Stone. Norwich's Maps of Africa: An Illustrated and Annotated Carto-Bibliography. 2nd ed. / rev. and edited by Jeffrey C. Stone. Norwich, Vt.: Terra Nova Press, 1997, map 0299, p. 339</mods:note>
+  <mods:note displayLabel="Provenance" type="provenance">Dr. Oscar I. Norwich</mods:note>
+  <mods:genre>map</mods:genre>
+  <mods:genre>Digital maps</mods:genre>
+  <mods:genre>Early maps (to 1800)</mods:genre>
+  <mods:relatedItem type="host">
+    <mods:titleInfo>
+      <mods:title>Dr. Oscar I. Norwich collection of maps of Africa and its islands, 1486 - ca. 1865</mods:title>
+    </mods:titleInfo>
+    <mods:location>
+      <mods:url>https://purl.stanford.edu/qb438pg7646</mods:url>
+    </mods:location>
+    <mods:typeOfResource collection="yes"/>
+  </mods:relatedItem>
+  <mods:accessCondition type="useAndReproduction">To obtain permission to publish or reproduce, please contact the Special Collections Public Services Librarian at speccollref@stanford.edu.</mods:accessCondition>
+  <mods:accessCondition type="copyright">Property rights reside with the repository. Copyright © Stanford University. All Rights Reserved.</mods:accessCondition>
+</mods:mods>

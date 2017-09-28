@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="3.3" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-3.xsd">
+  <titleInfo>
+    <title>Walters Ms. W.675, Single leaf from the Arabic version of Dioscorides' De materia medica</title>
+  </titleInfo>
+  <titleInfo type="alternative">
+    <title>De materia medica</title>
+  </titleInfo>
+  <name type="personal">
+    <namePart>Dioscorides Pedanius, of Anazarbos</namePart>
+    <role>
+      <roleTerm authority="marcrelator" type="text">author</roleTerm>
+    </role>
+  </name>
+  <name type="personal">
+    <namePart>ʿAbd Allāh ibn Faḍl</namePart>
+    <role>
+      <roleTerm authority="marcrelator" type="text">scribe</roleTerm>
+    </role>
+  </name>
+  <typeOfResource manuscript="yes">mixed material</typeOfResource>
+  <abstract>This is a single leaf from a dispersed manuscript (Aya Sofya 3703, later Top Kapi Seray 2147) of the Arabic version of De materia medica by Dioscorides (fl. ca. 65 CE) that was copied in 621 AH / 1224 CE in Baghdad. Approximately thirty illustrations were removed from this parent manuscript that are now in public and private collections. The Walters' leaf depicts two doctors preparing medicine. A funnel is set on a tripod over a vessel. The two men preparing the medicinal draught stand on either side of the tripod beside two fruit trees. The text is written in partially vocalized naskh script in brownish-black and red ink. 
+        For full description, see http://www.thedigitalwalters.org/Data/WaltersManuscripts/html/W675/description.html</abstract>
+  <note displayLabel="Language">The primary language in this manuscript is Arabic.</note>
+  <language>
+    <languageTerm authority="iso639-2b" type="text">Arabic</languageTerm>
+  </language>
+  <relatedItem type="constituent">
+    <note displayLabel="Locus">fols. W.675a - W.675b</note>
+    <titleInfo>
+      <title>De materia medica</title>
+    </titleInfo>
+  </relatedItem>
+  <physicalDescription>
+    <form type="material">paper</form>
+    <form type="material">Thick laid paper</form>
+    <note displayLabel="Foliation Statement">Foliation: Not applicable</note>
+    <note displayLabel="Dimensions">33.5 x 24.9cm</note>
+    <note displayLabel="Writing Block">24.0 x 17.0cm</note>
+    <note displayLabel="Foliation"/>
+    <note displayLabel="Layout: Columns">1</note>
+    <note displayLabel="Layout: Ruled Lines">13</note>
+    <note displayLabel="Hand Note">Written in partially vocalized naskh script in brownish-black and red ink</note>
+    <note displayLabel="Binding"/>
+    <digitalOrigin>reformatted digital</digitalOrigin>
+    <reformattingQuality>access</reformattingQuality>
+    <internetMediaType>image/jpeg</internetMediaType>
+    <internetMediaType>image/tiff</internetMediaType>
+  </physicalDescription>
+  <note displayLabel="Decoration Note">One illustration</note>
+  <note displayLabel="Decoration Note">fol. W.675a  Two doctors preparing medicine  Illustration  This illustration depicts two doctors preparing medicine. The text is written in partially vocalized naskh script in brownish-black and red ink.</note>
+  <note displayLabel="Decoration Note">fol. W.675b  Text page  Text page</note>
+  <originInfo>
+    <place>
+      <placeTerm type="text">Baghdad</placeTerm>
+    </place>
+    <dateCreated encoding="w3cdtf" keyDate="yes">1224</dateCreated>
+    <issuance>monographic</issuance>
+  </originInfo>
+  <note displayLabel="Date Note">[Rajab 621 AH / 1224 CE]</note>
+  <note displayLabel="Acquisition">Walters Art Museum, 1931, by Henry Walters bequest</note>
+  <location>
+    <physicalLocation>The Walters Art Museum, 600 North Charles Street, Baltimore MD 21201.</physicalLocation>
+    <shelfLocator>W.675</shelfLocator>
+  </location>
+  <relatedItem type="isReferencedBy">
+    <note type="citation/reference">Grube, E.J. "Materialien zum Dioskurides Arabicus." In Aus der Welt der islamischen Kunst. Festschrift für Ernst Kühnel zum 75. Geburtstag am 26. 10. 1957. Richard Ettinghausen, ed. (Berlin: Gebr. Mann, 1959), 176.</note>
+  </relatedItem>
+  <relatedItem type="isReferencedBy">
+    <note type="citation/reference">Buchthal, Hugo. "Early Islamic Miniatures from Baghdad." Journal of the Walters Art Gallery 5 (1942): 21, fig. 1; 24.</note>
+  </relatedItem>
+  <relatedItem type="isReferencedBy">
+    <note type="citation/reference">Grube, Ernst J. and Maria Alberta Fabris. Muslim Miniature Paintings from the XIII to XIX Century from Collections in the United States and Canada: Catalogue of the Exhibition. (Venezia: N. Pozza, 1962), 2-4.</note>
+  </relatedItem>
+  <relatedItem type="isReferencedBy">
+    <note type="citation/reference">Carey, Moya. "Al-Sufi and Son: Ibn al-Sufi's Poem on the Stars and its Prose Parent." Muqarnas 26 (2009): 183-204.</note>
+  </relatedItem>
+  <relatedItem type="isReferencedBy">
+    <note type="citation/reference">Rogers, Michael J. "Text and Illustrations: Dioscorides and the Illustrated Herbal in the Arab Tradition." In Arab Painting: Text and Image in Illustrated Arabic Manuscripts. Handbook of Oriental Studies. Anna Contadini, ed. (Boson: Brill, 2007), 41-47.</note>
+  </relatedItem>
+  <relatedItem type="isReferencedBy">
+    <note type="citation/reference">Day, Florence E. "The Mesopotamian Manuscripts of Dioscorides." Metropolitan Museum of Art Bulletin, New Series 8, no. 9 (1950): 274-280.</note>
+  </relatedItem>
+  <relatedItem type="isReferencedBy">
+    <note type="citation/reference">Buchthal, Hugo, Otto Kurz, and Richard Ettinghausen. "Supplementary Notes to K. Holter's Checklist of Islamic Illuminated Manuscripts before A.D. 1350." Ars Islamica 7, no. 2 (1940): 147-164.</note>
+  </relatedItem>
+  <relatedItem type="isReferencedBy">
+    <note type="citation/reference">Dimand, M. S. "Dated Specimens of Mohammedan Art in the Metropolitan Museum of Art Part II." Metropolitan Museum Studies 1, no. 2 (1929): 208-232.</note>
+  </relatedItem>
+  <relatedItem type="isReferencedBy">
+    <note type="citation/reference">Exhibition of Islamic Art at the de Young Museum, February 24 to March 22, 1937. Exhibition catalog. (San Francisco: de Young Museum, 1937), 26; nos. 19-22; fig. 19.</note>
+  </relatedItem>
+  <relatedItem type="isReferencedBy">
+    <note type="citation/reference">Touwaide, Alain. Farmacopea araba medievale: codice Ayasofia 3703. Milan: Antea Edizioni, 1992-93.</note>
+  </relatedItem>
+  <relatedItem type="isReferencedBy">
+    <note type="citation/reference">Atil, Esin. Art of the Arab World. Washington, D.C.: Smithsonian Institution, 1975.</note>
+  </relatedItem>
+  <relatedItem type="isReferencedBy">
+    <note type="citation/reference">Anet, Claude. "Exhibition of Persian Miniatures at the Musée des Arts Décoratifs, Paris I." Burlington Magazine for Connoisseurs 22, no. 115 (1912), fig. a.</note>
+  </relatedItem>
+  <recordInfo>
+    <languageOfCataloging>
+      <languageTerm authority="iso639-2b">eng</languageTerm>
+    </languageOfCataloging>
+    <recordContentSource authority="marcorg">CSt</recordContentSource>
+    <recordContentSource>Cataloger: Landau, Amy</recordContentSource>
+    <recordContentSource>Cataloger: Smith, Sita</recordContentSource>
+    <recordOrigin>Transformed from TEI from digitalwalters.org using custom xquery script.</recordOrigin>
+  </recordInfo>
+  <relatedItem type="host">
+    <titleInfo>
+      <title>Walters Manuscripts</title>
+    </titleInfo>
+    <identifier type="uri">http://purl.stanford.edu/ww121ss5000</identifier>
+    <typeOfResource collection="yes"/>
+  </relatedItem>
+  <accessCondition type="useAndReproduction">Licensed for use under Creative Commons Attribution-ShareAlike 3.0 Unported Access Rights, http://creativecommons.org/licenses/by-sa/3.0/legalcode. Images are free for any use, provided you follow the terms of this license. You do not need to apply to the Walters prior to using the images. We ask only that you cite the source of the images as the Walters Art Museum (see citation style at http://www.thedigitalwalters.org/03_ReadMe.html). Additionally, we request that a copy of any work created using these materials be sent to the Curator of Manuscripts and Rare Books at the Walters Art Museum, 600 N. Charles Street, Baltimore, MD 21201, mss-curator@thewalters.org.</accessCondition>
+  <accessCondition type="copyright">All Walters manuscript images and descriptions provided here are copyrighted © The Walters Art Museum.</accessCondition>
+  <accessCondition type="license">CC by-sa: Attribution-ShareAlike 3.0 Unported</accessCondition>
+</mods>

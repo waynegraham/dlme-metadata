@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/mods/v3" version="3.4" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-4.xsd">
+  <titleInfo>
+    <title>Modern sons of the Pharaohs</title>
+    <subTitle>a study of the manners and customs of the Copts of Egypt</subTitle>
+  </titleInfo>
+  <typeOfResource>text</typeOfResource>
+  <originInfo>
+    <place>
+      <placeTerm type="code" authority="marccountry">nyu</placeTerm>
+    </place>
+    <place>
+      <placeTerm type="text">London, New York, [etc.] Hodder and Stoughton</placeTerm>
+    </place>
+    <dateIssued>[1918]</dateIssued>
+    <issuance>monographic</issuance>
+  </originInfo>
+  <language>
+    <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+  </language>
+  <physicalDescription>
+    <form authority="marcform">print</form>
+    <extent>xvi, 355, [1] p. fold. front., plates, port. 23 cm.</extent>
+  </physicalDescription>
+  <tableOfContents>Book I. The People and their customs.--Book II. The people and their Oriental church. Their great dignitaries. Their social and political postion.</tableOfContents>
+  <note type="statement of responsibility" altRepGroup="00">by S. H. Leeder ... illustrated with photographs by the author, Alphonse Effendi Griess, James Scott, M. A., P. Dittrich, Cairo, and Lekegian, Cairo.</note>
+  <note type="bibliography">Bibliography: p. 347-348</note>
+  <subject authority="lcsh">
+    <name type="corporate">
+      <namePart>Coptic Church.</namePart>
+    </name>
+  </subject>
+  <subject authority="lcsh">
+    <topic>Copts</topic>
+  </subject>
+  <subject authority="lcsh">
+    <geographic>Egypt</geographic>
+    <topic>Social life and customs</topic>
+  </subject>
+  <classification authority="lcc">OT70.L4</classification>
+  <location>
+    <url displayLabel="electronic resource" usage="primary display">http://collections.stanford.edu/publicdomain/bin/ckey?994416</url>
+  </location>
+  <identifier type="lccn">18020021</identifier>
+  <recordInfo>
+    <recordContentSource authority="marcorg"/>
+    <recordCreationDate encoding="marc">780522</recordCreationDate>
+    <recordChangeDate encoding="iso8601">19910715000000.0</recordChangeDate>
+    <recordIdentifier>a994416</recordIdentifier>
+    <recordOrigin>Converted from MARCXML to MODS version 3.4 using MARC21slim2MODS3-4_SDR.xsl (Version 1.2.5 2013/08/11)</recordOrigin>
+  </recordInfo>
+  <accessCondition type="useAndReproduction">Property rights reside with the repository. Literary rights reside with the creators of the documents or their heirs. To obtain permission to access, publish or reproduce this content, please contact the Stanford Digital Repository (http://sdr.stanford.edu/contact).</accessCondition>
+</mods>
